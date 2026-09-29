@@ -5,7 +5,7 @@ title: Layout aerasi pembenihan lele
 aliases: [posisi aerasi telur, aerasi bak pijah]
 created: 2026-09-29
 updated: 2026-09-30
-revision: 5
+revision: 6
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -32,18 +32,18 @@ Posisi aerasi **beda per fase**: pemijahan ringan; penetasan halus dekat kakaban
 
 ### Bak pemijahan induk
 
-- **1 titik** di sudut/sisi, atau **2 titik** sisi berlawanan (gelembung kecil); jangan arahkan ke kakaban ([layout-aerasi v1](../sources/layout-aerasi-v1.md) raw 6–8).
-- Permukaan bergerak pelan; bak ~2×3 m: **1–2 batu aerasi kecil** (raw 11).
+- **1 titik** di sudut/sisi, atau **2 titik** sisi berlawanan (gelembung kecil); jangan arahkan ke kakaban ([Layout aerasi v1](../sources/layout-aerasi-v1.md) — raw baris 6–8).
+- Permukaan bergerak pelan; bak ~2×3 m: **1–2 batu aerasi kecil** ([Layout aerasi v1](../sources/layout-aerasi-v1.md) — raw baris 11).
 
 ### Bak penetasan telur
 
-- Kakaban **memanjang**; aerasi **bawah-samping** ~**10–20 cm** dari media; gelembung halus (raw 16–20).
-- Bak persegi panjang: **1 garis kakaban tengah**; **1–2 aerasi kiri-kanan bawah**; hindari semburan keras tepat bawah telur (raw 22–25).
-- Bak kecil/akuarium: **1 batu di ujung** (raw 27–29).
+- Kakaban **memanjang**; aerasi **bawah-samping** ~**10–20 cm** dari media; gelembung halus ([Layout aerasi v1](../sources/layout-aerasi-v1.md) — raw baris 16–20).
+- Bak persegi panjang: **1 garis kakaban tengah**; **1–2 aerasi kiri-kanan bawah**; hindari semburan keras tepat bawah telur ([Layout aerasi v1](../sources/layout-aerasi-v1.md) — raw baris 22–25).
+- Bak kecil/akuarium: **1 batu di ujung** ([Layout aerasi v1](../sources/layout-aerasi-v1.md) — raw baris 27–29).
 
 ### Bak larva
 
-- Aerasi **pinggir/sudut**, bukan tengah padat; bak panjang **2 titik** kedua sisi; **tengah tenang** (raw 34–38).
+- Aerasi **pinggir/sudut**, bukan tengah padat; bak panjang **2 titik** kedua sisi; **tengah tenang** ([Layout aerasi v1](../sources/layout-aerasi-v1.md) — raw baris 34–38).
 
 ### Prinsip & indikator
 
@@ -53,13 +53,13 @@ Posisi aerasi **beda per fase**: pemijahan ringan; penetasan halus dekat kakaban
 | Larva | merata, arus lembut |
 | Induk pijah | ringan, kualitas air |
 
-Tanda **terlalu kuat:** telur lepas/rusak; larva melawan arus; permukaan bergolak; induk gelisah. **Pas:** gerak lembut, tidak ada titik mati, telur/larva normal (raw 45–55).
+Tanda **terlalu kuat:** telur lepas/rusak; larva melawan arus; permukaan bergolak; induk gelisah. **Pas:** gerak lembut, tidak ada titik mati, telur/larva normal ([Layout aerasi v1](../sources/layout-aerasi-v1.md) — raw baris 45–55).
 
 ### Patokan cepat (persegi panjang)
 
-- **Telur:** kakaban tengah; aerasi kiri bawah + kanan bawah (raw 59–61).
-- **Larva:** aerasi dua ujung samping; tengah tenang (raw 63–65).
-- **Bulat/fiber:** aerasi di dinding, bukan pusat (raw 67–68).
+- **Telur:** kakaban tengah; aerasi kiri bawah + kanan bawah ([Layout aerasi v1](../sources/layout-aerasi-v1.md) — raw baris 59–61).
+- **Larva:** aerasi dua ujung samping; tengah tenang ([Layout aerasi v1](../sources/layout-aerasi-v1.md) — raw baris 63–65).
+- **Bulat/fiber:** aerasi di dinding, bukan pusat ([Layout aerasi v1](../sources/layout-aerasi-v1.md) — raw baris 67–68).
 
 ### Debit & flow (sintesis web — hatch unit)
 
@@ -77,7 +77,7 @@ Dari [aerasi-kolam v1](../sources/aerasi-kolam-v1.md) (desain telur/larva):
 |-------|-------------|
 | Blower | **20–40 L/menit udara** (0,5–1 L/100 L); contoh setup **40 L/menit**, **4** batu, selang 6 mm, 24 jam |
 | Titik aerasi | **4–6** diffuser; **±20–30 cm** dari kakaban (selaras 10–20 cm layout-aerasi, beda redaksi) |
-| Layout | 4 kakaban; batu di sisi, bukan tepat bawah kakaban (sketsa raw ~59–71) |
+| Layout | 4 kakaban; batu di sisi, bukan tepat bawah kakaban ([Aerasi kolam v1](../sources/aerasi-kolam-v1.md) — sketsa raw baris ~59–71) |
 | Ganti air telur | **0–5%/hari** (0–2 h); **5–10%** (3–5 h/menetas); larva **10–20%/hari** (5–14 h) |
 | Flow-through (opsi) | **1–2% volume/jam** → **30–60 L/jam** (~0,5–1 L/menit **air**) untuk 3.000 L |
 | Pompa celup | **300–500 L/jam**, intermittent 10–15 menit/jam atau sifon manual |

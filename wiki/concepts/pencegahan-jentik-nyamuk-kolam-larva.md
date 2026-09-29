@@ -24,11 +24,11 @@ Nyamuk bertelur di permukaan air tenang. Kolam larva lele dicegah dengan aerasi 
 
 ## Penjelasan
 
-**Pencegahan:** aerasi halus (permukaan bergerak); paranet/kasa/jaring halus; ganti air sebagian rutin; bersihkan sudut, lipatan terpal, pinggiran bak; hilangkan genangan di sekitar (ember, talang); jangan pakan berlebih ([sumber v1](../sources/agar-kolam-tidak-memilii-jentik-nyamuk-v1.md) raw 1–10).
+**Pencegahan:** aerasi halus (permukaan bergerak); paranet/kasa/jaring halus; ganti air sebagian rutin; bersihkan sudut, lipatan terpal, pinggiran bak; hilangkan genangan di sekitar (ember, talang); jangan pakan berlebih ([Agar kolam tidak memiliki jentik nyamuk v1](../sources/agar-kolam-tidak-memilii-jentik-nyamuk-v1.md) — raw baris 1–10).
 
-**Jika jentik sudah ada:** serok halus pagi/sore; tingkatkan aerasi; siphon/ganti sebagian; bak kecil bisa kuras ringan + isi air endap (raw 12–15).
+**Jika jentik sudah ada:** serok halus pagi/sore; tingkatkan aerasi; siphon/ganti sebagian; bak kecil bisa kuras ringan + isi air endap ([Agar kolam tidak memiliki jentik nyamuk v1](../sources/agar-kolam-tidak-memilii-jentik-nyamuk-v1.md) — raw baris 12–15).
 
-**Larangan:** insektisida/obat nyamuk di kolam larva—larva sensitif (raw 17).
+**Larangan:** insektisida/obat nyamuk di kolam larva—larva sensitif ([Agar kolam tidak memiliki jentik nyamuk v1](../sources/agar-kolam-tidak-memilii-jentik-nyamuk-v1.md) — raw baris 17).
 
 ## Bukti dan sumber
 

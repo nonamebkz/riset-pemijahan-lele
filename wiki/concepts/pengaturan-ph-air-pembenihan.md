@@ -28,8 +28,8 @@ Untuk pemijahan/penetasan lele, jika pH **~6,5–8 dan stabil**, kedua sumber ra
 
 ### Prinsip umum
 
-- Telur/larva rentan **perubahan mendadak** ([menurunkan-ph v1](../sources/cara-menurunkan-ph-v1.md) raw 1–2).
-- Olah/kondisioning air **sebelum** masuk kolam ([menaikan-ph v1](../sources/cara-menaikan-ph-v1.md) raw 1).
+- Telur/larva rentan **perubahan mendadak** ([Cara menurunkan pH v1](../sources/cara-menurunkan-ph-v1.md) — raw baris 1–2).
+- Olah/kondisioning air **sebelum** masuk kolam ([Cara menaikkan pH v1](../sources/cara-menaikan-ph-v1.md) — raw baris 1).
 - Patokan rentang: selaras [Parameter kualitas air lele](parameter-kualitas-air-lele.md).
 
 ### Menaikkan pH

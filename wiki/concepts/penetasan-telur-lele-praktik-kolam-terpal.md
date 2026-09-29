@@ -5,7 +5,7 @@ title: Penetasan telur lele — praktik kolam terpal
 aliases: [aerasi telur lele, media telur lele, kakaban telur lele]
 created: 2026-09-29
 updated: 2026-09-30
-revision: 11
+revision: 12
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -57,8 +57,8 @@ Penetasan aman menekankan **air stabil**, **aerasi halus**, **telur tidak padat/
 - **Penempatan telur** — kakaban menggantung atau sedikit terendam rata; tidak tumpuk tebal ([Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md) — raw baris 20–23; [Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md) — raw baris 5–6).
 - **Aerasi** — kecil/halus kontinu; DO penetasan usahakan ~**5 mg/L** ([Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md) — raw baris 7–8; [Pembahasan kolam terpal v1](../sources/pembahasan-kolam-terpal-dan-pemijahan-v1.md)); posisi **samping/bawah kakaban** ~10–20 cm, kakaban memanjang → [Layout aerasi pembenihan lele](layout-aerasi-pembenihan-lele.md) ([Layout aerasi v1](../sources/layout-aerasi-v1.md)).
 - **Air sungai/olah** — hanya setelah olahan/tampung/endap ([Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md) — raw baris 9; [Pembahasan kolam terpal v1](../sources/pembahasan-kolam-terpal-dan-pemijahan-v1.md); [Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md) — endap 12–24 jam).
-- **Seleksi telur** — [Seleksi dan ciri telur lele](seleksi-dan-ciri-telur-lele.md); buang telur mati/jamur ([Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md); [Membedakan telur v1](../sources/membedakan-telur-v1.md); [Deep research pemijahan lele v1](../sources/deep-research-pemijahan-lele-v1.md) — §10). [Cara cepat menetaskan telur v1](../sources/cara-cepat-menetaskan-telur-v1.md): buang putih/mati **12–24 jam** — selaras MB opsional vs larangan obat (lihat Pertentangan).
-- **Mempercepat aman** — stabilkan **28–30 °C** (±≤2 °C/hari); DO >5 dengan arus halus → [Kalibrasi DO dan blower](kalibrasi-do-dan-blower-pembenihan-lele.md); kakaban tidak padat; inkubasi terpisah ([Cara cepat menetaskan telur v1](../sources/cara-cepat-menetaskan-telur-v1.md) — §6).
+- **Seleksi telur** — [Seleksi dan ciri telur lele](seleksi-dan-ciri-telur-lele.md); buang telur mati/jamur ([Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md); [Membedakan telur v1](../sources/membedakan-telur-v1.md); [Deep research pemijahan lele v1](../sources/deep-research-pemijahan-lele-v1.md) — raw §10). [Cara cepat menetaskan telur v1](../sources/cara-cepat-menetaskan-telur-v1.md): buang putih/mati **12–24 jam** — selaras MB opsional vs larangan obat (lihat Pertentangan).
+- **Mempercepat aman** — stabilkan **28–30 °C** (±≤2 °C/hari); DO >5 dengan arus halus → [Kalibrasi DO dan blower](kalibrasi-do-dan-blower-pembenihan-lele.md); kakaban tidak padat; inkubasi terpisah ([Cara cepat menetaskan telur v1](../sources/cara-cepat-menetaskan-telur-v1.md) — raw baris/§6 inkubasi terpisah).
 - **Methylene blue** — [Methylene blue pada inkubasi telur lele](methylene-blue-pada-inkubasi-telur-lele.md). Ringkas: **2–5 ppm** ([Methylene blue v1](../sources/methylene-blue-v1.md)); **tidak** mempercepat menetas. Bentrok: [Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md) / [Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md) vs [Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md) vs [Deep research v1](../sources/deep-research-pemijahan-lele-v1.md).
 - **Lingkungan** — teduh; hindari matahari/hujan/getaran ([Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md) — raw baris 30–32).
 - **Kepadatan** — jangan terlalu tinggi agar O₂ cukup ([Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md) — raw baris 46).

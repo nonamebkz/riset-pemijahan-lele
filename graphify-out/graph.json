@@ -3590,6 +3590,61 @@
       "norm_label": "validasi"
     },
     {
+      "label": "job-20260930-maintain-004.md",
+      "file_type": "document",
+      "source_file": "state/jobs/job-20260930-maintain-004.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "state_jobs_job_20260930_maintain_004",
+      "community": 122,
+      "community_name": "Job maintain \u2014 job-20260930-maintain-004",
+      "norm_label": "job-20260930-maintain-004.md"
+    },
+    {
+      "label": "Job maintain \u2014 job-20260930-maintain-004",
+      "file_type": "document",
+      "source_file": "state/jobs/job-20260930-maintain-004.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "state_jobs_job_20260930_maintain_004_job_maintain_job_20260930_maintain_004",
+      "community": 122,
+      "community_name": "Job maintain \u2014 job-20260930-maintain-004",
+      "norm_label": "job maintain \u2014 job-20260930-maintain-004"
+    },
+    {
+      "label": "Tujuan",
+      "file_type": "document",
+      "source_file": "state/jobs/job-20260930-maintain-004.md",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "state_jobs_job_20260930_maintain_004_tujuan",
+      "community": 122,
+      "community_name": "Job maintain \u2014 job-20260930-maintain-004",
+      "norm_label": "tujuan"
+    },
+    {
+      "label": "Berkas diubah (utama)",
+      "file_type": "document",
+      "source_file": "state/jobs/job-20260930-maintain-004.md",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "state_jobs_job_20260930_maintain_004_berkas_diubah_utama",
+      "community": 122,
+      "community_name": "Job maintain \u2014 job-20260930-maintain-004",
+      "norm_label": "berkas diubah (utama)"
+    },
+    {
+      "label": "Validasi",
+      "file_type": "document",
+      "source_file": "state/jobs/job-20260930-maintain-004.md",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "state_jobs_job_20260930_maintain_004_validasi",
+      "community": 122,
+      "community_name": "Job maintain \u2014 job-20260930-maintain-004",
+      "norm_label": "validasi"
+    },
+    {
       "label": "sources.md",
       "file_type": "document",
       "source_file": "state/sources.md",
@@ -4415,15 +4470,15 @@
       "norm_label": "indikator \u00abjangan angkat\u00bb vs \u00abselesai\u00bb"
     },
     {
-      "label": "Contoh timeline lapangan (raw)",
+      "label": "Contoh timeline lapangan ([Estimasi waktu kawin v1](../sources/estimasi-waktu-kawin-v1.md))",
       "file_type": "document",
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
       "source_location": "L52",
       "_origin": "ast",
-      "id": "wiki_concepts_durasi_dan_indikator_pemijahan_lele_kakaban_terpal_contoh_timeline_lapangan_raw",
+      "id": "wiki_concepts_durasi_dan_indikator_pemijahan_lele_kakaban_terpal_contoh_timeline_lapangan_estimasi_waktu_kawin_v1_sources_estimasi_waktu_kawin_v1_md",
       "community": 41,
       "community_name": "info pemindahan induk.md",
-      "norm_label": "contoh timeline lapangan (raw)"
+      "norm_label": "contoh timeline lapangan ([estimasi waktu kawin v1](../sources/estimasi-waktu-kawin-v1.md))"
     },
     {
       "label": "Risiko timing",
@@ -4624,15 +4679,15 @@
       "norm_label": "penjelasan"
     },
     {
-      "label": "Target DO (raw blower)",
+      "label": "Target DO ([Kalibrasi DO dan blower v1](../sources/blower-v1.md))",
       "file_type": "document",
       "source_file": "wiki/concepts/kalibrasi-do-dan-blower-pembenihan-lele.md",
       "source_location": "L29",
       "_origin": "ast",
-      "id": "wiki_concepts_kalibrasi_do_dan_blower_pembenihan_lele_target_do_raw_blower",
+      "id": "wiki_concepts_kalibrasi_do_dan_blower_pembenihan_lele_target_do_kalibrasi_do_dan_blower_v1_sources_blower_v1_md",
       "community": 32,
       "community_name": "Kalibrasi DO dan blower pembenihan lele",
-      "norm_label": "target do (raw blower)"
+      "norm_label": "target do ([kalibrasi do dan blower v1](../sources/blower-v1.md))"
     },
     {
       "label": "Pengukuran",
@@ -7064,6 +7119,17 @@
       "community": 19,
       "community_name": "Log Kegiatan",
       "norm_label": "2026-09-30 \u2014 job-20260930-ingest-scan"
+    },
+    {
+      "label": "2026-09-30 \u2014 job-20260930-maintain-004",
+      "file_type": "document",
+      "source_file": "wiki/log.md",
+      "source_location": "L152",
+      "_origin": "ast",
+      "id": "wiki_log_2026_09_30_job_20260930_maintain_004",
+      "community": 19,
+      "community_name": "Log Kegiatan",
+      "norm_label": "2026-09-30 \u2014 job-20260930-maintain-004"
     },
     {
       "label": "aerasi-kolam-v1.md",
@@ -12240,6 +12306,50 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
+      "source_file": "state/jobs/job-20260930-maintain-004.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "state_jobs_job_20260930_maintain_004",
+      "target": "state_jobs_job_20260930_maintain_004_job_maintain_job_20260930_maintain_004",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "state/jobs/job-20260930-maintain-004.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "state_jobs_job_20260930_maintain_004_job_maintain_job_20260930_maintain_004",
+      "target": "state_jobs_job_20260930_maintain_004_berkas_diubah_utama",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "state/jobs/job-20260930-maintain-004.md",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "state_jobs_job_20260930_maintain_004_job_maintain_job_20260930_maintain_004",
+      "target": "state_jobs_job_20260930_maintain_004_tujuan",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "state/jobs/job-20260930-maintain-004.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "state_jobs_job_20260930_maintain_004_job_maintain_job_20260930_maintain_004",
+      "target": "state_jobs_job_20260930_maintain_004_validasi",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
       "source_file": "state/sources.md",
       "source_location": "L1",
       "weight": 1.0,
@@ -13620,7 +13730,7 @@
       "weight": 1.0,
       "_origin": "ast",
       "source": "wiki_concepts_durasi_dan_indikator_pemijahan_lele_kakaban_terpal_penjelasan",
-      "target": "wiki_concepts_durasi_dan_indikator_pemijahan_lele_kakaban_terpal_contoh_timeline_lapangan_raw",
+      "target": "wiki_concepts_durasi_dan_indikator_pemijahan_lele_kakaban_terpal_contoh_timeline_lapangan_estimasi_waktu_kawin_v1_sources_estimasi_waktu_kawin_v1_md",
       "confidence_score": 1.0
     },
     {
@@ -14126,7 +14236,7 @@
       "weight": 1.0,
       "_origin": "ast",
       "source": "wiki_concepts_kalibrasi_do_dan_blower_pembenihan_lele_penjelasan",
-      "target": "wiki_concepts_kalibrasi_do_dan_blower_pembenihan_lele_target_do_raw_blower",
+      "target": "wiki_concepts_kalibrasi_do_dan_blower_pembenihan_lele_target_do_kalibrasi_do_dan_blower_v1_sources_blower_v1_md",
       "confidence_score": 1.0
     },
     {
@@ -16685,7 +16795,7 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "source_file": "wiki/concepts/rantai-pengolahan-air-sungai-pembenihan.md",
-      "source_location": "L35",
+      "source_location": "L27",
       "weight": 1.0,
       "_origin": "ast",
       "source": "wiki_concepts_rantai_pengolahan_air_sungai_pembenihan",
@@ -17823,6 +17933,17 @@
       "_origin": "ast",
       "source": "wiki_log_log_kegiatan",
       "target": "wiki_log_2026_09_30_job_20260930_maintain_003",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/log.md",
+      "source_location": "L152",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "wiki_log_log_kegiatan",
+      "target": "wiki_log_2026_09_30_job_20260930_maintain_004",
       "confidence_score": 1.0
     },
     {
@@ -19719,5 +19840,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "0212ae4b04b6cbc3b43773eb7b0e38c3b012efbc"
+  "built_at_commit": "3238e6503b7c4f6874b90e247f5fbf4c44c9573f"
 }

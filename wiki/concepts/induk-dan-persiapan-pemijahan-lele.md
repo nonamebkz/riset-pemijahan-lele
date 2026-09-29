@@ -5,7 +5,7 @@ title: Induk dan persiapan pemijahan lele
 aliases: [seleksi induk lele, induk siap pijah]
 created: 2026-09-29
 updated: 2026-09-30
-revision: 8
+revision: 9
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -85,7 +85,7 @@ Setelah dipijahkan, induk dipisah dan dipulihkan: pakan berkualitas tinggi dan a
 - **Rasio:** spesifikasi **1:1** pasangan vs hasil-riset alami **1:2–1:3** (jantan:betina).
 - Umur/bobot «dumbo» di [Hasil riset 1 v1](../sources/hasil-riset-1-v1.md) berkualitas campuran (indikator saja).
 - **Puasa:** 1 hari (spesifikasi) vs 1–2 hari (striping sintesis).
-- **Jadwal alami:** sore/malam + hari berikutnya (hasil-riset-3) vs tidak eksplisit di spesifikasi wiki.
+- **Jadwal alami:** sore/malam + hari berikutnya ([Hasil riset 3 v1](../sources/hasil-riset-3-v1.md)) vs tidak eksplisit di [Spesifikasi pemijahan lele v1](../sources/spesifikasi-pemijahan-lele-v1.md).
 
 ## Pertanyaan terbuka
 

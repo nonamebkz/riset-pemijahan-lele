@@ -5,7 +5,7 @@ title: Seleksi dan ciri telur lele
 aliases: [telur bagus dan jelek, telur terbuahi]
 created: 2026-09-29
 updated: 2026-09-29
-revision: 1
+revision: 2
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -24,33 +24,33 @@ source_refs:
 
 ## Ringkasan
 
-Telur **bagus** cenderung jernih/kekuningan, utuh, berembrio; **jelek** putih susu/keruh, jamur, busuk. Bersihkan telur gagal agar jamur tidak menyebar; evaluasi kombinasi **warna + embrio + jamur**, bukan waktu menetas saja ([deep-research v1](../sources/deep-research-pemijahan-lele-v1.md) raw 130–138).
+Telur **bagus** cenderung jernih/kekuningan, utuh, berembrio; **jelek** putih susu/keruh, jamur, busuk. Bersihkan telur gagal agar jamur tidak menyebar; evaluasi kombinasi **warna + embrio + jamur**, bukan waktu menetas saja ([Deep research pemijahan lele v1](../sources/deep-research-pemijahan-lele-v1.md) — raw baris 130–138).
 
 ## Penjelasan
 
 ### Telur bagus ([membedakan-telur v1](../sources/membedakan-telur-v1.md))
 
-- Bening kekuningan/cerah; bulat utuh; menempel baik di kakaban (raw 3–8).
-- Tanda embrio/perkembangan (raw 7–8).
+- Bening kekuningan/cerah; bulat utuh; menempel baik di kakaban ([Membedakan telur v1](../sources/membedakan-telur-v1.md) — raw baris 3–8).
+- Tanda embrio/perkembangan ([Membedakan telur v1](../sources/membedakan-telur-v1.md) — raw baris 7–8).
 
 ### Telur jelek / gagal
 
-- Putih susu, pucat, keruh; pecah/lembek; jamur bulu putih; tidak berkembang; busuk (raw 10–15).
-- Patokan praktis: bening/kekuningan vs putih susu/keruh (raw 17–19).
+- Putih susu, pucat, keruh; pecah/lembek; jamur bulu putih; tidak berkembang; busuk ([Membedakan telur v1](../sources/membedakan-telur-v1.md) — raw baris 10–15).
+- Patokan praktis: bening/kekuningan vs putih susu/keruh ([Membedakan telur v1](../sources/membedakan-telur-v1.md) — raw baris 17–19).
 
 ### Pemeriksaan di bak
 
-- Senter dari samping; prioritaskan telur yang memutih dulu (raw 21–24).
+- Senter dari samping; prioritaskan telur yang memutih dulu ([Membedakan telur v1](../sources/membedakan-telur-v1.md) — raw baris 21–24).
 - Selaras [saran-penetasan v1](../sources/saran-penetasan-telur-v1.md) — pisahkan telur putih susu/keruh.
 
 ### Penyebab umum telur jelek
 
-Tidak terbuahi; induk kurang; air/oksigen jelek; kotoran; aerasi lemah atau terlalu keras (raw 26–31).
+Tidak terbuahi; induk kurang; air/oksigen jelek; kotoran; aerasi lemah atau terlalu keras ([Membedakan telur v1](../sources/membedakan-telur-v1.md) — raw baris 26–31).
 
 ## Bukti dan sumber
 
 - [Membedakan telur v1](../sources/membedakan-telur-v1.md)
-- [Deep research pemijahan lele v1](../sources/deep-research-pemijahan-lele-v1.md) (§10)
+- [Deep research pemijahan lele v1](../sources/deep-research-pemijahan-lele-v1.md) (raw §10 / seleksi telur)
 - [Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md)
 
 ## Hubungan
@@ -60,7 +60,7 @@ Tidak terbuahi; induk kurang; air/oksigen jelek; kotoran; aerasi lemah atau terl
 
 ## Pertentangan dan ketidakpastian
 
-- Deep-research menekankan embrio + jamur, tidak hanya warna (raw 132–133).
+- Deep-research menekankan embrio + jamur, tidak hanya warna ([Deep research pemijahan lele v1](../sources/deep-research-pemijahan-lele-v1.md) — raw baris 132–133).
 
 ## Pertanyaan terbuka
 

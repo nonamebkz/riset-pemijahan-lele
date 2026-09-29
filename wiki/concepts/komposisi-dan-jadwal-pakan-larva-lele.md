@@ -5,7 +5,7 @@ title: Komposisi dan jadwal pakan larva lele
 aliases: [feeding schedule larva, artemia larva lele]
 created: 2026-09-29
 updated: 2026-09-29
-revision: 3
+revision: 4
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -36,18 +36,18 @@ Kebutuhan pakan larva berubah cepat menurut umur. Sumber komposisi merinci targe
 
 | Umur | Pakan & nutrisi (sumber utama) |
 |------|--------------------------------|
-| 0–2 hari | Tidak perlu pakan; kuning telur ([komposisi v1](../sources/komposisi-pakan-larva-lele-v1.md) raw 3–5) |
-| 2–7 hari | Artemia, cacing sutra, pakan larva halus; protein **40–50%**, lemak **8–12%**, serat **maks 3–5%** (raw 7–14) |
-| 7–14 hari | Pakan buatan rutin protein **38–45%**; kombinasi cacing sutra (raw 16–23) |
-| 14+ hari | Crumble/pelet starter protein **35–40%**, lemak **6–10%** (raw 25–31) |
+| 0–2 hari | Tidak perlu pakan; kuning telur ([Komposisi pakan larva lele v1](../sources/komposisi-pakan-larva-lele-v1.md) — raw baris 3–5) |
+| 2–7 hari | Artemia, cacing sutra, pakan larva halus; protein **40–50%**, lemak **8–12%**, serat **maks 3–5%** ([Komposisi pakan larva lele v1](../sources/komposisi-pakan-larva-lele-v1.md) — raw baris 7–14) |
+| 7–14 hari | Pakan buatan rutin protein **38–45%**; kombinasi cacing sutra ([Komposisi pakan larva lele v1](../sources/komposisi-pakan-larva-lele-v1.md) — raw baris 16–23) |
+| 14+ hari | Crumble/pelet starter protein **35–40%**, lemak **6–10%** ([Komposisi pakan larva lele v1](../sources/komposisi-pakan-larva-lele-v1.md) — raw baris 25–31) |
 
-**Frekuensi:** sedikit tapi **4–6 kali/hari**; pakan halus, tenggelam pelan; jangan berlebihan (raw 48–52).
+**Frekuensi:** sedikit tapi **4–6 kali/hari**; pakan halus, tenggelam pelan; jangan berlebihan ([Komposisi pakan larva lele v1](../sources/komposisi-pakan-larva-lele-v1.md) — raw baris 48–52).
 
-**Racikan contoh (opsional):** tepung ikan 50–60%, rebon 10–15%, kedelai halus 10–15%, kuning telur 5–10%, premix (raw 33–46).
+**Racikan contoh (opsional):** tepung ikan 50–60%, rebon 10–15%, kedelai halus 10–15%, kuning telur 5–10%, premix ([Komposisi pakan larva lele v1](../sources/komposisi-pakan-larva-lele-v1.md) — raw baris 33–46).
 
 **Selaras sumber lain:** mulai pakan halus setelah kuning telur — hari **2–3** ([spesifikasi v1](../sources/spesifikasi-pemijahan-lele-v1.md), [telur-lele v1](../sources/cara-merawat-telur-lele-v1.md), [saran-penetasan v1](../sources/saran-penetasan-telur-v1.md)).
 
-**Kanibalisme ([deep-research v1](../sources/deep-research-pemijahan-lele-v1.md) §13):** keterlambatan pakan awal meningkatkan kanibalisme; satu referensi dalam dokumen menekankan pakan sekitar **36 jam setelah menetas**—beda framing dengan «2–3 hari kuning telur»; rencanakan pakan hidup/halus, kepadatan, dan frekuensi sebelum menetas.
+**Kanibalisme ([Deep research pemijahan lele v1](../sources/deep-research-pemijahan-lele-v1.md) — raw §13 / baris terkait kanibalisme):** keterlambatan pakan awal meningkatkan kanibalisme; satu referensi dalam dokumen menekankan pakan sekitar **36 jam setelah menetas**—beda framing dengan «2–3 hari kuning telur»; rencanakan pakan hidup/halus, kepadatan, dan frekuensi sebelum menetas.
 
 ### Alternatif berbasis sintesis riset (uncertain)
 

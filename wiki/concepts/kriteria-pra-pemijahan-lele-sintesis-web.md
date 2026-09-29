@@ -5,7 +5,7 @@ title: Kriteria pra-pemijahan lele — sintesis web
 aliases: [spawn criteria lele, pra-spawn lele literatur]
 created: 2026-09-29
 updated: 2026-09-29
-revision: 2
+revision: 3
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -50,7 +50,7 @@ Raw menekankan definisi «matang gonad» (umur vs pemeriksaan gonad) membuat ang
 
 ### Inkubasi telur vs fertilisasi (studi dalam sintesis)
 
-Rentang yang diekstrak: suhu **25–27 °C**, pH **5,0–7,0**, DO **5,0–5,9 mg/L**; fertilization ~92%; hatching puncak 69% pada satu media (groundwater, pH ~6,40). **Bukan** ambang lulus/gagal operasional—gap list raw §137–138.
+Rentang yang diekstrak: suhu **25–27 °C**, pH **5,0–7,0**, DO **5,0–5,9 mg/L**; fertilization ~92%; hatching puncak 69% pada satu media (groundwater, pH ~6,40). **Bukan** ambang lulus/gagal operasional—gap list ([Hasil riset 1 v1](../sources/hasil-riset-1-v1.md) — raw baris 137–138).
 
 ## Bukti dan sumber
 

@@ -4,8 +4,8 @@ type: concept
 title: Kalibrasi DO dan blower pembenihan lele
 aliases: [throttling blower, DO meter kakaban]
 created: 2026-09-29
-updated: 2026-09-29
-revision: 1
+updated: 2026-09-30
+revision: 2
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -26,7 +26,7 @@ Prosedur lapangan untuk menjawab: **DO ≥5 mg/L tanpa arus yang melepas telur**
 
 ## Penjelasan
 
-### Target DO (raw blower)
+### Target DO ([Kalibrasi DO dan blower v1](../sources/blower-v1.md))
 
 | Fase | Target |
 |------|--------|
@@ -68,7 +68,7 @@ Target akhir: **DO ≥5 mg/L**, kakaban bergerak **ringan**, telur menempel.
 
 ### Layout pendukung
 
-Diffuser di **sisi** kolam; **fine bubble**; **valve per jalur**; hindari jet ke kakaban (sketsa raw §106–121).
+Diffuser di **sisi** kolam; **fine bubble**; **valve per jalur**; hindari jet ke kakaban ([Kalibrasi DO dan blower v1](../sources/blower-v1.md) — raw baris 106–121; selaras [Aerasi kolam v1](../sources/aerasi-kolam-v1.md) sketsa layout).
 
 ## Bukti dan sumber
 

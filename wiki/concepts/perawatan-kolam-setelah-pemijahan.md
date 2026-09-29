@@ -30,18 +30,18 @@ Untuk **checklist operasional** (angkat induk → seleksi telur → penetasan �
 
 ### Telur masih di kolam
 
-- Angkat kedua induk; jangan sikat terpal, aduk dasar, atau kuras total ([sumber v1](../sources/cara-merawat-kolam-setelah-pemijahan-v1.md), raw baris 4–5).
-- Aerasi lembut kontinu; sedot kotoran/sisa pemijahan jauh dari telur; buang telur mati bila aman (raw baris 5–7).
-- Tanpa pakan; ganti air ~10–20% perlahan dengan air olahan (suhu/pH mendekati) bila kualitas menurun (raw baris 7–8).
-- Suhu ~27–30 °C; lindungi dari hujan/panas berlebih; hindari kapur, desinfektan, obat sembarangan saat telur ada (raw baris 8–9).
+- Angkat kedua induk; jangan sikat terpal, aduk dasar, atau kuras total ([Cara merawat kolam setelah pemijahan v1](../sources/cara-merawat-kolam-setelah-pemijahan-v1.md) — raw baris 4–5).
+- Aerasi lembut kontinu; sedot kotoran/sisa pemijahan jauh dari telur; buang telur mati bila aman ([Cara merawat kolam setelah pemijahan v1](../sources/cara-merawat-kolam-setelah-pemijahan-v1.md) — raw baris 5–7).
+- Tanpa pakan; ganti air ~10–20% perlahan dengan air olahan (suhu/pH mendekati) bila kualitas menurun ([Cara merawat kolam setelah pemijahan v1](../sources/cara-merawat-kolam-setelah-pemijahan-v1.md) — raw baris 7–8).
+- Suhu ~27–30 °C; lindungi dari hujan/panas berlebih; hindari kapur, desinfektan, obat sembarangan saat telur ada ([Cara merawat kolam setelah pemijahan v1](../sources/cara-merawat-kolam-setelah-pemijahan-v1.md) — raw baris 8–9).
 
 ### Kolam kosong (telur/induk sudah pindah)
 
-Alur lima langkah: kuras endapan → gosok terpal/saluran (sikat lembut, hindari sabun/deterjen RT) → bilas → desinfektan sarana budidaya bila perlu (kolam kosong, ikuti produk) → keringkan → isi air baru, aerasi, cek suhu/pH dan **tidak ada residu desinfektan** sebelum stocking (raw baris 10–15).
+Alur lima langkah: kuras endapan → gosok terpal/saluran (sikat lembut, hindari sabun/deterjen RT) → bilas → desinfektan sarana budidaya bila perlu (kolam kosong, ikuti produk) → keringkan → isi air baru, aerasi, cek suhu/pH dan **tidak ada residu desinfektan** sebelum stocking ([Cara merawat kolam setelah pemijahan v1](../sources/cara-merawat-kolam-setelah-pemijahan-v1.md) — raw baris 10–15).
 
 ### Air bekas pemijahan
 
-Jangan dipakai ulang langsung untuk penetasan berikutnya (organik busuk). Jika penetasan tetap di kolam yang sama, pembersihan total ditunda sampai larva dipindah (raw baris 17).
+Jangan dipakai ulang langsung untuk penetasan berikutnya (organik busuk). Jika penetasan tetap di kolam yang sama, pembersihan total ditunda sampai larva dipindah ([Cara merawat kolam setelah pemijahan v1](../sources/cara-merawat-kolam-setelah-pemijahan-v1.md) — raw baris 17).
 
 ## Bukti dan sumber
 

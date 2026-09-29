@@ -55,8 +55,8 @@
     "semantic_hash": ""
   },
   "state/sources.md": {
-    "mtime": 1790702672.0064871,
-    "ast_hash": "3b331478432d1475eff87fb97abbc713",
+    "mtime": 1790702698.900917,
+    "ast_hash": "6ffcce19f8197f243eb9b424c1275003",
     "semantic_hash": ""
   },
   "wiki/concepts/parameter-kualitas-air-lele.md": {
@@ -90,8 +90,8 @@
     "semantic_hash": ""
   },
   "wiki/log.md": {
-    "mtime": 1790702682.3065526,
-    "ast_hash": "7ab31c583e510274753bee6e30d34a4c",
+    "mtime": 1790702822.8064463,
+    "ast_hash": "d6b1394cab6d695f04da64ecf0869796",
     "semantic_hash": ""
   },
   "wiki/sources/cara-merawat-air-v1.md": {
@@ -517,6 +517,11 @@
   "wiki/sources/estimasi-waktu-kawin-v1.md": {
     "mtime": 1790702672.011432,
     "ast_hash": "5c0cd2068eb28f6a106a8a45dcf4704a",
+    "semantic_hash": ""
+  },
+  "state/jobs/job-20260930-ingest-scan.md": {
+    "mtime": 1790702822.7492466,
+    "ast_hash": "1324b6028c49b8fecb21ef77d3a35411",
     "semantic_hash": ""
   }
 }

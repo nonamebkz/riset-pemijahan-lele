@@ -148,3 +148,10 @@
 - **Jenis:** ingest (pemindai; tidak ada sumber baru)
 - **Hasil:** 25/25 raw `complete`; hash cocok; `raw/README.md` diabaikan (bukan sumber)
 - **Perubahan wiki:** tidak ada
+
+## 2026-09-30 — job-20260930-maintain-004
+
+- **Jenis:** maintain (tautan bukti raw → wiki/sources, batch 2)
+- **Hasil:** 15+ konsep diperbarui (layout, kalibrasi DO, durasi, komposisi, pakan alternatif, seleksi telur, kakaban, perawatan kolam, rantai air, jentik nyamuk, parameter/TDS/pH, penetasan rev 12, dll.)
+- **Validasi:** 0 tautan wiki rusak
+- **Sisa:** ringkasan panjang di `wiki/sources/*` (§/raw inline) — bukan halaman konsep; deep-research source page

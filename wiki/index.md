@@ -34,7 +34,7 @@
 - [TDS sebagai indikator air](concepts/tds-sebagai-indikator-air.md) — batas TDS/ppm; mengapa angka TDS saja tidak cukup.
 - [Perawatan rutin air kolam lele](concepts/perawatan-rutin-air-kolam-lele.md) — pakan, sedot endapan, aerasi, ganti air, sumber air, pencatatan TDS.
 - [Rantai pengolahan air sungai untuk pembenihan](concepts/rantai-pengolahan-air-sungai-pembenihan.md) — endap, saring, aerasi, UV/desinfektan sebelum pemijahan/penetasan.
-- [Penetasan telur lele — praktik kolam terpal](concepts/penetasan-telur-lele-praktik-kolam-terpal.md) — parameter, waktu menetas vs suhu (rev 11; uncertain), aerasi, pakan larva.
+- [Penetasan telur lele — praktik kolam terpal](concepts/penetasan-telur-lele-praktik-kolam-terpal.md) — parameter, waktu menetas vs suhu (rev 12; uncertain), aerasi, pakan larva.
 - [Seleksi dan ciri telur lele](concepts/seleksi-dan-ciri-telur-lele.md) — visual telur hidup vs mati/jamur; senter & buang telur jelek.
 - [Methylene blue pada inkubasi telur lele](concepts/methylene-blue-pada-inkubasi-telur-lele.md) — dosis, metode, konflik sumber (uncertain).
 - [Perawatan kolam setelah pemijahan](concepts/perawatan-kolam-setelah-pemijahan.md) — skenario telur di kolam; pembersihan kolam kosong; air bekas pemijahan.
@@ -43,10 +43,10 @@
 - [Kriteria pra-pemijahan lele — sintesis web](concepts/kriteria-pra-pemijahan-lele-sintesis-web.md) — metode alami/induced/striping; uncertain.
 - [Metode pemijahan lele — sintesis web](concepts/metode-pemijahan-lele-sintesis-web.md) — prosedur A/B/C, fertilisasi, inkubasi pasca striping.
 - [Bak pemijahan dan sarana kakaban lele](concepts/bak-pemijahan-dan-sarana-kakaban-lele.md) — dimensi bak, detail kakaban; catat perbedaan ukuran antar sumber.
-- [Layout aerasi pembenihan lele](concepts/layout-aerasi-pembenihan-lele.md) — posisi + desain terpal 3 m³ (rev 5).
+- [Layout aerasi pembenihan lele](concepts/layout-aerasi-pembenihan-lele.md) — posisi + desain terpal 3 m³ (rev 6).
 - [Kalibrasi DO dan blower pembenihan lele](concepts/kalibrasi-do-dan-blower-pembenihan-lele.md) — lapangan DO vs arus telur.
 - [Unit inkubasi telur lele — engineering (sintesis web)](concepts/unit-inkubasi-telur-lele-engineering-sintesis-web.md) — trough, tray, DO, cautions agitasi.
-- [Komposisi dan jadwal pakan larva lele](concepts/komposisi-dan-jadwal-pakan-larva-lele.md) — fase 0–2 hari hingga 14+ hari; frekuensi pemberian (rev 3 + alternatif riset).
+- [Komposisi dan jadwal pakan larva lele](concepts/komposisi-dan-jadwal-pakan-larva-lele.md) — fase 0–2 hari hingga 14+ hari; frekuensi pemberian (rev 4 + alternatif riset).
 - [Pakan alternatif lele — sintesis riset](concepts/pakan-alternatif-lele-sintesis-riset.md) — BSF 66%, pasta 1,2 mm, gap rucah/rebon/cacing.
 - [Pencegahan jentik nyamuk di kolam larva](concepts/pencegahan-jentik-nyamuk-kolam-larva.md) — aerasi permukaan, penutup, larangan insektisida.
 - [Alur pasca pemijahan lele](concepts/alur-pasca-pemijahan-lele.md) — urutan operasional singkat setelah pemijahan selesai (rev 4).

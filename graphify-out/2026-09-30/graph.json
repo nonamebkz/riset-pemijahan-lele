@@ -3414,6 +3414,50 @@
       "norm_label": "usulan persetujuan"
     },
     {
+      "label": "job-20260930-ingest-scan.md",
+      "file_type": "document",
+      "source_file": "state/jobs/job-20260930-ingest-scan.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "state_jobs_job_20260930_ingest_scan",
+      "community": 121,
+      "community_name": "Job ingest \u2014 job-20260930-ingest-scan",
+      "norm_label": "job-20260930-ingest-scan.md"
+    },
+    {
+      "label": "Job ingest \u2014 job-20260930-ingest-scan",
+      "file_type": "document",
+      "source_file": "state/jobs/job-20260930-ingest-scan.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "state_jobs_job_20260930_ingest_scan_job_ingest_job_20260930_ingest_scan",
+      "community": 121,
+      "community_name": "Job ingest \u2014 job-20260930-ingest-scan",
+      "norm_label": "job ingest \u2014 job-20260930-ingest-scan"
+    },
+    {
+      "label": "Hasil",
+      "file_type": "document",
+      "source_file": "state/jobs/job-20260930-ingest-scan.md",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "state_jobs_job_20260930_ingest_scan_hasil",
+      "community": 121,
+      "community_name": "Job ingest \u2014 job-20260930-ingest-scan",
+      "norm_label": "hasil"
+    },
+    {
+      "label": "Tindakan",
+      "file_type": "document",
+      "source_file": "state/jobs/job-20260930-ingest-scan.md",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "state_jobs_job_20260930_ingest_scan_tindakan",
+      "community": 121,
+      "community_name": "Job ingest \u2014 job-20260930-ingest-scan",
+      "norm_label": "tindakan"
+    },
+    {
       "label": "job-20260930-maintain-002.md",
       "file_type": "document",
       "source_file": "state/jobs/job-20260930-maintain-002.md",
@@ -7009,6 +7053,17 @@
       "community": 19,
       "community_name": "Log Kegiatan",
       "norm_label": "2026-09-30 \u2014 job-20260930-maintain-003"
+    },
+    {
+      "label": "2026-09-30 \u2014 job-20260930-ingest-scan",
+      "file_type": "document",
+      "source_file": "wiki/log.md",
+      "source_location": "L146",
+      "_origin": "ast",
+      "id": "wiki_log_2026_09_30_job_20260930_ingest_scan",
+      "community": 19,
+      "community_name": "Log Kegiatan",
+      "norm_label": "2026-09-30 \u2014 job-20260930-ingest-scan"
     },
     {
       "label": "aerasi-kolam-v1.md",
@@ -12037,6 +12092,39 @@
       "_origin": "ast",
       "source": "state_jobs_job_20260929_ingest_018_job_ingest_job_20260929_ingest_018",
       "target": "state_jobs_job_20260929_ingest_018_usulan_persetujuan",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "state/jobs/job-20260930-ingest-scan.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "state_jobs_job_20260930_ingest_scan",
+      "target": "state_jobs_job_20260930_ingest_scan_job_ingest_job_20260930_ingest_scan",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "state/jobs/job-20260930-ingest-scan.md",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "state_jobs_job_20260930_ingest_scan_job_ingest_job_20260930_ingest_scan",
+      "target": "state_jobs_job_20260930_ingest_scan_hasil",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "state/jobs/job-20260930-ingest-scan.md",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "state_jobs_job_20260930_ingest_scan_job_ingest_job_20260930_ingest_scan",
+      "target": "state_jobs_job_20260930_ingest_scan_tindakan",
       "confidence_score": 1.0
     },
     {
@@ -17691,6 +17779,17 @@
       "_origin": "ast",
       "source": "wiki_log_log_kegiatan",
       "target": "wiki_log_2026_09_29_job_20260929_ingest_018",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/log.md",
+      "source_location": "L146",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "wiki_log_log_kegiatan",
+      "target": "wiki_log_2026_09_30_job_20260930_ingest_scan",
       "confidence_score": 1.0
     },
     {

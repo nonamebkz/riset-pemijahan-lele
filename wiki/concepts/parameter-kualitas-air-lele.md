@@ -43,7 +43,7 @@ Patokan praktis bergantung **tahap** (budidaya umum vs bak pemijahan vs penetasa
 | Oksigen terlarut | >3 mg/L; lebih baik ~4–5 mg/L |
 | Amonia & nitrit | serendah mungkin; uji khusus |
 
-Bukti: [cara-merawat-air v1](../sources/cara-merawat-air-v1.md), raw baris 7–10.
+Bukti: [Cara merawat air v1](../sources/cara-merawat-air-v1.md) — raw baris 7–10.
 
 ### Bak pemijahan
 
@@ -54,7 +54,7 @@ Bukti: [cara-merawat-air v1](../sources/cara-merawat-air-v1.md), raw baris 7–1
 | Oksigen terlarut | minimal ~3 mg/L; aerasi ringan disarankan |
 | Kualitas | bersih, tidak bau, tidak keruh pekat, bebas limbah |
 
-Bukti: [spesifikasi-pemijahan-lele v1](../sources/spesifikasi-pemijahan-lele-v1.md), raw baris 15–18.
+Bukti: [Spesifikasi pemijahan lele v1](../sources/spesifikasi-pemijahan-lele-v1.md) — raw baris 15–18.
 
 ### Penetasan telur
 
@@ -66,11 +66,11 @@ Bukti: [spesifikasi-pemijahan-lele v1](../sources/spesifikasi-pemijahan-lele-v1.
 | Amonia & nitrit | sedekat mungkin nol pada alat uji |
 | Partikel | minim agar tidak mengendap pada telur |
 
-Bukti: [pembahasan v1](../sources/pembahasan-kolam-terpal-dan-pemijahan-v1.md), raw baris 17–26.
+Bukti: [Pembahasan kolam terpal v1](../sources/pembahasan-kolam-terpal-dan-pemijahan-v1.md) — raw baris 17–26.
 
 ### Inkubasi telur — studi dalam sintesis web (hasil-riset-1)
 
-Rentang yang **dikutip** dari satu studi media air *C. gariepinus* ([hasil-riset-1 v1](../sources/hasil-riset-1-v1.md), raw ~62–67): suhu **25–27 °C**, pH **5,0–7,0**, DO **5,0–5,9 mg/L**; hasil fertilization/hatching bervariasi per media. **Bukan** patokan kolam terpal wiki di atas; sitasi primer tidak ada di raw HTML.
+Rentang yang **dikutip** dari satu studi media air *C. gariepinus* ([Hasil riset 1 v1](../sources/hasil-riset-1-v1.md) — raw baris ~62–67): suhu **25–27 °C**, pH **5,0–7,0**, DO **5,0–5,9 mg/L**; hasil fertilization/hatching bervariasi per media. **Bukan** patokan kolam terpal wiki di atas; sitasi primer tidak ada di raw HTML.
 
 ### pH stabil → jangan diutak-atik
 

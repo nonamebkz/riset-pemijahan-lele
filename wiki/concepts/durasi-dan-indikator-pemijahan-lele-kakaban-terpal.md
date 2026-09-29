@@ -5,7 +5,7 @@ title: Durasi dan indikator pemijahan lele — kakaban terpal
 aliases: [waktu kawin lele, timeline pemijahan kakaban, estimasi pijah]
 created: 2026-09-29
 updated: 2026-09-30
-revision: 2
+revision: 3
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -37,19 +37,19 @@ Durasi dari tebar induk hingga telur terbuahi **tidak dapat dipatok absolut**; b
 | Selesai pemijahan | **±1–3 jam** sejak aktivitas kawin **aktif** dimulai |
 | Kawin aktif (rentang umum) | **±30 menit–3 jam** |
 
-Faktor perpanjang: gonad belum matang, suhu rendah. Kondisi sangat baik dapat lebih cepat (raw ~17–20).
+Faktor perpanjang: gonad belum matang, suhu rendah. Kondisi sangat baik dapat lebih cepat ([Estimasi waktu kawin v1](../sources/estimasi-waktu-kawin-v1.md) — raw baris ~17–20).
 
 ### Telur tidak selalu sekaligus
 
-Telur keluar **bertahap** dalam beberapa pelepasan; jantan mengikuti; pembuahan eksternal. Selama masih ada kejar-kejaran, betina mengeluarkan telur, dan jantan aktif—proses masih berlangsung (raw ~24–38).
+Telur keluar **bertahap** dalam beberapa pelepasan; jantan mengikuti; pembuahan eksternal. Selama masih ada kejar-kejaran, betina mengeluarkan telur, dan jantan aktif—proses masih berlangsung ([Estimasi waktu kawin v1](../sources/estimasi-waktu-kawin-v1.md) — raw baris ~24–38).
 
 ### Indikator «jangan angkat» vs «selesai»
 
-**Masih proses:** masih kejar-kejaran; masih posisi kawin (raw ~48–50).
+**Masih proses:** masih kejar-kejaran; masih posisi kawin ([Estimasi waktu kawin v1](../sources/estimasi-waktu-kawin-v1.md) — raw baris ~48–50).
 
 **Selesai pijah (patokan):** tidak mengejar; betina lebih diam; jantan tidak agresif; telur memenuhi kakaban; aktivitas kawin berhenti **±15–30 menit** ([Estimasi waktu kawin v1](../sources/estimasi-waktu-kawin-v1.md) — raw baris 52–58; selaras [Info pemindahan induk v1](../sources/info-pemindahan-induk-v1.md)).
 
-### Contoh timeline lapangan (raw)
+### Contoh timeline lapangan ([Estimasi waktu kawin v1](../sources/estimasi-waktu-kawin-v1.md))
 
 | Waktu | Kejadian |
 |-------|----------|
@@ -59,12 +59,12 @@ Telur keluar **bertahap** dalam beberapa pelepasan; jantan mengikuti; pembuahan 
 | 04.00 | aktivitas kawin berhenti |
 | 05.00–06.00 | angkat induk |
 
-**Salah:** menghitung dari jam tebar (mis. masuk 21.00 → angkat 23.00) tanpa melihat aktivitas (raw ~87–88).
+**Salah:** menghitung dari jam tebar (mis. masuk 21.00 → angkat 23.00) tanpa melihat aktivitas ([Estimasi waktu kawin v1](../sources/estimasi-waktu-kawin-v1.md) — raw baris ~87–88).
 
 ### Risiko timing
 
 - **Terlalu cepat angkat:** telur belum selesai; sebagian belum terbuahi; daya tetas turun.
-- **Terlalu lama:** induk makan telur; telur rusak; air cepat kotor (raw ~94–102).
+- **Terlalu lama:** induk makan telur; telur rusak; air cepat kotor ([Estimasi waktu kawin v1](../sources/estimasi-waktu-kawin-v1.md) — raw baris ~94–102).
 
 Angkat induk: detail SOP **1–2 jam pasca selesai**, maks **<6 jam** → [Pemindahan induk pasca pemijahan — kakaban terpal](pemindahan-induk-pasca-pemijahan-kakaban-terpal.md).
 

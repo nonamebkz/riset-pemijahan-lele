@@ -24,11 +24,11 @@ Air sungai untuk pemijahan/penetasan lele sebaiknya **ditampung dan diolah** seb
 
 ## Penjelasan
 
-1. **Waktu pengambilan** — hindari banjir, keruh berat pasca hujan, bau/busaa aneh, limbah/pestisida; endap/saring sederhana tidak menjamin hilangnya kimia (raw baris 7–8).
-2. **Pengendapan** — ~24–48 jam awal; ambil lapisan atas; bisa lebih lama jika masih keruh (raw baris 9).
-3. **Penyaringan bertahap** — kasar lalu pasir/media halus; kurangi lumpur pada telur, belum steril (raw baris 11).
-4. **Pengendalian kuman** — UV sesuai debit; atau desinfektan di bak terpisah dengan dosis/netralisasi per produk; **jangan** masukkan telur/induk sebelum sisa desinfektan aman (raw baris 13–14).
-5. **Aerasi & cek** — aerasi untuk oksigen; tidak otomatis menghilangkan pencemar sungai (raw baris 15).
+1. **Waktu pengambilan** — hindari banjir, keruh berat pasca hujan, bau/busaa aneh, limbah/pestisida; endap/saring sederhana tidak menjamin hilangnya kimia ([Pembahasan kolam terpal v1](../sources/pembahasan-kolam-terpal-dan-pemijahan-v1.md) — raw baris 7–8).
+2. **Pengendapan** — ~24–48 jam awal; ambil lapisan atas; bisa lebih lama jika masih keruh ([Pembahasan kolam terpal v1](../sources/pembahasan-kolam-terpal-dan-pemijahan-v1.md) — raw baris 9).
+3. **Penyaringan bertahap** — kasar lalu pasir/media halus; kurangi lumpur pada telur, belum steril ([Pembahasan kolam terpal v1](../sources/pembahasan-kolam-terpal-dan-pemijahan-v1.md) — raw baris 11).
+4. **Pengendalian kuman** — UV sesuai debit; atau desinfektan di bak terpisah dengan dosis/netralisasi per produk; **jangan** masukkan telur/induk sebelum sisa desinfektan aman ([Pembahasan kolam terpal v1](../sources/pembahasan-kolam-terpal-dan-pemijahan-v1.md) — raw baris 13–14).
+5. **Aerasi & cek** — aerasi untuk oksigen; tidak otomatis menghilangkan pencemar sungai ([Pembahasan kolam terpal v1](../sources/pembahasan-kolam-terpal-dan-pemijahan-v1.md) — raw baris 15).
 
 ## Bukti dan sumber
 

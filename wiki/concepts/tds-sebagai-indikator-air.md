@@ -26,8 +26,8 @@ TDS (sering ditampilkan alat sebagai ppm) menjumlahkan zat terlarut, tetapi **ti
 
 ## Penjelasan
 
-- **Budidaya umum:** tidak ada satu angka TDS wajib untuk semua kolam lele; catat TDS sumber dan kolam untuk melihat tren—kenaikan berkelanjutan menjadi alasan cek pakan, endapan, amonia, dan nitrit, bukan alasan menambah garam/kapur hanya mengejar TDS ([cara-merawat-air v1](../sources/cara-merawat-air-v1.md), raw baris 3–4, 19, 21).
-- **Pembenihan/penetasan:** TDS **bukan patokan utama**; catat sebagai pembanding sambil mengejar amonia/nitrit mendekati nol dan parameter lain ([pembahasan v1](../sources/pembahasan-kolam-terpal-dan-pemijahan-v1.md), raw baris 3, 25).
+- **Budidaya umum:** tidak ada satu angka TDS wajib untuk semua kolam lele; catat TDS sumber dan kolam untuk melihat tren—kenaikan berkelanjutan menjadi alasan cek pakan, endapan, amonia, dan nitrit, bukan alasan menambah garam/kapur hanya mengejar TDS ([Cara merawat air v1](../sources/cara-merawat-air-v1.md) — raw baris 3–4, 19, 21).
+- **Pembenihan/penetasan:** TDS **bukan patokan utama**; catat sebagai pembanding sambil mengejar amonia/nitrit mendekati nol dan parameter lain ([Pembahasan kolam terpal v1](../sources/pembahasan-kolam-terpal-dan-pemijahan-v1.md) — raw baris 3, 25).
 
 ## Bukti dan sumber
 

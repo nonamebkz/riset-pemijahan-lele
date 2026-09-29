@@ -1,11 +1,11 @@
 # Graph Report - riset-pemijahan-lele  (2026-09-30)
 
 ## Corpus Check
-- 101 files · ~45,620 words
+- 102 files · ~45,712 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 830 nodes · 953 edges · 121 communities (98 shown, 23 thin omitted)
+- 835 nodes · 957 edges · 122 communities (99 shown, 23 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
@@ -124,10 +124,11 @@
 - saran-penetasan-telur
 - spesifikasi-kakaban
 - spesifikasi-pemijahan-lele
+- Job ingest — job-20260930-ingest-scan
 
 ## God Nodes (most connected - your core abstractions)
 1. `Registri Sumber` - 26 edges
-2. `Log Kegiatan` - 22 edges
+2. `Log Kegiatan` - 23 edges
 3. `Deep Research: Pemijahan Lele` - 21 edges
 4. `Pedoman Agen LLM Wiki` - 12 edges
 5. `Struktur Data Wiki` - 11 edges
@@ -140,7 +141,7 @@
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (121 total, 23 thin omitted)
+## Communities (122 total, 23 thin omitted)
 
 ### Community 0 - "Pedoman Agen LLM Wiki"
 Cohesion: 0.15
@@ -215,8 +216,8 @@ Cohesion: 0.50
 Nodes (4): Analisis, Katalog Wiki, Konsep, Sumber
 
 ### Community 19 - "Log Kegiatan"
-Cohesion: 0.09
-Nodes (22): 2026-09-29 — job-20260929-ingest-001, 2026-09-29 — job-20260929-ingest-002, 2026-09-29 — job-20260929-ingest-003, 2026-09-29 — job-20260929-ingest-004, 2026-09-29 — job-20260929-ingest-005, 2026-09-29 — job-20260929-ingest-006, 2026-09-29 — job-20260929-ingest-007, 2026-09-29 — job-20260929-ingest-008 (+14 more)
+Cohesion: 0.08
+Nodes (23): 2026-09-29 — job-20260929-ingest-001, 2026-09-29 — job-20260929-ingest-002, 2026-09-29 — job-20260929-ingest-003, 2026-09-29 — job-20260929-ingest-004, 2026-09-29 — job-20260929-ingest-005, 2026-09-29 — job-20260929-ingest-006, 2026-09-29 — job-20260929-ingest-007, 2026-09-29 — job-20260929-ingest-008 (+15 more)
 
 ### Community 20 - "Perawatan kolam setelah pemijahan"
 Cohesion: 0.20
@@ -486,8 +487,12 @@ Nodes (5): Job ingest — job-20260929-ingest-018, Langkah, Rencana integrasi, S
 Cohesion: 0.40
 Nodes (4): Berkas diubah, Izin, Job maintain — job-20260930-maintain-002, Tujuan
 
+### Community 121 - "Job ingest — job-20260930-ingest-scan"
+Cohesion: 0.50
+Nodes (3): Hasil, Job ingest — job-20260930-ingest-scan, Tindakan
+
 ## Knowledge Gaps
-- **578 isolated node(s):** `Prompt berulang (jalankan persis)`, `Rantai otomatis`, `Prompt pendek (setara)`, `Alur`, `Contoh prompt` (+573 more)
+- **581 isolated node(s):** `Prompt berulang (jalankan persis)`, `Rantai otomatis`, `Prompt pendek (setara)`, `Alur`, `Contoh prompt` (+576 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 - **23 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
@@ -495,15 +500,15 @@ Nodes (4): Berkas diubah, Izin, Job maintain — job-20260930-maintain-002, Tuju
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `Registri Sumber` connect `Registri Sumber` to `parameter-kualitas-air-lele.md`, `aerasi-kolam`, `cara-cepat-menetaskan-telur`, `cara-menaikan-ph`, `cara-menurunkan-ph`, `cara-merawat-air`, `cara-merawat-kolam-setelah-pemijahan`, `cara-merawat-telur-lele`, `deep-research-pemijahan-lele`, `estimasi-waktu-kawin`, `hasil-riset-1`, `hasil-riset-2`, `hasil-riset-3`, `info-pemindahan-induk`, `komposisi-pakan-larva-lele`, `layout-aerasi`, `membedakan-telur`, `methylene-blue`, `pasca-pemijahan`, `pembahasan-kolam-terpal-dan-pemijahan`, `saran-penetasan-telur`, `spesifikasi-kakaban`, `spesifikasi-pemijahan-lele`?**
-  _High betweenness centrality (0.067) - this node is a cross-community bridge._
+  _High betweenness centrality (0.066) - this node is a cross-community bridge._
 - **Why does `Layout aerasi pembenihan lele` connect `Penjelasan` to `parameter-kualitas-air-lele.md`?**
   _High betweenness centrality (0.019) - this node is a cross-community bridge._
 - **Why does `Unit inkubasi telur lele — engineering (sintesis web)` connect `Penjelasan` to `parameter-kualitas-air-lele.md`?**
   _High betweenness centrality (0.017) - this node is a cross-community bridge._
 - **What connects `Prompt berulang (jalankan persis)`, `Rantai otomatis`, `Prompt pendek (setara)` to the rest of the system?**
-  _578 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _581 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Log Kegiatan` be split into smaller, more focused modules?**
-  _Cohesion score 0.08695652173913043 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.08333333333333333 - nodes in this community are weakly interconnected._
 - **Should `Deep Research: Pemijahan Lele` be split into smaller, more focused modules?**
   _Cohesion score 0.06896551724137931 - nodes in this community are weakly interconnected._
 - **Should `Deep Research Pakan Alternatif untuk Lele dan Larva` be split into smaller, more focused modules?**
