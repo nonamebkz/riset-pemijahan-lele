@@ -55,8 +55,8 @@
     "semantic_hash": ""
   },
   "state/sources.md": {
-    "mtime": 1790694864.328644,
-    "ast_hash": "3e1ff7315660c0855ec0ae16092f2d91",
+    "mtime": 1790694629.6130643,
+    "ast_hash": "c25e614bb0ad5b1e0b1190685ae55306",
     "semantic_hash": ""
   },
   "wiki/concepts/parameter-kualitas-air-lele.md": {
@@ -65,8 +65,8 @@
     "semantic_hash": ""
   },
   "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md": {
-    "mtime": 1790694861.3775206,
-    "ast_hash": "712c76ad81c65e0253e05c7a01e8c0d4",
+    "mtime": 1790694649.2440345,
+    "ast_hash": "075b1d35e963fc23dbbd13d0acea442d",
     "semantic_hash": ""
   },
   "wiki/concepts/perawatan-rutin-air-kolam-lele.md": {
@@ -85,13 +85,13 @@
     "semantic_hash": ""
   },
   "wiki/index.md": {
-    "mtime": 1790694862.7116373,
-    "ast_hash": "0d7e920c1207c76404ee201fcc9b9320",
+    "mtime": 1790694629.6127982,
+    "ast_hash": "d70948c52f2f5991c309eba75c08515f",
     "semantic_hash": ""
   },
   "wiki/log.md": {
-    "mtime": 1790694865.265648,
-    "ast_hash": "a99bc1c3a2e503bbe9aaaa98096b3441",
+    "mtime": 1790694629.6130643,
+    "ast_hash": "cde5242b8685986f0499a5542676451a",
     "semantic_hash": ""
   },
   "wiki/sources/cara-merawat-air-v1.md": {
@@ -102,36 +102,6 @@
   "wiki/sources/pembahasan-kolam-terpal-dan-pemijahan-v1.md": {
     "mtime": 1790694638.75969,
     "ast_hash": "ae1f980b515d39d3dd321771dc99833d",
-    "semantic_hash": ""
-  },
-  "raw/cara-merawat-kolam setelah-pemijahan.md": {
-    "mtime": 1790694808.7512577,
-    "ast_hash": "025e59facbf59b9825de144bf5118369",
-    "semantic_hash": ""
-  },
-  "raw/cara-merawat-telur-lele.md": {
-    "mtime": 1790694782.0460706,
-    "ast_hash": "7493aa9542caa98a0a73f4e946ec8058",
-    "semantic_hash": ""
-  },
-  "state/jobs/job-20260929-ingest-002.md": {
-    "mtime": 1790694846.761352,
-    "ast_hash": "52ad0b5768f6ad91181488bfef8b955e",
-    "semantic_hash": ""
-  },
-  "wiki/concepts/perawatan-kolam-setelah-pemijahan.md": {
-    "mtime": 1790694857.17923,
-    "ast_hash": "8ece4f15e52148aacc58993823770c9b",
-    "semantic_hash": ""
-  },
-  "wiki/sources/cara-merawat-kolam-setelah-pemijahan-v1.md": {
-    "mtime": 1790694865.6771643,
-    "ast_hash": "06d0749cb7f7e47ce81f7cba8ba3963e",
-    "semantic_hash": ""
-  },
-  "wiki/sources/cara-merawat-telur-lele-v1.md": {
-    "mtime": 1790694849.440285,
-    "ast_hash": "7a9f0b260dfc2b2a2709411282a69fcf",
     "semantic_hash": ""
   }
 }

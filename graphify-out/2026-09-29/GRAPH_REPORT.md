@@ -1,18 +1,13 @@
 # Graph Report - riset-pemijahan-lele  (2026-09-29)
 
 ## Corpus Check
-- 27 files · ~8,687 words
+- 21 files · ~6,600 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 195 nodes · 204 edges · 25 communities
+- 153 nodes · 155 edges · 20 communities (19 shown, 1 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
-
-## Graph Freshness
-- Built from commit: `a20841f3`
-- Run `git rev-parse HEAD` and compare to check if the graph is stale.
-- Run `graphify update .` after code changes (no API cost).
 
 ## Community Hubs (Navigation)
 - Pedoman Agen LLM Wiki
@@ -34,10 +29,6 @@
 - LLM Wiki — query
 - Katalog Wiki
 - Log Kegiatan
-- Perawatan kolam setelah pemijahan
-- Job ingest — job-20260929-ingest-002
-- Cara merawat kolam setelah pemijahan (catatan raw)
-- Cara merawat telur lele (catatan raw)
 
 ## God Nodes (most connected - your core abstractions)
 1. `Pedoman Agen LLM Wiki` - 12 edges
@@ -46,15 +37,15 @@
 4. `Keterampilan: Memeriksa dan Merawat Wiki` - 10 edges
 5. `Job ingest — job-20260929-ingest-001` - 9 edges
 6. `Keterampilan: Menjawab dari Wiki` - 7 edges
-7. `Job ingest — job-20260929-ingest-002` - 7 edges
-8. `Parameter kualitas air lele` - 7 edges
-9. `Penetasan telur lele — praktik kolam terpal` - 7 edges
-10. `Perawatan kolam setelah pemijahan` - 7 edges
+7. `Parameter kualitas air lele` - 7 edges
+8. `Penetasan telur lele — praktik kolam terpal` - 7 edges
+9. `Perawatan rutin air kolam lele` - 7 edges
+10. `Rantai pengolahan air sungai untuk pembenihan` - 7 edges
 
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (25 total, 0 thin omitted)
+## Communities (20 total, 1 thin omitted)
 
 ### Community 0 - "Pedoman Agen LLM Wiki"
 Cohesion: 0.15
@@ -113,8 +104,8 @@ Cohesion: 0.40
 Nodes (4): LLM Wiki — ingest (skill utama), Prompt berulang (jalankan persis), Prompt pendek (setara), Rantai otomatis
 
 ### Community 15 - "Registri Sumber"
-Cohesion: 0.22
-Nodes (9): cara-merawat-air, cara-merawat-kolam-setelah-pemijahan, cara-merawat-telur-lele, pembahasan-kolam-terpal-dan-pemijahan, Registri Sumber, v1, v1, v1 (+1 more)
+Cohesion: 0.40
+Nodes (5): cara-merawat-air, pembahasan-kolam-terpal-dan-pemijahan, Registri Sumber, v1, v1
 
 ### Community 16 - "LLM Wiki — maintain"
 Cohesion: 0.50
@@ -128,38 +119,19 @@ Nodes (3): Alur, Contoh prompt, LLM Wiki — query
 Cohesion: 0.50
 Nodes (4): Analisis, Katalog Wiki, Konsep, Sumber
 
-### Community 19 - "Log Kegiatan"
-Cohesion: 0.50
-Nodes (3): 2026-09-29 — job-20260929-ingest-001, 2026-09-29 — job-20260929-ingest-002, Log Kegiatan
-
-### Community 20 - "Perawatan kolam setelah pemijahan"
-Cohesion: 0.20
-Nodes (10): Air bekas pemijahan, Bukti dan sumber, Hubungan, Kolam kosong (telur/induk sudah pindah), Penjelasan, Perawatan kolam setelah pemijahan, Pertanyaan terbuka, Pertentangan dan ketidakpastian (+2 more)
-
-### Community 21 - "Job ingest — job-20260929-ingest-002"
-Cohesion: 0.25
-Nodes (7): Berkas direncanakan, Hasil, Job ingest — job-20260929-ingest-002, Langkah, Sumber, Tujuan, cakupan, izin, Usulan persetujuan
-
-### Community 22 - "Cara merawat kolam setelah pemijahan (catatan raw)"
-Cohesion: 0.29
-Nodes (7): Cakupan pembacaan, Cara merawat kolam setelah pemijahan (catatan raw), Halaman terkait, Identitas dan versi sumber, Keterbatasan, Klaim utama dan lokasi bukti, Ringkasan
-
-### Community 23 - "Cara merawat telur lele (catatan raw)"
-Cohesion: 0.29
-Nodes (7): Cakupan pembacaan, Cara merawat telur lele (catatan raw), Halaman terkait, Identitas dan versi sumber, Keterbatasan, Klaim utama dan lokasi bukti, Ringkasan
-
 ## Knowledge Gaps
-- **139 isolated node(s):** `Prompt berulang (jalankan persis)`, `Rantai otomatis`, `Prompt pendek (setara)`, `Alur`, `Contoh prompt` (+134 more)
+- **110 isolated node(s):** `Prompt berulang (jalankan persis)`, `Rantai otomatis`, `Prompt pendek (setara)`, `Alur`, `Contoh prompt` (+105 more)
   These have ≤1 connection - possible missing edges or undocumented components.
+- **1 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `Perawatan kolam setelah pemijahan` connect `Perawatan kolam setelah pemijahan` to `parameter-kualitas-air-lele.md`?**
-  _High betweenness centrality (0.046) - this node is a cross-community bridge._
 - **Why does `Parameter kualitas air lele` connect `Parameter kualitas air lele` to `parameter-kualitas-air-lele.md`?**
-  _High betweenness centrality (0.042) - this node is a cross-community bridge._
-- **Why does `Registri Sumber` connect `Registri Sumber` to `parameter-kualitas-air-lele.md`?**
-  _High betweenness centrality (0.041) - this node is a cross-community bridge._
+  _High betweenness centrality (0.045) - this node is a cross-community bridge._
+- **Why does `Penetasan telur lele — praktik kolam terpal` connect `Penetasan telur lele — praktik kolam terpal` to `parameter-kualitas-air-lele.md`?**
+  _High betweenness centrality (0.035) - this node is a cross-community bridge._
+- **Why does `Perawatan rutin air kolam lele` connect `Perawatan rutin air kolam lele` to `parameter-kualitas-air-lele.md`?**
+  _High betweenness centrality (0.035) - this node is a cross-community bridge._
 - **What connects `Prompt berulang (jalankan persis)`, `Rantai otomatis`, `Prompt pendek (setara)` to the rest of the system?**
-  _139 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _110 weakly-connected nodes found - possible documentation gaps or missing edges._
