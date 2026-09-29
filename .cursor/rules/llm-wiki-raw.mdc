@@ -1,0 +1,11 @@
+---
+description: Perlindungan bahan asli di raw/ — hanya baca
+globs: raw/**
+alwaysApply: false
+---
+
+# raw/ — hanya baca
+
+Isi `raw/` adalah bahan asli dan jejak bukti. **Jangan** menulis, mengganti nama, memindahkan, atau menghapus berkas di sini.
+
+Ingest membaca dari `raw/` dan menulis hasil ke `wiki/` serta `state/` saja.

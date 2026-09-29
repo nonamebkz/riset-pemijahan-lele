@@ -1,0 +1,14 @@
+---
+description: Metadata dan format halaman wiki serta state
+globs: wiki/**,state/**
+alwaysApply: false
+---
+
+# LLM Wiki — sunting halaman
+
+Ikuti **`rules/schema.md`** untuk frontmatter (id, type, revision, review_status, evidence_status, source_refs).
+
+- Halaman substantif: satu konsep utama; nama berkas huruf kecil dengan tanda hubung
+- Klaim faktual: dekatkan rujukan ke sumber/versi; label uncertain/conflicting bila perlu
+- Perubahan makna/bukti: naikkan `revision`, set `review_status` ke `needs-review` bila perlu
+- Setelah edit: perbarui `wiki/index.md` bila halaman substantif berubah; catat di job/log sesuai alur

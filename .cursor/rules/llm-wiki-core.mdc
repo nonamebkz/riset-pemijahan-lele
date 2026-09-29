@@ -1,0 +1,28 @@
+---
+description: Wiki riset bukti-first — urutan baca, batas raw/, bahasa Indonesia
+alwaysApply: true
+---
+
+# LLM Wiki — inti proyek
+
+Bahasa kerja: **Indonesia**. Laporkan singkat sesuai AGENTS.md.
+
+## Urutan baca (wajib sebelum menulis wiki)
+1. `AGENTS.md`
+2. `rules/schema.md`
+3. Prosedur wiki di `skills/` sesuai tugas: `ingest.md` | `query.md` | `maintain.md`
+4. Periksa `state/jobs/` untuk pekerjaan partial/blocked sebelum menulis
+
+## Skill Cursor proyek
+- Ingest / `raw/`: gunakan skill `llm-wiki-ingest` dan baca `skills/ingest.md`
+- Pertanyaan wiki: skill `llm-wiki-query` + `skills/query.md`
+- Audit/perbaikan: skill `llm-wiki-maintain` + `skills/maintain.md`
+
+Jangan mengganti prosedur di `skills/` dengan improvisasi; skill Cursor hanya router.
+
+## Batas wajib
+- **raw/**: hanya baca; jangan tulis, rename, pindah, atau hapus isi
+- Jangan mengarang sumber, tanggal, kutipan, hash, atau lokasi bukti
+- Sintesis AI ≠ bukti independen; pisahkan dari klaim sumber
+- Perubahan substantif halaman ditinjau manusia butuh persetujuan (AGENTS.md)
+- Satu penulis aktif; koordinasi jika ada konflik job
