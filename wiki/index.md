@@ -14,6 +14,7 @@
 - [Saran penetasan telur](sources/saran-penetasan-telur-v1.md) — bak penetasan, jamur, waktu menetas, pasca menetas.
 - [Cara cepat menetaskan telur](sources/cara-cepat-menetaskan-telur-v1.md) — suhu vs waktu, golden setting 18–30 h, inkubasi terpisah.
 - [Methylene blue pada penetasan](sources/methylene-blue-v1.md) — 2–5 ppm, antijamur, bukan percepat menetas.
+- [Estimasi waktu kawin](sources/estimasi-waktu-kawin-v1.md) — durasi tahapan pijah, telur bertahap, timeline contoh, patokan angkat.
 - [Info pemindahan induk](sources/info-pemindahan-induk-v1.md) — waktu angkat induk 1–2 h, indikator selesai pijah.
 - [Pasca pemijahan](sources/pasca-pemijahan-v1.md) — checklist 8 langkah dari angkat induk hingga larva dan pulih induk.
 - [Spesifikasi kakaban](sources/spesifikasi-kakaban-v1.md) — ukuran ijuk, jarak lembar, standar 100×40 cm.
@@ -38,7 +39,7 @@
 - [Methylene blue pada inkubasi telur lele](concepts/methylene-blue-pada-inkubasi-telur-lele.md) — dosis, metode, konflik sumber (uncertain).
 - [Perawatan kolam setelah pemijahan](concepts/perawatan-kolam-setelah-pemijahan.md) — skenario telur di kolam; pembersihan kolam kosong; air bekas pemijahan.
 - [Pengaturan pH air pembenihan](concepts/pengaturan-ph-air-pembenihan.md) — KH/alkalinitas; naik/turun terkendali; larangan kimia langsung ke kolam telur.
-- [Induk dan persiapan pemijahan lele](concepts/induk-dan-persiapan-pemijahan-lele.md) — umur/bobot, 1:1, puasa, pakan, ciri siap pijah (rev 4; rasio/bobot literatur web).
+- [Induk dan persiapan pemijahan lele](concepts/induk-dan-persiapan-pemijahan-lele.md) — umur/bobot, 1:1, puasa, pakan, ciri siap pijah (rev 7; rasio/bobot literatur web).
 - [Kriteria pra-pemijahan lele — sintesis web](concepts/kriteria-pra-pemijahan-lele-sintesis-web.md) — metode alami/induced/striping; uncertain.
 - [Metode pemijahan lele — sintesis web](concepts/metode-pemijahan-lele-sintesis-web.md) — prosedur A/B/C, fertilisasi, inkubasi pasca striping.
 - [Bak pemijahan dan sarana kakaban lele](concepts/bak-pemijahan-dan-sarana-kakaban-lele.md) — dimensi bak, detail kakaban; catat perbedaan ukuran antar sumber.
@@ -48,8 +49,9 @@
 - [Komposisi dan jadwal pakan larva lele](concepts/komposisi-dan-jadwal-pakan-larva-lele.md) — fase 0–2 hari hingga 14+ hari; frekuensi pemberian (rev 3 + alternatif riset).
 - [Pakan alternatif lele — sintesis riset](concepts/pakan-alternatif-lele-sintesis-riset.md) — BSF 66%, pasta 1,2 mm, gap rucah/rebon/cacing.
 - [Pencegahan jentik nyamuk di kolam larva](concepts/pencegahan-jentik-nyamuk-kolam-larva.md) — aerasi permukaan, penutup, larangan insektisida.
-- [Alur pasca pemijahan lele](concepts/alur-pasca-pemijahan-lele.md) — urutan operasional singkat setelah pemijahan selesai (rev 2).
-- [Pemindahan induk pasca pemijahan — kakaban terpal](concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md) — angkat <6 h, SOP malam–pagi.
+- [Alur pasca pemijahan lele](concepts/alur-pasca-pemijahan-lele.md) — urutan operasional singkat setelah pemijahan selesai (rev 3).
+- [Durasi dan indikator pemijahan lele — kakaban terpal](concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md) — adaptasi 2–8 h, kawin aktif, jangan hitung dari jam tebar.
+- [Pemindahan induk pasca pemijahan — kakaban terpal](concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md) — angkat <6 h, SOP malam–pagi (rev 2).
 
 ## Analisis
 

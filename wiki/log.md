@@ -115,3 +115,10 @@
 - **Jenis:** ingest (info pemindahan induk.md baru; 23 dilewati)
 - **Hasil:** 1 sumber; konsep pemindahan induk; alur pasca rev 2; induk rev 6
 - **Validasi:** hash SHA-256; raw tidak diubah; registri 24/24 complete
+
+## 2026-09-29 — job-20260929-ingest-018
+
+- **Jenis:** ingest (estimasi waktu kawin.md baru; 24 dilewati)
+- **Hasil:** 1 sumber; konsep durasi & indikator pijah; pemindahan induk rev 2; alur pasca rev 3; induk rev 7
+- **Validasi:** hash SHA-256; raw tidak diubah; registri 25/25 complete
+- **Sisa:** titik acuan «1–2 jam» mulai vs selesai pijah — butuh persetujuan manusia untuk SOP tunggal

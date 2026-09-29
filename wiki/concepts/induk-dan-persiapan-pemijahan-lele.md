@@ -5,7 +5,7 @@ title: Induk dan persiapan pemijahan lele
 aliases: [seleksi induk lele, induk siap pijah]
 created: 2026-09-29
 updated: 2026-09-29
-revision: 6
+revision: 7
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -23,6 +23,8 @@ source_refs:
   - source_id: hasil-riset-3
     version_id: v1
   - source_id: info-pemindahan-induk
+    version_id: v1
+  - source_id: estimasi-waktu-kawin
     version_id: v1
 ---
 
@@ -46,6 +48,7 @@ Spesifikasi skala kecil menetapkan rentang umur/bobot induk, kriteria kesehatan,
 | Sangkuriang (literatur web) | umur ≥**1 tahun**; betina **0,70–1,0 kg**, jantan **0,5–0,75 kg** ([hasil-riset-1 v1](../sources/hasil-riset-1-v1.md)) |
 | Pre-spawn | puasa **1 hari** sebelum pemijahan (spesifikasi); striping (sintesis web): berok/puasa **1–2 hari** — [hasil-riset-3 v1](../sources/hasil-riset-3-v1.md) |
 | Pemijahan alami (sintesis) | masuk induk **sore/malam**; pemijahan **hari berikutnya**; kedalaman tangki **25–30 cm** (contoh mutiara) |
+| Adaptasi pasca tebar (kakaban) | **2–8 jam** sebelum aktivitas kawin stabil ([estimasi-waktu-kawin v1](../sources/estimasi-waktu-kawin-v1.md)) |
 | Pakan induk | protein **30–35%**; bekicot/cacing/ikan rucah secukupnya |
 | Betina siap | perut membesar lunak; alat kelamin kemerahan |
 | Jantan siap | alat kelamin meruncing; diurut keluar cairan putih |
@@ -54,7 +57,7 @@ Bukti: [spesifikasi-pemijahan-lele v1](../sources/spesifikasi-pemijahan-lele-v1.
 
 ### Pemulihan pasca pemijahan
 
-Setelah dipijahkan, induk dipisah dan dipulihkan: pakan berkualitas tinggi dan air bersih agar siap siklus berikutnya ([pasca-pemijahan v1](../sources/pasca-pemijahan-v1.md) raw 35–37). **Kapan angkat (kakaban terpal):** [Pemindahan induk pasca pemijahan — kakaban terpal](pemindahan-induk-pasca-pemijahan-kakaban-terpal.md)—**1–2 jam** setelah pijah selesai, maks **<6 jam**; tebar malam **20–22**, cek & angkat pagi **05–07** ([info-pemindahan-induk v1](../sources/info-pemindahan-induk-v1.md)).
+Setelah dipijahkan, induk dipisah dan dipulihkan: pakan berkualitas tinggi dan air bersih agar siap siklus berikutnya ([pasca-pemijahan v1](../sources/pasca-pemijahan-v1.md) raw 35–37). **Durasi & indikator pijah:** [Durasi dan indikator pemijahan lele — kakaban terpal](durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md). **Kapan angkat:** [Pemindahan induk pasca pemijahan — kakaban terpal](pemindahan-induk-pasca-pemijahan-kakaban-terpal.md)—**1–2 jam** (titik acuan lihat pertentangan di halaman itu), maks **<6 jam**; tebar malam **20–22**, cek & angkat pagi **05–07**.
 
 ## Bukti dan sumber
 
@@ -64,9 +67,11 @@ Setelah dipijahkan, induk dipisah dan dipulihkan: pakan berkualitas tinggi dan a
 - [Hasil riset 1 v1](../sources/hasil-riset-1-v1.md)
 - [Hasil riset 3 v1](../sources/hasil-riset-3-v1.md)
 - [Info pemindahan induk v1](../sources/info-pemindahan-induk-v1.md)
+- [Estimasi waktu kawin v1](../sources/estimasi-waktu-kawin-v1.md)
 
 ## Hubungan
 
+- [Durasi dan indikator pemijahan lele — kakaban terpal](durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md)
 - [Pemindahan induk pasca pemijahan — kakaban terpal](pemindahan-induk-pasca-pemijahan-kakaban-terpal.md)
 - [Metode pemijahan lele — sintesis web](metode-pemijahan-lele-sintesis-web.md)
 - [Kriteria pra-pemijahan lele — sintesis web](kriteria-pra-pemijahan-lele-sintesis-web.md)

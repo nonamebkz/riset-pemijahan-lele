@@ -5,7 +5,7 @@ title: Alur pasca pemijahan lele
 aliases: [checklist pasca pijah, timeline setelah pemijahan]
 created: 2026-09-29
 updated: 2026-09-29
-revision: 2
+revision: 3
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -15,6 +15,8 @@ source_refs:
   - source_id: pasca-pemijahan
     version_id: v1
   - source_id: info-pemindahan-induk
+    version_id: v1
+  - source_id: estimasi-waktu-kawin
     version_id: v1
 ---
 
@@ -28,7 +30,7 @@ Sumber checklist merangkum urutan operasional setelah pemijahan: **induk out →
 
 Urutan dari [pasca-pemijahan v1](../sources/pasca-pemijahan-v1.md):
 
-1. **Angkat induk** jantan dan betina segera (pasca raw 5–7)—**bukan** tunggu menetas. Timing kakaban terpal: **1–2 jam** setelah pijah selesai, ideal pagi **05–07**, maks **<6 jam**; indikator visual selesai pijah → [Pemindahan induk pasca pemijahan — kakaban terpal](pemindahan-induk-pasca-pemijahan-kakaban-terpal.md) ([info-pemindahan-induk v1](../sources/info-pemindahan-induk-v1.md)).
+1. **Angkat induk** jantan dan betina segera setelah pijah selesai (pasca raw 5–7)—**bukan** tunggu menetas; **bukan** hitung jam sejak tebar tanpa indikator ([estimasi-waktu-kawin v1](../sources/estimasi-waktu-kawin-v1.md)). Timing kakaban terpal: **1–2 jam** pasca selesai (konflik frasa vs «mulai memijah»—lihat konsep pemindahan), ideal pagi **05–07**, maks **<6 jam** → [Pemindahan induk](pemindahan-induk-pasca-pemijahan-kakaban-terpal.md), [Durasi & indikator pijah](durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md).
 2. **Seleksi telur** — bening kekuningan vs putih susu/keruh (mati); buang mati (raw 9–12).
 3. **Kakaban → bak penetasan** — air 20–30 cm, bersih, tenang (raw 14–16).
 4. **Aerasi halus** dekat telur, tidak kencang (raw 18–20).
@@ -46,6 +48,7 @@ Urutan dari [pasca-pemijahan v1](../sources/pasca-pemijahan-v1.md):
 
 ## Hubungan
 
+- [Durasi dan indikator pemijahan lele — kakaban terpal](durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md)
 - [Pemindahan induk pasca pemijahan — kakaban terpal](pemindahan-induk-pasca-pemijahan-kakaban-terpal.md)
 - [Penetasan telur lele — praktik kolam terpal](penetasan-telur-lele-praktik-kolam-terpal.md) — detail penetasan
 - [Perawatan kolam setelah pemijahan](perawatan-kolam-setelah-pemijahan.md) — sanitasi kolam pemijahan / air bekas

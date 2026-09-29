@@ -327,3 +327,16 @@
 - **Ketersediaan:** available
 - **Halaman wiki:** [info-pemindahan-induk-v1.md](../wiki/sources/info-pemindahan-induk-v1.md)
 - **job_id terakhir:** job-20260929-ingest-017
+
+## estimasi-waktu-kawin
+
+### v1
+
+- **Judul:** Estimasi waktu kawin (catatan raw)
+- **Lokasi lokal:** `raw/estimasi waktu kawin.md`
+- **Hash:** SHA-256 `7cc90bfe2999ed28098c1af3de1d41eb8dd63a3b145e00637a204f2001660a65`
+- **processing_status:** complete
+- **extraction_scope:** full
+- **Ketersediaan:** available
+- **Halaman wiki:** [estimasi-waktu-kawin-v1.md](../wiki/sources/estimasi-waktu-kawin-v1.md)
+- **job_id terakhir:** job-20260929-ingest-018

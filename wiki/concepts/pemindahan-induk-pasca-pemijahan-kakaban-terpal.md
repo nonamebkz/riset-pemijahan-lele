@@ -5,7 +5,7 @@ title: Pemindahan induk pasca pemijahan — kakaban terpal
 aliases: [angkat induk, waktu angkat induk]
 created: 2026-09-29
 updated: 2026-09-29
-revision: 1
+revision: 2
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -16,13 +16,15 @@ source_refs:
     version_id: v1
   - source_id: pasca-pemijahan
     version_id: v1
+  - source_id: estimasi-waktu-kawin
+    version_id: v1
 ---
 
 # Pemindahan induk pasca pemijahan — kakaban terpal
 
 ## Ringkasan
 
-Setelah pemijahan di **kolam terpal + kakaban**, angkat jantan & betina **segera**—**jangan** tunggu telur menetas ([info-pemindahan-induk v1](../sources/info-pemindahan-induk-v1.md)). Target operasional: **1–2 jam** setelah aktivitas pijah selesai (ideal pagi **05–07**); toleransi **<6 jam**. [Pasca-pemijahan v1](../sources/pasca-pemijahan-v1.md) checklist: «angkat induk segera» tanpa angka menit—sumber ini melengkapi timing.
+Setelah pemijahan di **kolam terpal + kakaban**, angkat jantan & betina **segera setelah pijah selesai**—**jangan** tunggu telur menetas ([info-pemindahan-induk v1](../sources/info-pemindahan-induk-v1.md)). Patokan **bukan** jam sejak tebar induk ([estimasi-waktu-kawin v1](../sources/estimasi-waktu-kawin-v1.md)). Target: **1–2 jam** pasca selesai pijah (ideal pagi **05–07**); toleransi **<6 jam**. Durasi tahapan kawin → [Durasi dan indikator pemijahan lele — kakaban terpal](durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md).
 
 ## Penjelasan
 
@@ -31,7 +33,8 @@ Setelah pemijahan di **kolam terpal + kakaban**, angkat jantan & betina **segera
 | Situasi | Patokan raw |
 |---------|-------------|
 | Telur sudah merata di kakaban | **±30–60 menit** setelah selesai pijah |
-| Praktik hatchery umum | **1–2 jam** setelah induk mulai memijah |
+| Praktik hatchery (info-pemindahan) | **1–2 jam** setelah induk **mulai** memijah — lihat Pertentangan vs «selesai pijah» |
+| Patokan estimasi-waktu-kawin | **±1–2 jam** setelah aktivitas pijah **selesai** |
 | Maksimal | **<6 jam** pasca pemijahan |
 
 ### Indikator «selesai pijah» (bukan jam saja)
@@ -56,17 +59,20 @@ Setelah pemijahan di **kolam terpal + kakaban**, angkat jantan & betina **segera
 ## Bukti dan sumber
 
 - [Info pemindahan induk v1](../sources/info-pemindahan-induk-v1.md)
+- [Estimasi waktu kawin v1](../sources/estimasi-waktu-kawin-v1.md)
 - [Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md)
 
 ## Hubungan
 
+- [Durasi dan indikator pemijahan lele — kakaban terpal](durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md)
 - [Alur pasca pemijahan lele](alur-pasca-pemijahan-lele.md)
 - [Induk dan persiapan pemijahan lele](induk-dan-persiapan-pemijahan-lele.md) — pemulihan induk
 - [Perawatan kolam setelah pemijahan](perawatan-kolam-setelah-pemijahan.md)
 
 ## Pertentangan dan ketidakpastian
 
-- «Segera» (pasca checklist) vs **1–2 jam** / **<6 h** (info-pemindahan)—sumber baru memberi rentang; belum human-reviewed sebagai SOP tunggal.
+- «Segera» (pasca checklist) vs **1–2 jam** / **<6 h** (info-pemindahan)—belum human-reviewed sebagai SOP tunggal.
+- Titik acuan **1–2 jam:** «setelah **mulai** memijah» (info-pemindahan) vs «setelah pijah **selesai**» (estimasi-waktu-kawin)—keduanya dicatat.
 
 ## Pertanyaan terbuka
 
