@@ -1,16 +1,16 @@
 # Graph Report - riset-pemijahan-lele  (2026-09-30)
 
 ## Corpus Check
-- 102 files · ~45,712 words
+- 103 files · ~46,273 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 835 nodes · 957 edges · 122 communities (99 shown, 23 thin omitted)
+- 841 nodes · 962 edges · 123 communities (100 shown, 23 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `0212ae4b`
+- Built from commit: `3238e650`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -125,10 +125,11 @@
 - spesifikasi-kakaban
 - spesifikasi-pemijahan-lele
 - Job ingest — job-20260930-ingest-scan
+- Job maintain — job-20260930-maintain-004
 
 ## God Nodes (most connected - your core abstractions)
 1. `Registri Sumber` - 26 edges
-2. `Log Kegiatan` - 23 edges
+2. `Log Kegiatan` - 24 edges
 3. `Deep Research: Pemijahan Lele` - 21 edges
 4. `Pedoman Agen LLM Wiki` - 12 edges
 5. `Struktur Data Wiki` - 11 edges
@@ -141,7 +142,7 @@
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (122 total, 23 thin omitted)
+## Communities (123 total, 23 thin omitted)
 
 ### Community 0 - "Pedoman Agen LLM Wiki"
 Cohesion: 0.15
@@ -217,7 +218,7 @@ Nodes (4): Analisis, Katalog Wiki, Konsep, Sumber
 
 ### Community 19 - "Log Kegiatan"
 Cohesion: 0.08
-Nodes (23): 2026-09-29 — job-20260929-ingest-001, 2026-09-29 — job-20260929-ingest-002, 2026-09-29 — job-20260929-ingest-003, 2026-09-29 — job-20260929-ingest-004, 2026-09-29 — job-20260929-ingest-005, 2026-09-29 — job-20260929-ingest-006, 2026-09-29 — job-20260929-ingest-007, 2026-09-29 — job-20260929-ingest-008 (+15 more)
+Nodes (24): 2026-09-29 — job-20260929-ingest-001, 2026-09-29 — job-20260929-ingest-002, 2026-09-29 — job-20260929-ingest-003, 2026-09-29 — job-20260929-ingest-004, 2026-09-29 — job-20260929-ingest-005, 2026-09-29 — job-20260929-ingest-006, 2026-09-29 — job-20260929-ingest-007, 2026-09-29 — job-20260929-ingest-008 (+16 more)
 
 ### Community 20 - "Perawatan kolam setelah pemijahan"
 Cohesion: 0.20
@@ -301,7 +302,7 @@ Nodes (10): Bukti dan sumber, Hubungan, Menaikkan pH, Menurunkan pH, Pengaturan 
 
 ### Community 41 - "info pemindahan induk.md"
 Cohesion: 0.17
-Nodes (12): Bukti dan sumber, Contoh timeline lapangan (raw), Durasi dan indikator pemijahan lele — kakaban terpal, Hubungan, Indikator «jangan angkat» vs «selesai», Penjelasan, Pertanyaan terbuka, Pertentangan dan ketidakpastian (+4 more)
+Nodes (12): Bukti dan sumber, Contoh timeline lapangan ([Estimasi waktu kawin v1](../sources/estimasi-waktu-kawin-v1.md)), Durasi dan indikator pemijahan lele — kakaban terpal, Hubungan, Indikator «jangan angkat» vs «selesai», Penjelasan, Pertanyaan terbuka, Pertentangan dan ketidakpastian (+4 more)
 
 ### Community 42 - "Induk dan persiapan pemijahan lele"
 Cohesion: 0.25
@@ -491,8 +492,12 @@ Nodes (4): Berkas diubah, Izin, Job maintain — job-20260930-maintain-002, Tuju
 Cohesion: 0.50
 Nodes (3): Hasil, Job ingest — job-20260930-ingest-scan, Tindakan
 
+### Community 122 - "Job maintain — job-20260930-maintain-004"
+Cohesion: 0.40
+Nodes (4): Berkas diubah (utama), Job maintain — job-20260930-maintain-004, Tujuan, Validasi
+
 ## Knowledge Gaps
-- **581 isolated node(s):** `Prompt berulang (jalankan persis)`, `Rantai otomatis`, `Prompt pendek (setara)`, `Alur`, `Contoh prompt` (+576 more)
+- **585 isolated node(s):** `Prompt berulang (jalankan persis)`, `Rantai otomatis`, `Prompt pendek (setara)`, `Alur`, `Contoh prompt` (+580 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 - **23 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
@@ -500,15 +505,15 @@ Nodes (3): Hasil, Job ingest — job-20260930-ingest-scan, Tindakan
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `Registri Sumber` connect `Registri Sumber` to `parameter-kualitas-air-lele.md`, `aerasi-kolam`, `cara-cepat-menetaskan-telur`, `cara-menaikan-ph`, `cara-menurunkan-ph`, `cara-merawat-air`, `cara-merawat-kolam-setelah-pemijahan`, `cara-merawat-telur-lele`, `deep-research-pemijahan-lele`, `estimasi-waktu-kawin`, `hasil-riset-1`, `hasil-riset-2`, `hasil-riset-3`, `info-pemindahan-induk`, `komposisi-pakan-larva-lele`, `layout-aerasi`, `membedakan-telur`, `methylene-blue`, `pasca-pemijahan`, `pembahasan-kolam-terpal-dan-pemijahan`, `saran-penetasan-telur`, `spesifikasi-kakaban`, `spesifikasi-pemijahan-lele`?**
-  _High betweenness centrality (0.066) - this node is a cross-community bridge._
+  _High betweenness centrality (0.065) - this node is a cross-community bridge._
 - **Why does `Layout aerasi pembenihan lele` connect `Penjelasan` to `parameter-kualitas-air-lele.md`?**
   _High betweenness centrality (0.019) - this node is a cross-community bridge._
 - **Why does `Unit inkubasi telur lele — engineering (sintesis web)` connect `Penjelasan` to `parameter-kualitas-air-lele.md`?**
-  _High betweenness centrality (0.017) - this node is a cross-community bridge._
+  _High betweenness centrality (0.016) - this node is a cross-community bridge._
 - **What connects `Prompt berulang (jalankan persis)`, `Rantai otomatis`, `Prompt pendek (setara)` to the rest of the system?**
-  _581 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _585 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Log Kegiatan` be split into smaller, more focused modules?**
-  _Cohesion score 0.08333333333333333 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.08 - nodes in this community are weakly interconnected._
 - **Should `Deep Research: Pemijahan Lele` be split into smaller, more focused modules?**
   _Cohesion score 0.06896551724137931 - nodes in this community are weakly interconnected._
 - **Should `Deep Research Pakan Alternatif untuk Lele dan Larva` be split into smaller, more focused modules?**

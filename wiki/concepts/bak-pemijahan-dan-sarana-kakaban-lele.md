@@ -4,8 +4,8 @@ type: concept
 title: Bak pemijahan dan sarana kakaban lele
 aliases: [kolam pemijahan 2x3, kakaban ijuk]
 created: 2026-09-29
-updated: 2026-09-29
-revision: 3
+updated: 2026-09-30
+revision: 4
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -15,6 +15,8 @@ source_refs:
   - source_id: spesifikasi-pemijahan-lele
     version_id: v1
   - source_id: spesifikasi-kakaban
+    version_id: v1
+  - source_id: info-lapangan-konfigurasi-kolam
     version_id: v1
 ---
 
@@ -30,6 +32,8 @@ Bak pemijahan skala kecil (contoh 2×3 m / 3×4 m) dengan air 30–50 cm; kakaba
 
 - Material: tembok, terpal, atau fiber ([Spesifikasi pemijahan lele v1](../sources/spesifikasi-pemijahan-lele-v1.md) — raw baris 9–12).
 - Ukuran contoh: **2×3 m** atau **3×4 m**; kedalaman bak **80–100 cm**; air pemijahan **30–50 cm**.
+
+**Lapangan pengguna (2026-09-30):** **1** kolam pijah **2×3 m** ([Info lapangan konfigurasi kolam v1](../sources/info-lapangan-konfigurasi-kolam-v1.md)). Telur/larva tidak di kolam ini—lihat [Konfigurasi kolam pembenihan — lapangan](konfigurasi-kolam-pembenihan-lapangan.md).
 
 **Kakaban — spesifikasi detail** ([spesifikasi-kakaban v1](../sources/spesifikasi-kakaban-v1.md))
 
@@ -50,9 +54,11 @@ Setelah telur menempel → [Penetasan telur lele](penetasan-telur-lele-praktik-k
 
 - [Spesifikasi pemijahan lele v1](../sources/spesifikasi-pemijahan-lele-v1.md)
 - [Spesifikasi kakaban v1](../sources/spesifikasi-kakaban-v1.md)
+- [Info lapangan — konfigurasi kolam pembenihan v1](../sources/info-lapangan-konfigurasi-kolam-v1.md)
 
 ## Hubungan
 
+- [Konfigurasi kolam pembenihan — lapangan](konfigurasi-kolam-pembenihan-lapangan.md)
 - [Induk dan persiapan pemijahan lele](induk-dan-persiapan-pemijahan-lele.md)
 - [Layout aerasi pembenihan lele](layout-aerasi-pembenihan-lele.md)
 
@@ -62,4 +68,4 @@ Setelah telur menempel → [Penetasan telur lele](penetasan-telur-lele-praktik-k
 
 ## Pertanyaan terbuka
 
-- Drainase bak 2×3 vs 3×4 m; konfirmasi ukuran kakaban yang akan dipakai di lapangan.
+- Kedalaman air kolam pijah 2×3 m; konfirmasi ukuran kakaban yang akan dipakai di lapangan (dimensi lembar masih uncertain antar raw).

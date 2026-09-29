@@ -354,3 +354,20 @@
 - **Ketersediaan:** available
 - **Halaman wiki:** [estimasi-waktu-kawin-v1.md](../wiki/sources/estimasi-waktu-kawin-v1.md)
 - **job_id terakhir:** job-20260929-ingest-018
+
+## info-lapangan-konfigurasi-kolam
+
+### v1
+
+- **Judul:** Info lapangan — konfigurasi kolam pembenihan
+- **Penulis/penerbit:** pengguna (pernyataan chat)
+- **Tanggal publikasi:** null
+- **Lokasi lokal:** kutipan di `state/jobs/job-20260930-ingest-019.md` (bukan `raw/`)
+- **URL asal:** null
+- **Hash:** null
+- **processing_status:** complete
+- **extraction_scope:** full
+- **Ketersediaan:** available
+- **Halaman wiki:** [info-lapangan-konfigurasi-kolam-v1.md](../wiki/sources/info-lapangan-konfigurasi-kolam-v1.md)
+- **job_id terakhir:** job-20260930-ingest-019
+- **Kendala terbuka:** kedalaman air; pembagian fungsi antar 3 kolam 1,5×3 m

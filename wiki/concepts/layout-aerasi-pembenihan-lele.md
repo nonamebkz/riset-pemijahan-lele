@@ -5,7 +5,7 @@ title: Layout aerasi pembenihan lele
 aliases: [posisi aerasi telur, aerasi bak pijah]
 created: 2026-09-29
 updated: 2026-09-30
-revision: 6
+revision: 7
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -20,15 +20,26 @@ source_refs:
     version_id: v1
   - source_id: blower
     version_id: v1
+  - source_id: info-lapangan-konfigurasi-kolam
+    version_id: v1
 ---
 
 # Layout aerasi pembenihan lele
 
 ## Ringkasan
 
-Posisi aerasi **beda per fase**: pemijahan ringan; penetasan halus dekat kakaban tanpa hantaman; larva di pinggir dengan zona tengah relatif tenang untuk makan.
+Posisi aerasi **beda per fase**: pemijahan ringan; penetasan halus dekat kakaban tanpa hantaman; larva di pinggir dengan zona tengah relatif tenang untuk makan. **Inventaris lapangan:** 1 kolam pijah **2×3 m**; 3 kolam **1,5×3 m** untuk larva/penetasan ([Konfigurasi kolam pembenihan — lapangan](konfigurasi-kolam-pembenihan-lapangan.md)).
 
 ## Penjelasan
+
+### Inventaris kolam (lapangan)
+
+| Unit | Fungsi | Dimensi |
+|------|--------|---------|
+| 1 | Pijah | 2 × 3 m |
+| 3 | Larva & penetasan | 1,5 × 3 m (per kolam) |
+
+Bukti: [Info lapangan konfigurasi kolam v1](../sources/info-lapangan-konfigurasi-kolam-v1.md). Patokan **4–6** diffuser / **~3.000 L** di bawah mengacu desain **2×3 m** telur ([aerasi-kolam v1](../sources/aerasi-kolam-v1.md))—untuk kolam **1,5×3 m** volume lebih kecil jika kedalaman sama; kalibrasi DO per unit setelah kedalaman diketahui.
 
 ### Bak pemijahan induk
 
@@ -92,9 +103,11 @@ Setelah desain awal, sesuaikan blower dengan **DO terukur** dan respons telur �
 - [Aerasi kolam v1](../sources/aerasi-kolam-v1.md)
 - [Blower v1](../sources/blower-v1.md)
 - [Hasil riset 2 v1](../sources/hasil-riset-2-v1.md) (debit L/menit — uncertain, skala wadah berbeda)
+- [Info lapangan — konfigurasi kolam pembenihan v1](../sources/info-lapangan-konfigurasi-kolam-v1.md)
 
 ## Hubungan
 
+- [Konfigurasi kolam pembenihan — lapangan](konfigurasi-kolam-pembenihan-lapangan.md)
 - [Kalibrasi DO dan blower pembenihan lele](kalibrasi-do-dan-blower-pembenihan-lele.md)
 - [Unit inkubasi telur lele — engineering (sintesis web)](unit-inkubasi-telur-lele-engineering-sintesis-web.md)
 - [Bak pemijahan dan sarana kakaban lele](bak-pemijahan-dan-sarana-kakaban-lele.md)
@@ -109,4 +122,4 @@ Setelah desain awal, sesuaikan blower dengan **DO terukur** dan respons telur �
 
 ## Pertanyaan terbuka
 
-- Log DO harian di kolam pengguna setelah menerapkan throttling (blower v1).
+- Log DO harian per kolam (1× 2×3 pijah; 3× 1,5×3 telur/larva) setelah throttling (blower v1).

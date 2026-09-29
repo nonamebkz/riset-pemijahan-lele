@@ -155,3 +155,16 @@
 - **Hasil:** 15+ konsep diperbarui (layout, kalibrasi DO, durasi, komposisi, pakan alternatif, seleksi telur, kakaban, perawatan kolam, rantai air, jentik nyamuk, parameter/TDS/pH, penetasan rev 12, dll.)
 - **Validasi:** 0 tautan wiki rusak
 - **Sisa:** ringkasan panjang di `wiki/sources/*` (§/raw inline) — bukan halaman konsep; deep-research source page
+
+## 2026-09-30 — job-20260930-ingest-019
+
+- **Jenis:** ingest (info lapangan dari chat; bukan `raw/`)
+- **Hasil:** 1 halaman sumber; konsep [Konfigurasi kolam pembenihan — lapangan](concepts/konfigurasi-kolam-pembenihan-lapangan.md); bak/kakaban rev 4; layout aerasi rev 7
+- **Validasi:** kutipan pengguna di job; tautan indeks/registri; raw tidak diubah
+- **Sisa:** kedalaman air; alokasi penetasan vs larva per 3 kolam 1,5×3 m
+
+## 2026-09-30 — job-20260930-ingest-019 (lanjutan)
+
+- **Jenis:** ingest (konfirmasi satuan)
+- **Hasil:** sumber info-lapangan rev 2; konfigurasi kolam lapangan rev 2; job § kutipan lanjutan
+- **Validasi:** satuan meter dari pernyataan pengguna, bukan interpretasi wiki

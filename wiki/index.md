@@ -27,6 +27,7 @@
 - [Hasil riset 2 — unit inkubasi](sources/hasil-riset-2-v1.md) — debit aerasi, flow-through FAO, tray; engineering telur.
 - [Hasil riset 3 — metode pemijahan](sources/hasil-riset-3-v1.md) — alami, striping Ovaprim, semi-alami; latency ~10 jam.
 - [Pakan alternatif lele & larva](sources/pakan-alternative-v1.md) — sintesis BSF, fermentasi; citation IDs di raw; uncertain.
+- [Info lapangan — konfigurasi kolam](sources/info-lapangan-konfigurasi-kolam-v1.md) — 1 kolam pijah 2×3 m; 3 kolam larva/penetasan 1,5×3 m (chat pengguna).
 
 ## Konsep
 
@@ -42,8 +43,9 @@
 - [Induk dan persiapan pemijahan lele](concepts/induk-dan-persiapan-pemijahan-lele.md) — umur/bobot, 1:1, puasa, pakan, ciri siap pijah (rev 8; rasio/bobot literatur web).
 - [Kriteria pra-pemijahan lele — sintesis web](concepts/kriteria-pra-pemijahan-lele-sintesis-web.md) — metode alami/induced/striping; uncertain.
 - [Metode pemijahan lele — sintesis web](concepts/metode-pemijahan-lele-sintesis-web.md) — prosedur A/B/C, fertilisasi, inkubasi pasca striping.
-- [Bak pemijahan dan sarana kakaban lele](concepts/bak-pemijahan-dan-sarana-kakaban-lele.md) — dimensi bak, detail kakaban; catat perbedaan ukuran antar sumber.
-- [Layout aerasi pembenihan lele](concepts/layout-aerasi-pembenihan-lele.md) — posisi + desain terpal 3 m³ (rev 6).
+- [Bak pemijahan dan sarana kakaban lele](concepts/bak-pemijahan-dan-sarana-kakaban-lele.md) — dimensi bak, detail kakaban; kolam pijah lapangan 2×3 m (rev 4).
+- [Konfigurasi kolam pembenihan — lapangan](concepts/konfigurasi-kolam-pembenihan-lapangan.md) — inventaris 1× pijah 2×3 m + 3× larva/penetasan 1,5×3 m.
+- [Layout aerasi pembenihan lele](concepts/layout-aerasi-pembenihan-lele.md) — posisi aerasi + inventaris kolam lapangan (rev 7).
 - [Kalibrasi DO dan blower pembenihan lele](concepts/kalibrasi-do-dan-blower-pembenihan-lele.md) — lapangan DO vs arus telur.
 - [Unit inkubasi telur lele — engineering (sintesis web)](concepts/unit-inkubasi-telur-lele-engineering-sintesis-web.md) — trough, tray, DO, cautions agitasi.
 - [Komposisi dan jadwal pakan larva lele](concepts/komposisi-dan-jadwal-pakan-larva-lele.md) — fase 0–2 hari hingga 14+ hari; frekuensi pemberian (rev 4 + alternatif riset).
