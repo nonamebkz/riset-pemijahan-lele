@@ -24,7 +24,7 @@ source_refs:
 
 - **source_id:** hasil-riset-2
 - **version_id:** v1
-- **Bahan asli:** `raw/hasil-riset-2.html`
+- **Bahan asli:** `raw/hasil-riset-2-unit-inkubasi-sintesis-web.html`
 - **Hash:** SHA-256 `0ed79b4d20f96c0fdda39ec7edd5696edeeffa2c99f349508c13d0586de7dfe0`
 - **Jenis:** ekspor HTML **sintesis web** (fokus desain unit penahanan/penetasan: kedalaman, aerasi vs flow-through, debit, DO, kerusakan telur); **bukan** pakan pasca menetas. Sitasi `<sup>` **kosong** di raw.
 

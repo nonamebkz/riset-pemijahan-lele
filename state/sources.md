@@ -58,7 +58,8 @@
 - **Judul:** Cara merawat kolam setelah pemijahan (catatan raw)
 - **Penulis/penerbit:** tidak tercantum dalam berkas
 - **Tanggal publikasi:** null
-- **Lokasi lokal:** `raw/cara-merawat-kolam setelah-pemijahan.md` (spasi dalam nama berkas)
+- **Lokasi lokal:** `raw/cara-merawat-kolam-setelah-pemijahan.md`
+- **Alias lokasi:** `raw/cara-merawat-kolam setelah-pemijahan.md`
 - **URL asal:** null
 - **Hash:** SHA-256 `8f62c06f824a66876dbf918fb69922b50d89938c632ab40b613d45882dbd1d5d`
 - **processing_status:** complete
@@ -112,7 +113,8 @@
 ### v1
 
 - **Judul:** Agar kolam tidak memiliki jentik nyamuk (catatan raw)
-- **Lokasi lokal:** `raw/agar-kolam-tidak-memilii-jentik-nyamuk.md`
+- **Lokasi lokal:** `raw/agar-kolam-tidak-memiliki-jentik-nyamuk.md`
+- **Alias lokasi:** `raw/agar-kolam-tidak-memilii-jentik-nyamuk.md`
 - **Hash:** SHA-256 `ca804d1a0d30ab89cbd7405ccc5383d12023afe33f84a325ddd0a9fbc6fbda9b`
 - **processing_status:** complete
 - **extraction_scope:** full
@@ -151,7 +153,8 @@
 ### v1
 
 - **Judul:** Pasca pemijahan (catatan raw)
-- **Lokasi lokal:** `raw/pasca-pemijahan.md`
+- **Lokasi lokal:** `raw/checklist-pasca-pemijahan-lele.md`
+- **Alias lokasi:** `raw/pasca-pemijahan.md`
 - **Hash:** SHA-256 `0c6d41514a12fb86fa880bfe77289479f25a64c7c31696d7b1a87e161667114b`
 - **processing_status:** complete
 - **extraction_scope:** full
@@ -177,7 +180,8 @@
 ### v1
 
 - **Judul:** Layout aerasi (catatan raw)
-- **Lokasi lokal:** `raw/layout-aerasi.md`
+- **Lokasi lokal:** `raw/layout-aerasi-pembenihan-lele.md`
+- **Alias lokasi:** `raw/layout-aerasi.md`
 - **Hash:** SHA-256 `e666396f93209f7141d1116088e27caaba4c62ae6fcf36063b41b53f39483c6c`
 - **processing_status:** complete
 - **extraction_scope:** full
@@ -190,7 +194,8 @@
 ### v1
 
 - **Judul:** Membedakan telur lele (catatan raw)
-- **Lokasi lokal:** `raw/membedakan-telur.md`
+- **Lokasi lokal:** `raw/membedakan-telur-bagus-dan-mati.md`
+- **Alias lokasi:** `raw/membedakan-telur.md`
 - **Hash:** SHA-256 `4013faabd522d34e72c7675d8deffc3cb456e65b913deea01ddfc172beecab4b`
 - **processing_status:** complete
 - **extraction_scope:** full
@@ -216,7 +221,8 @@
 ### v1
 
 - **Judul:** Hasil riset 1 — pra-pemijahan lele (catatan raw)
-- **Lokasi lokal:** `raw/hasil-riset-1.html`
+- **Lokasi lokal:** `raw/hasil-riset-1-kriteria-pra-pemijahan-sintesis-web.html`
+- **Alias lokasi:** `raw/hasil-riset-1.html`
 - **Hash:** SHA-256 `f13be2dcd1e9306cd395bd14064a3083087e927f9a810aa22c6a8ac41e9e8188`
 - **processing_status:** complete
 - **extraction_scope:** full
@@ -229,7 +235,8 @@
 ### v1
 
 - **Judul:** Hasil riset 2 — unit inkubasi telur (catatan raw)
-- **Lokasi lokal:** `raw/hasil-riset-2.html`
+- **Lokasi lokal:** `raw/hasil-riset-2-unit-inkubasi-sintesis-web.html`
+- **Alias lokasi:** `raw/hasil-riset-2.html`
 - **Hash:** SHA-256 `0ed79b4d20f96c0fdda39ec7edd5696edeeffa2c99f349508c13d0586de7dfe0`
 - **processing_status:** complete
 - **extraction_scope:** full
@@ -242,7 +249,8 @@
 ### v1
 
 - **Judul:** Hasil riset 3 — metode pemijahan lele (catatan raw)
-- **Lokasi lokal:** `raw/hasil-riset-3.html`
+- **Lokasi lokal:** `raw/hasil-riset-3-metode-pemijahan-sintesis-web.html`
+- **Alias lokasi:** `raw/hasil-riset-3.html`
 - **Hash:** SHA-256 `d206cbc66f872c33cd9367aae8a03064056f979b53e43ce323712b632695f6c7`
 - **processing_status:** complete
 - **extraction_scope:** full
@@ -255,7 +263,8 @@
 ### v1
 
 - **Judul:** Pakan alternatif lele & larva (catatan raw)
-- **Lokasi lokal:** `raw/pakan-alternative.md`
+- **Lokasi lokal:** `raw/pakan-alternatif-lele-sintesis-riset.md`
+- **Alias lokasi:** `raw/pakan-alternative.md`
 - **Hash:** SHA-256 `df4fba15a8a63cdf03c3533a6d8ca2f63dbad5c179a642891dfd5356c865f905`
 - **processing_status:** complete
 - **extraction_scope:** full
@@ -281,7 +290,8 @@
 ### v1
 
 - **Judul:** Kalibrasi DO dan blower (catatan raw)
-- **Lokasi lokal:** `raw/blower.md`
+- **Lokasi lokal:** `raw/kalibrasi-do-dan-blower-pembenihan-lele.md`
+- **Alias lokasi:** `raw/blower.md`
 - **Hash:** SHA-256 `98addc1142509127724e0267fa01ee5001336fea1662d9382d852ebe422d159c`
 - **processing_status:** complete
 - **extraction_scope:** full
@@ -294,7 +304,8 @@
 ### v1
 
 - **Judul:** Cara cepat menetaskan telur (catatan raw)
-- **Lokasi lokal:** `raw/cara cepat menetaskan telur.md`
+- **Lokasi lokal:** `raw/cara-cepat-menetaskan-telur.md`
+- **Alias lokasi:** `raw/cara cepat menetaskan telur.md`
 - **Hash:** SHA-256 `97c407711400ebe5264804ec031e547861f23d43f60e33cf2980cc1ea63f5598`
 - **processing_status:** complete
 - **extraction_scope:** full
@@ -307,7 +318,8 @@
 ### v1
 
 - **Judul:** Methylene blue pada penetasan telur (catatan raw)
-- **Lokasi lokal:** `raw/methylene blue.md`
+- **Lokasi lokal:** `raw/methylene-blue-inkubasi-telur-lele.md`
+- **Alias lokasi:** `raw/methylene blue.md`
 - **Hash:** SHA-256 `6c87d25ebc5717c9eafa5f7562ec4639270e5f0a7d7762e2f4301c6dd09f81c5`
 - **processing_status:** complete
 - **extraction_scope:** full
@@ -320,7 +332,8 @@
 ### v1
 
 - **Judul:** Info pemindahan induk (catatan raw)
-- **Lokasi lokal:** `raw/info pemindahan induk.md`
+- **Lokasi lokal:** `raw/info-pemindahan-induk-pasca-pemijahan-kakaban.md`
+- **Alias lokasi:** `raw/info pemindahan induk.md`
 - **Hash:** SHA-256 `64d9f7b1048987887d94d1c6f963d8e5c25719b2e60b217a4d555cc8ec8b1e13`
 - **processing_status:** complete
 - **extraction_scope:** full
@@ -333,7 +346,8 @@
 ### v1
 
 - **Judul:** Estimasi waktu kawin (catatan raw)
-- **Lokasi lokal:** `raw/estimasi waktu kawin.md`
+- **Lokasi lokal:** `raw/estimasi-waktu-kawin.md`
+- **Alias lokasi:** `raw/estimasi waktu kawin.md`
 - **Hash:** SHA-256 `7cc90bfe2999ed28098c1af3de1d41eb8dd63a3b145e00637a204f2001660a65`
 - **processing_status:** complete
 - **extraction_scope:** full

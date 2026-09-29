@@ -4,8 +4,8 @@ type: concept
 title: Layout aerasi pembenihan lele
 aliases: [posisi aerasi telur, aerasi bak pijah]
 created: 2026-09-29
-updated: 2026-09-29
-revision: 4
+updated: 2026-09-30
+revision: 5
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -103,7 +103,7 @@ Setelah desain awal, sesuaikan blower dengan **DO terukur** dan respons telur �
 
 ## Pertentangan dan ketidakpastian
 
-- **Jumlah batu:** layout-aerasi raw ~**1–2** batu (2×3 m) vs aerasi-kolam **4–6** titik + blower lebih besar—skala intensitas berbeda; validasi dengan DO terukur.
+- **Jumlah batu:** [Layout aerasi v1](../sources/layout-aerasi-v1.md) ~**1–2** batu (2×3 m) vs [Aerasi kolam v1](../sources/aerasi-kolam-v1.md) **4–6** titik + blower lebih besar—skala intensitas berbeda; validasi dengan DO terukur.
 - Debit **5 L/menit air/18 L** (studi IPB) vs **0,5–1 L/menit air** flow-through 3.000 L (aerasi-kolam) vs **20–40 L/menit udara** (blower)—**satuan berbeda**.
 - Flow FAO **1–2 L/menit/80–100 L** trough ≠ kolam terpal 3 m³.
 

@@ -4,8 +4,8 @@ type: concept
 title: Penetasan telur lele — praktik kolam terpal
 aliases: [aerasi telur lele, media telur lele, kakaban telur lele]
 created: 2026-09-29
-updated: 2026-09-29
-revision: 10
+updated: 2026-09-30
+revision: 11
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -52,20 +52,20 @@ Penetasan aman menekankan **air stabil**, **aerasi halus**, **telur tidak padat/
 
 ## Penjelasan
 
-- **Parameter:** [Parameter kualitas air lele](parameter-kualitas-air-lele.md); saran penetasan: suhu **27–29 °C**, pH **~6,5–7,5**, air bersih tidak berminyak/berbau (saran raw 10–13).
-- **Pisah induk & pindah kakaban** — perlahan; suhu/pH mendekati (telur-lele raw 3–4; spesifikasi raw 39).
-- **Penempatan telur** — kakaban menggantung atau sedikit terendam rata; tidak tumpuk tebal (saran raw 20–23; telur-lele raw 5–6).
-- **Aerasi** — kecil/halus kontinu; DO penetasan usahakan ~**5 mg/L** (telur-lele, pembahasan); posisi **samping/bawah kakaban** ~10–20 cm, kakaban memanjang, lihat [Layout aerasi pembenihan lele](layout-aerasi-pembenihan-lele.md) ([layout-aerasi v1](../sources/layout-aerasi-v1.md)).
-- **Air sungai/olah** — hanya setelah olahan/tampung/endap (telur-lele; pembahasan; saran endap 12–24 jam).
-- **Seleksi telur** — lihat [Seleksi dan ciri telur lele](seleksi-dan-ciri-telur-lele.md); buang telur mati/jamur segera (saran; membedakan-telur; deep-research §10). Cara-cepat: buang putih/mati **12–24 jam**; antijamur «jika standar hatchery»—selaras methylene blue opsional vs larangan obat coba-coba (lihat Pertentangan).
-- **Mempercepat aman** — stabilkan **28–30 °C** (±≤2 °C/hari); DO >5 dengan arus halus → [Kalibrasi DO dan blower](kalibrasi-do-dan-blower-pembenihan-lele.md); kakaban tidak padat; inkubasi terpisah (jar/baskom) untuk seragam & kontrol O₂ (cara-cepat §6).
-- **Methylene blue** — lihat [Methylene blue pada inkubasi telur lele](methylene-blue-pada-inkubasi-telur-lele.md). Ringkas: antijamur telur mati (**2–5 ppm** di [methylene-blue v1](../sources/methylene-blue-v1.md)); **tidak** mempercepat menetas; wadah terpisah lebih ideal vs kakaban terpal. Masih bentrok: saran/pasca vs larangan telur-lele vs deep-research non-default.
-- **Lingkungan** — teduh; hindari matahari/hujan/getaran (saran raw 30–32).
-- **Kepadatan** — jangan terlalu tinggi agar O₂ cukup (saran raw 46).
-- **Waktu menetas** — **bukan** bisa «dipaksa» jauh lebih cepat; ditentukan suhu, kualitas telur & air ([cara-cepat-menetaskan-telur v1](../sources/cara-cepat-menetaskan-telur-v1.md) raw 1–7). **Rentang kolam terpal optimal:** **18–30 jam** @ **28–30 °C** (sumber cepat); **36–48 jam** jika suhu rendah/air kurang. Tabel suhu (raw 16–21): 24–26 °C → 36–48 h; 27–29 → 24–36 h; **29–31 → 18–24 h**; **>32 °C** risiko kematian embrio. **Sumber lain:** **20–30 jam** (spesifikasi, saran, pasca) vs **24–36 jam** (telur-lele). **Usulan harmonisasi** deep-research: **24–30 h** (+36 h toleransi, evaluasi visual)—belum human-reviewed. **Hatchery:** ~22 h (studi tray); FAO 28–32 h @ 25 °C; 20 °C→57 h / 30 °C→20 h (hasil-riset-3). **Golden setting** (cara-cepat raw 126–138): suhu **28–30**, DO **5–7**, pH **6,5–8**, arus lembut, ganti air minimal → **18–30 h**.
+- **Parameter:** [Parameter kualitas air lele](parameter-kualitas-air-lele.md); suhu **27–29 °C**, pH **~6,5–7,5**, air bersih tidak berminyak/berbau ([Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md) — raw baris 10–13).
+- **Pisah induk & pindah kakaban** — angkat induk agar telur tidak dimakan; jangan dikerok telur di kakaban; pindah ke bak penetasan **perlahan** dengan suhu/pH mendekati air pemijahan ([Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md) — raw baris 3–4). Setelah telur menempel, pindahkan kakaban ke bak penetasan **20–30 cm** ([Spesifikasi pemijahan lele v1](../sources/spesifikasi-pemijahan-lele-v1.md) — raw baris 39–40); selaras [Pemindahan induk pasca pemijahan — kakaban terpal](pemindahan-induk-pasca-pemijahan-kakaban-terpal.md).
+- **Penempatan telur** — kakaban menggantung atau sedikit terendam rata; tidak tumpuk tebal ([Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md) — raw baris 20–23; [Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md) — raw baris 5–6).
+- **Aerasi** — kecil/halus kontinu; DO penetasan usahakan ~**5 mg/L** ([Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md) — raw baris 7–8; [Pembahasan kolam terpal v1](../sources/pembahasan-kolam-terpal-dan-pemijahan-v1.md)); posisi **samping/bawah kakaban** ~10–20 cm, kakaban memanjang → [Layout aerasi pembenihan lele](layout-aerasi-pembenihan-lele.md) ([Layout aerasi v1](../sources/layout-aerasi-v1.md)).
+- **Air sungai/olah** — hanya setelah olahan/tampung/endap ([Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md) — raw baris 9; [Pembahasan kolam terpal v1](../sources/pembahasan-kolam-terpal-dan-pemijahan-v1.md); [Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md) — endap 12–24 jam).
+- **Seleksi telur** — [Seleksi dan ciri telur lele](seleksi-dan-ciri-telur-lele.md); buang telur mati/jamur ([Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md); [Membedakan telur v1](../sources/membedakan-telur-v1.md); [Deep research pemijahan lele v1](../sources/deep-research-pemijahan-lele-v1.md) — §10). [Cara cepat menetaskan telur v1](../sources/cara-cepat-menetaskan-telur-v1.md): buang putih/mati **12–24 jam** — selaras MB opsional vs larangan obat (lihat Pertentangan).
+- **Mempercepat aman** — stabilkan **28–30 °C** (±≤2 °C/hari); DO >5 dengan arus halus → [Kalibrasi DO dan blower](kalibrasi-do-dan-blower-pembenihan-lele.md); kakaban tidak padat; inkubasi terpisah ([Cara cepat menetaskan telur v1](../sources/cara-cepat-menetaskan-telur-v1.md) — §6).
+- **Methylene blue** — [Methylene blue pada inkubasi telur lele](methylene-blue-pada-inkubasi-telur-lele.md). Ringkas: **2–5 ppm** ([Methylene blue v1](../sources/methylene-blue-v1.md)); **tidak** mempercepat menetas. Bentrok: [Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md) / [Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md) vs [Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md) vs [Deep research v1](../sources/deep-research-pemijahan-lele-v1.md).
+- **Lingkungan** — teduh; hindari matahari/hujan/getaran ([Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md) — raw baris 30–32).
+- **Kepadatan** — jangan terlalu tinggi agar O₂ cukup ([Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md) — raw baris 46).
+- **Waktu menetas** — **bukan** «dipaksa» jauh lebih cepat ([Cara cepat menetaskan telur v1](../sources/cara-cepat-menetaskan-telur-v1.md) — raw baris 1–7). **Rentang kolam terpal optimal:** **18–30 jam** @ **28–30 °C**; **36–48 jam** jika suhu rendah. Tabel suhu ([Cara cepat menetaskan telur v1](../sources/cara-cepat-menetaskan-telur-v1.md) — raw baris 16–21). **Sumber lain:** **20–30 jam** ([Spesifikasi pemijahan lele v1](../sources/spesifikasi-pemijahan-lele-v1.md), [Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md), [Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md)) vs **24–36 jam** ([Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md) — raw baris 15). **Usulan harmonisasi** [Deep research v1](../sources/deep-research-pemijahan-lele-v1.md): **24–30 h** (+36 h toleransi)—belum human-reviewed. **Literatur web:** [Hasil riset 3 v1](../sources/hasil-riset-3-v1.md). **Golden setting** ([Cara cepat menetaskan telur v1](../sources/cara-cepat-menetaskan-telur-v1.md) — raw baris 126–138): suhu **28–30**, DO **5–7**, pH **6,5–8** → **18–30 h**.
 - **Engineering wadah** — kedalaman **40 cm** + tray (studi) vs bak terpal **~20–30 cm**; debit aerasi/flow → [Unit inkubasi telur lele — engineering (sintesis web)](unit-inkubasi-telur-lele-engineering-sintesis-web.md).
-- **Pasca menetas** — kuning telur **2–3 hari**; lalu pakan halus → [Komposisi dan jadwal pakan larva lele](komposisi-dan-jadwal-pakan-larva-lele.md); buang cangkang/kotoran (saran raw 38–41).
-- **Ganti air** — sedikit rutin lebih baik daripada banyak sekaligus (saran raw 43–44; telur-lele raw 13). **Desain terpal** [aerasi-kolam v1](../sources/aerasi-kolam-v1.md): fase telur **0–5%/hari** (0–2 h), **5–10%** (3–5 h); prioritaskan DO & arus halus vs ganti air besar—lihat [Layout aerasi pembenihan lele](layout-aerasi-pembenihan-lele.md).
+- **Pasca menetas** — kuning telur **2–3 hari**; lalu pakan halus → [Komposisi dan jadwal pakan larva lele](komposisi-dan-jadwal-pakan-larva-lele.md); buang cangkang/kotoran ([Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md) — raw baris 38–41).
+- **Ganti air** — sedikit rutin lebih baik daripada banyak sekaligus ([Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md) — raw baris 43–44; [Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md) — raw baris 13). **Desain terpal** [Aerasi kolam v1](../sources/aerasi-kolam-v1.md): fase telur **0–5%/hari** (0–2 h), **5–10%** (3–5 h) → [Layout aerasi pembenihan lele](layout-aerasi-pembenihan-lele.md).
 - **Layout** — [Bak pemijahan dan sarana kakaban](bak-pemijahan-dan-sarana-kakaban-lele.md); [Layout aerasi pembenihan lele](layout-aerasi-pembenihan-lele.md); [Perawatan kolam setelah pemijahan](perawatan-kolam-setelah-pemijahan.md) jika telur di kolam pemijahan.
 
 ## Bukti dan sumber
@@ -101,7 +101,7 @@ Penetasan aman menekankan **air stabil**, **aerasi halus**, **telur tidak padat/
 
 - **Waktu menetas:** 18–30 h (cara-cepat @ 28–30 °C) vs 20–30 vs 24–36 vs harmonisasi deep-research—**suhu** menjelaskan sebagian perbedaan; kebijakan tunggal belum ditetapkan.
 - **18–24 h** @ 29–31 °C (cara-cepat) vs risiko **>32 °C**—jangan equate «cepat» dengan suhu berlebihan.
-- **Methylene blue:** saran/pasca vs telur-lele vs deep-research vs dosis 2–5 ppm (methylene-blue raw)—**kebijakan hatchery Anda belum ditetapkan** di wiki.
+- **Methylene blue:** [Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md) / [Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md) vs [Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md) vs [Deep research v1](../sources/deep-research-pemijahan-lele-v1.md) vs **2–5 ppm** ([Methylene blue v1](../sources/methylene-blue-v1.md))—**kebijakan hatchery Anda belum ditetapkan** di wiki.
 - `evidence_status` halaman tetap **uncertain** sampai tinjauan manusia.
 
 ## Pertanyaan terbuka

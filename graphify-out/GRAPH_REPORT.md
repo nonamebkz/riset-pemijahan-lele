@@ -1,16 +1,16 @@
-# Graph Report - riset-pemijahan-lele  (2026-09-29)
+# Graph Report - riset-pemijahan-lele  (2026-09-30)
 
 ## Corpus Check
-- 94 files · ~43,250 words
+- 102 files · ~45,712 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 772 nodes · 885 edges · 92 communities
+- 835 nodes · 957 edges · 122 communities (99 shown, 23 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `db51ea5c`
+- Built from commit: `0212ae4b`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -94,12 +94,42 @@
 - Job ingest — job-20260929-ingest-016
 - Membedakan telur lele (catatan raw)
 - Job ingest — job-20260929-ingest-007
+- agar-kolam-tidak-memilii-jentik-nyamuk.md
+- layout-aerasi.md
+- membedakan-telur.md
+- pasca-pemijahan.md
 - Job ingest — job-20260929-ingest-017
+- Job ingest — job-20260929-ingest-018
+- Job maintain — job-20260930-maintain-002
+- README.md
+- aerasi-kolam
+- cara-cepat-menetaskan-telur
+- cara-menaikan-ph
+- cara-menurunkan-ph
+- cara-merawat-air
+- cara-merawat-kolam-setelah-pemijahan
+- cara-merawat-telur-lele
+- deep-research-pemijahan-lele
+- estimasi-waktu-kawin
+- hasil-riset-1
+- hasil-riset-2
+- hasil-riset-3
+- info-pemindahan-induk
+- komposisi-pakan-larva-lele
+- layout-aerasi
+- membedakan-telur
+- methylene-blue
+- pasca-pemijahan
+- pembahasan-kolam-terpal-dan-pemijahan
+- saran-penetasan-telur
+- spesifikasi-kakaban
+- spesifikasi-pemijahan-lele
+- Job ingest — job-20260930-ingest-scan
 
 ## God Nodes (most connected - your core abstractions)
-1. `Registri Sumber` - 25 edges
-2. `Deep Research: Pemijahan Lele` - 21 edges
-3. `Log Kegiatan` - 18 edges
+1. `Registri Sumber` - 26 edges
+2. `Log Kegiatan` - 23 edges
+3. `Deep Research: Pemijahan Lele` - 21 edges
 4. `Pedoman Agen LLM Wiki` - 12 edges
 5. `Struktur Data Wiki` - 11 edges
 6. `Keterampilan: Mengolah Sumber` - 11 edges
@@ -111,7 +141,7 @@
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (92 total, 0 thin omitted)
+## Communities (122 total, 23 thin omitted)
 
 ### Community 0 - "Pedoman Agen LLM Wiki"
 Cohesion: 0.15
@@ -170,8 +200,8 @@ Cohesion: 0.40
 Nodes (4): LLM Wiki — ingest (skill utama), Prompt berulang (jalankan persis), Prompt pendek (setara), Rantai otomatis
 
 ### Community 15 - "Registri Sumber"
-Cohesion: 0.04
-Nodes (49): aerasi-kolam, agar-kolam-tidak-memilii-jentik-nyamuk, blower, cara-cepat-menetaskan-telur, cara-menaikan-ph, cara-menurunkan-ph, cara-merawat-air, cara-merawat-kolam-setelah-pemijahan (+41 more)
+Cohesion: 0.29
+Nodes (7): agar-kolam-tidak-memilii-jentik-nyamuk, blower, pakan-alternative, Registri Sumber, v1, v1, v1
 
 ### Community 16 - "LLM Wiki — maintain"
 Cohesion: 0.50
@@ -186,8 +216,8 @@ Cohesion: 0.50
 Nodes (4): Analisis, Katalog Wiki, Konsep, Sumber
 
 ### Community 19 - "Log Kegiatan"
-Cohesion: 0.11
-Nodes (18): 2026-09-29 — job-20260929-ingest-001, 2026-09-29 — job-20260929-ingest-002, 2026-09-29 — job-20260929-ingest-003, 2026-09-29 — job-20260929-ingest-004, 2026-09-29 — job-20260929-ingest-005, 2026-09-29 — job-20260929-ingest-006, 2026-09-29 — job-20260929-ingest-007, 2026-09-29 — job-20260929-ingest-008 (+10 more)
+Cohesion: 0.08
+Nodes (23): 2026-09-29 — job-20260929-ingest-001, 2026-09-29 — job-20260929-ingest-002, 2026-09-29 — job-20260929-ingest-003, 2026-09-29 — job-20260929-ingest-004, 2026-09-29 — job-20260929-ingest-005, 2026-09-29 — job-20260929-ingest-006, 2026-09-29 — job-20260929-ingest-007, 2026-09-29 — job-20260929-ingest-008 (+15 more)
 
 ### Community 20 - "Perawatan kolam setelah pemijahan"
 Cohesion: 0.20
@@ -246,8 +276,8 @@ Cohesion: 0.18
 Nodes (11): Bukti dan sumber, Cara aplikasi, Dosis (catatan raw), Hubungan, Kapan dipertimbangkan, Methylene blue pada inkubasi telur lele, Penjelasan, Pertanyaan terbuka (+3 more)
 
 ### Community 35 - "Pemindahan induk pasca pemijahan — kakaban terpal"
-Cohesion: 0.18
-Nodes (11): Bukti dan sumber, Contoh SOP lapangan (raw), Hubungan, Indikator «selesai pijah» (bukan jam saja), Kapan angkat (jam), Pemindahan induk pasca pemijahan — kakaban terpal, Penjelasan, Pertanyaan terbuka (+3 more)
+Cohesion: 0.17
+Nodes (12): Bukti dan sumber, Contoh SOP lapangan (raw), Hubungan, Indikator «selesai pijah» (bukan jam saja), Kakaban & telur (setelah induk keluar), Kapan angkat (jam), Pemindahan induk pasca pemijahan — kakaban terpal, Penjelasan (+4 more)
 
 ### Community 36 - "Seleksi dan ciri telur lele"
 Cohesion: 0.18
@@ -270,8 +300,8 @@ Cohesion: 0.20
 Nodes (10): Bukti dan sumber, Hubungan, Menaikkan pH, Menurunkan pH, Pengaturan pH air pembenihan, Penjelasan, Pertanyaan terbuka, Pertentangan dan ketidakpastian (+2 more)
 
 ### Community 41 - "info pemindahan induk.md"
-Cohesion: 0.25
-Nodes (7): >12 jam:, >6 jam:, Cara menentukan "selesai pijah" (jangan hanya berdasarkan jam), Catatan untuk sistem kakaban terpal, Mengapa tidak boleh terlalu lama?, SOP sederhana lapangan, Waktu ideal pengangkatan induk
+Cohesion: 0.17
+Nodes (12): Bukti dan sumber, Contoh timeline lapangan (raw), Durasi dan indikator pemijahan lele — kakaban terpal, Hubungan, Indikator «jangan angkat» vs «selesai», Penjelasan, Pertanyaan terbuka, Pertentangan dan ketidakpastian (+4 more)
 
 ### Community 42 - "Induk dan persiapan pemijahan lele"
 Cohesion: 0.25
@@ -429,28 +459,57 @@ Nodes (5): Cakupan pembacaan, Halaman terkait, Identitas dan versi sumber, Membe
 Cohesion: 0.50
 Nodes (3): Integrasi, Job ingest — job-20260929-ingest-007, Sumber baru
 
+### Community 81 - "agar-kolam-tidak-memilii-jentik-nyamuk.md"
+Cohesion: 0.20
+Nodes (9): 1. Durasi Proses Pemijahan Lele, 1. Pantau aktivitas:, 2. Apakah Telur Keluar Sekaligus?, 2. Tunggu selesai:, 3. Baru angkat:, 3. Jadi Kapan Induk Diangkat?, 4. Contoh Timeline Lapangan, 5. Kesalahan Umum Pembenih (+1 more)
+
+### Community 85 - "layout-aerasi.md"
+Cohesion: 0.25
+Nodes (7): >12 jam:, >6 jam:, Cara menentukan "selesai pijah" (jangan hanya berdasarkan jam), Catatan untuk sistem kakaban terpal, Mengapa tidak boleh terlalu lama?, SOP sederhana lapangan, Waktu ideal pengangkatan induk
+
+### Community 86 - "membedakan-telur.md"
+Cohesion: 0.29
+Nodes (6): Diperbarui, Izin, Job maintain — job-20260930-maintain-003, Rename (isi byte tidak berubah; hash v1 tetap), Tidak diubah, Validasi
+
+### Community 87 - "pasca-pemijahan.md"
+Cohesion: 0.29
+Nodes (7): Cakupan pembacaan, Estimasi waktu kawin (catatan raw), Halaman terkait, Identitas dan versi sumber, Keterbatasan, Klaim utama (lokasi di raw), Ringkasan
+
 ### Community 91 - "Job ingest — job-20260929-ingest-017"
 Cohesion: 0.40
 Nodes (4): Integrasi, Job ingest — job-20260929-ingest-017, Sumber baru, Validasi
 
+### Community 92 - "Job ingest — job-20260929-ingest-018"
+Cohesion: 0.33
+Nodes (5): Job ingest — job-20260929-ingest-018, Langkah, Rencana integrasi, Sumber baru, Usulan persetujuan
+
+### Community 93 - "Job maintain — job-20260930-maintain-002"
+Cohesion: 0.40
+Nodes (4): Berkas diubah, Izin, Job maintain — job-20260930-maintain-002, Tujuan
+
+### Community 121 - "Job ingest — job-20260930-ingest-scan"
+Cohesion: 0.50
+Nodes (3): Hasil, Job ingest — job-20260930-ingest-scan, Tindakan
+
 ## Knowledge Gaps
-- **536 isolated node(s):** `Prompt berulang (jalankan persis)`, `Rantai otomatis`, `Prompt pendek (setara)`, `Alur`, `Contoh prompt` (+531 more)
+- **581 isolated node(s):** `Prompt berulang (jalankan persis)`, `Rantai otomatis`, `Prompt pendek (setara)`, `Alur`, `Contoh prompt` (+576 more)
   These have ≤1 connection - possible missing edges or undocumented components.
+- **23 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `Registri Sumber` connect `Registri Sumber` to `parameter-kualitas-air-lele.md`?**
-  _High betweenness centrality (0.071) - this node is a cross-community bridge._
+- **Why does `Registri Sumber` connect `Registri Sumber` to `parameter-kualitas-air-lele.md`, `aerasi-kolam`, `cara-cepat-menetaskan-telur`, `cara-menaikan-ph`, `cara-menurunkan-ph`, `cara-merawat-air`, `cara-merawat-kolam-setelah-pemijahan`, `cara-merawat-telur-lele`, `deep-research-pemijahan-lele`, `estimasi-waktu-kawin`, `hasil-riset-1`, `hasil-riset-2`, `hasil-riset-3`, `info-pemindahan-induk`, `komposisi-pakan-larva-lele`, `layout-aerasi`, `membedakan-telur`, `methylene-blue`, `pasca-pemijahan`, `pembahasan-kolam-terpal-dan-pemijahan`, `saran-penetasan-telur`, `spesifikasi-kakaban`, `spesifikasi-pemijahan-lele`?**
+  _High betweenness centrality (0.066) - this node is a cross-community bridge._
 - **Why does `Layout aerasi pembenihan lele` connect `Penjelasan` to `parameter-kualitas-air-lele.md`?**
-  _High betweenness centrality (0.021) - this node is a cross-community bridge._
+  _High betweenness centrality (0.019) - this node is a cross-community bridge._
 - **Why does `Unit inkubasi telur lele — engineering (sintesis web)` connect `Penjelasan` to `parameter-kualitas-air-lele.md`?**
-  _High betweenness centrality (0.018) - this node is a cross-community bridge._
+  _High betweenness centrality (0.017) - this node is a cross-community bridge._
 - **What connects `Prompt berulang (jalankan persis)`, `Rantai otomatis`, `Prompt pendek (setara)` to the rest of the system?**
-  _536 weakly-connected nodes found - possible documentation gaps or missing edges._
-- **Should `Registri Sumber` be split into smaller, more focused modules?**
-  _Cohesion score 0.04081632653061224 - nodes in this community are weakly interconnected._
+  _581 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Log Kegiatan` be split into smaller, more focused modules?**
-  _Cohesion score 0.10526315789473684 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.08333333333333333 - nodes in this community are weakly interconnected._
 - **Should `Deep Research: Pemijahan Lele` be split into smaller, more focused modules?**
+  _Cohesion score 0.06896551724137931 - nodes in this community are weakly interconnected._
+- **Should `Deep Research Pakan Alternatif untuk Lele dan Larva` be split into smaller, more focused modules?**
   _Cohesion score 0.06896551724137931 - nodes in this community are weakly interconnected._

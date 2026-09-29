@@ -122,3 +122,29 @@
 - **Hasil:** 1 sumber; konsep durasi & indikator pijah; pemindahan induk rev 2; alur pasca rev 3; induk rev 7
 - **Validasi:** hash SHA-256; raw tidak diubah; registri 25/25 complete
 - **Sisa:** titik acuan «1–2 jam» mulai vs selesai pijah — butuh persetujuan manusia untuk SOP tunggal
+
+## 2026-09-30 — job-20260930-maintain-001
+
+- **Jenis:** maintain (audit bawaan)
+- **Cakupan:** 25 sumber + 22 konsep; hash 25/25; 0 tautan rusak
+- **Temuan:** indeks penetasan rev usang; gap alur end-to-end
+- **Perbaikan:** tidak diterapkan
+
+## 2026-09-30 — job-20260930-maintain-002
+
+- **Jenis:** maintain (perbaikan tautan bukti raw → wiki/sources)
+- **Hasil:** penetasan rev 11; alur pasca rev 4; pemindahan induk rev 3; durasi rev 2; layout rev 5; induk rev 8; MB rev 2; indeks
+- **Validasi:** 0 tautan rusak pasca-edit
+- **Sisa:** singkatan «raw §» di pakan-alternatif, kalibrasi-do, komposisi — batch berikutnya bila diminta
+
+## 2026-09-30 — job-20260930-maintain-003
+
+- **Jenis:** maintain (rename raw + alias registri; permintaan pengguna)
+- **Hasil:** 14 berkas raw di-rename ke kebab-case/topik jelas; `state/sources.md` + 14 `wiki/sources` + catatan job; `raw/README.md`
+- **Validasi:** hash 25/25 unchanged; `source_id` wiki tidak diubah
+
+## 2026-09-30 — job-20260930-ingest-scan
+
+- **Jenis:** ingest (pemindai; tidak ada sumber baru)
+- **Hasil:** 25/25 raw `complete`; hash cocok; `raw/README.md` diabaikan (bukan sumber)
+- **Perubahan wiki:** tidak ada

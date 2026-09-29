@@ -24,7 +24,7 @@ source_refs:
 
 - **source_id:** info-pemindahan-induk
 - **version_id:** v1
-- **Bahan asli:** `raw/info pemindahan induk.md` (spasi dalam nama berkas)
+- **Bahan asli:** `raw/info-pemindahan-induk-pasca-pemijahan-kakaban.md`
 - **Hash:** SHA-256 `64d9f7b1048987887d94d1c6f963d8e5c25719b2e60b217a4d555cc8ec8b1e13`
 
 ## Cakupan pembacaan

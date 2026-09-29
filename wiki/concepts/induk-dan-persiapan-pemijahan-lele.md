@@ -4,8 +4,8 @@ type: concept
 title: Induk dan persiapan pemijahan lele
 aliases: [seleksi induk lele, induk siap pijah]
 created: 2026-09-29
-updated: 2026-09-29
-revision: 7
+updated: 2026-09-30
+revision: 8
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -53,11 +53,11 @@ Spesifikasi skala kecil menetapkan rentang umur/bobot induk, kriteria kesehatan,
 | Betina siap | perut membesar lunak; alat kelamin kemerahan |
 | Jantan siap | alat kelamin meruncing; diurut keluar cairan putih |
 
-Bukti: [spesifikasi-pemijahan-lele v1](../sources/spesifikasi-pemijahan-lele-v1.md), raw baris 4–7, 21–22, 30–36.
+Bukti: [Spesifikasi pemijahan lele v1](../sources/spesifikasi-pemijahan-lele-v1.md) — raw baris 4–7, 21–22, 30–36.
 
 ### Pemulihan pasca pemijahan
 
-Setelah dipijahkan, induk dipisah dan dipulihkan: pakan berkualitas tinggi dan air bersih agar siap siklus berikutnya ([pasca-pemijahan v1](../sources/pasca-pemijahan-v1.md) raw 35–37). **Durasi & indikator pijah:** [Durasi dan indikator pemijahan lele — kakaban terpal](durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md). **Kapan angkat:** [Pemindahan induk pasca pemijahan — kakaban terpal](pemindahan-induk-pasca-pemijahan-kakaban-terpal.md)—**1–2 jam** (titik acuan lihat pertentangan di halaman itu), maks **<6 jam**; tebar malam **20–22**, cek & angkat pagi **05–07**.
+Setelah dipijahkan, induk dipisah dan dipulihkan: pakan berkualitas tinggi dan air bersih agar siap siklus berikutnya ([Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md) — raw baris 35–37). **Durasi & indikator pijah:** [Durasi dan indikator pemijahan lele — kakaban terpal](durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md). **Kapan angkat:** [Pemindahan induk pasca pemijahan — kakaban terpal](pemindahan-induk-pasca-pemijahan-kakaban-terpal.md)—**1–2 jam** (titik acuan lihat pertentangan di halaman itu), maks **<6 jam**; tebar malam **20–22**, cek & angkat pagi **05–07**.
 
 ## Bukti dan sumber
 
@@ -83,7 +83,7 @@ Setelah dipijahkan, induk dipisah dan dipulihkan: pakan berkualitas tinggi dan a
 
 - **Bobot induk:** spesifikasi **700 g–1,2 kg** / **500 g–1 kg** vs deep-research **~300–800 g** vs hasil-riset **900–1500 g** (alami *C. gariepinus*) vs Sangkuriang **0,5–1,0 kg**—strain/metode berbeda; belum diselesaikan.
 - **Rasio:** spesifikasi **1:1** pasangan vs hasil-riset alami **1:2–1:3** (jantan:betina).
-- Umur/bobot «dumbo» di hasil-riset raw berkualitas campuran (indikator saja).
+- Umur/bobot «dumbo» di [Hasil riset 1 v1](../sources/hasil-riset-1-v1.md) berkualitas campuran (indikator saja).
 - **Puasa:** 1 hari (spesifikasi) vs 1–2 hari (striping sintesis).
 - **Jadwal alami:** sore/malam + hari berikutnya (hasil-riset-3) vs tidak eksplisit di spesifikasi wiki.
 

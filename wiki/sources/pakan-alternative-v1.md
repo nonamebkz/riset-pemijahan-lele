@@ -24,7 +24,7 @@ source_refs:
 
 - **source_id:** pakan-alternative
 - **version_id:** v1
-- **Bahan asli:** `raw/pakan-alternative.md`
+- **Bahan asli:** `raw/pakan-alternatif-lele-sintesis-riset.md`
 - **Hash:** SHA-256 `df4fba15a8a63cdf03c3533a6d8ca2f63dbad5c179a642891dfd5356c865f905`
 - **Jenis:** dokumen **sintesis riset** (172 baris); referensi ditandai `[citation: N]` **di raw saja**—jurnal/URL **tidak** disertakan di berkas; tidak diverifikasi ulang pada ingest.
 

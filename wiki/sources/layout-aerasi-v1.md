@@ -24,7 +24,7 @@ source_refs:
 
 - **source_id:** layout-aerasi
 - **version_id:** v1
-- **Bahan asli:** `raw/layout-aerasi.md`
+- **Bahan asli:** `raw/layout-aerasi-pembenihan-lele.md`
 - **Hash:** SHA-256 `e666396f93209f7141d1116088e27caaba4c62ae6fcf36063b41b53f39483c6c`
 
 ## Cakupan pembacaan

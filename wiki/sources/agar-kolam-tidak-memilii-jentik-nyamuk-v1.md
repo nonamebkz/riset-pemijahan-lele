@@ -24,7 +24,7 @@ source_refs:
 
 - **source_id:** agar-kolam-tidak-memilii-jentik-nyamuk
 - **version_id:** v1
-- **Bahan asli:** `raw/agar-kolam-tidak-memilii-jentik-nyamuk.md` (ejaan nama berkas: «memilii»)
+- **Bahan asli:** `raw/agar-kolam-tidak-memiliki-jentik-nyamuk.md`
 - **Hash:** SHA-256 `ca804d1a0d30ab89cbd7405ccc5383d12023afe33f84a325ddd0a9fbc6fbda9b`
 
 ## Cakupan pembacaan

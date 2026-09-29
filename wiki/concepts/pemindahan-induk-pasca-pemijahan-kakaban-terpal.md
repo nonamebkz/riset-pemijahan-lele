@@ -4,8 +4,8 @@ type: concept
 title: Pemindahan induk pasca pemijahan — kakaban terpal
 aliases: [angkat induk, waktu angkat induk]
 created: 2026-09-29
-updated: 2026-09-29
-revision: 2
+updated: 2026-09-30
+revision: 3
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -17,6 +17,10 @@ source_refs:
   - source_id: pasca-pemijahan
     version_id: v1
   - source_id: estimasi-waktu-kawin
+    version_id: v1
+  - source_id: cara-merawat-telur-lele
+    version_id: v1
+  - source_id: spesifikasi-pemijahan-lele
     version_id: v1
 ---
 
@@ -30,7 +34,7 @@ Setelah pemijahan di **kolam terpal + kakaban**, angkat jantan & betina **segera
 
 ### Kapan angkat (jam)
 
-| Situasi | Patokan raw |
+| Situasi | Patokan |
 |---------|-------------|
 | Telur sudah merata di kakaban | **±30–60 menit** setelah selesai pijah |
 | Praktik hatchery (info-pemindahan) | **1–2 jam** setelah induk **mulai** memijah — lihat Pertentangan vs «selesai pijah» |
@@ -56,11 +60,19 @@ Setelah pemijahan di **kolam terpal + kakaban**, angkat jantan & betina **segera
 - **Pagi:** cek kakaban **05–07**; jika telur merata → angkat induk → kolam pemeliharaan induk.
 - **Setelah angkat:** aerasi telur **24 jam**; jangan ganggu kakaban; pantau DO & suhu → [Penetasan telur lele](penetasan-telur-lele-praktik-kolam-terpal.md), [Kalibrasi DO dan blower](kalibrasi-do-dan-blower-pembenihan-lele.md).
 
+### Kakaban & telur (setelah induk keluar)
+
+- Jangan dikerok/dilepas telur satu-satu di kakaban ([Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md) — raw baris 3).
+- Bila pindah ke bak penetasan: **perlahan**; suhu/pH mendekati air pemijahan ([Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md) — raw baris 3–4).
+- Pindahkan kakaban ke bak penetasan **20–30 cm** setelah telur menempel ([Spesifikasi pemijahan lele v1](../sources/spesifikasi-pemijahan-lele-v1.md) — raw baris 39–40). Urutan checklist: [Alur pasca pemijahan lele](alur-pasca-pemijahan-lele.md) langkah 3.
+
 ## Bukti dan sumber
 
 - [Info pemindahan induk v1](../sources/info-pemindahan-induk-v1.md)
 - [Estimasi waktu kawin v1](../sources/estimasi-waktu-kawin-v1.md)
 - [Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md)
+- [Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md)
+- [Spesifikasi pemijahan lele v1](../sources/spesifikasi-pemijahan-lele-v1.md)
 
 ## Hubungan
 

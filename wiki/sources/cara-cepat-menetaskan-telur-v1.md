@@ -24,7 +24,7 @@ source_refs:
 
 - **source_id:** cara-cepat-menetaskan-telur
 - **version_id:** v1
-- **Bahan asli:** `raw/cara cepat menetaskan telur.md` (nama berkas mengandung spasi)
+- **Bahan asli:** `raw/cara-cepat-menetaskan-telur.md`
 - **Hash:** SHA-256 `97c407711400ebe5264804ec031e547861f23d43f60e33cf2980cc1ea63f5598`
 
 ## Cakupan pembacaan

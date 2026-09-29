@@ -24,7 +24,7 @@ source_refs:
 
 - **source_id:** estimasi-waktu-kawin
 - **version_id:** v1
-- **Bahan asli:** `raw/estimasi waktu kawin.md` (spasi dalam nama berkas)
+- **Bahan asli:** `raw/estimasi-waktu-kawin.md`
 - **Hash:** SHA-256 `7cc90bfe2999ed28098c1af3de1d41eb8dd63a3b145e00637a204f2001660a65`
 
 ## Cakupan pembacaan

@@ -24,7 +24,7 @@ source_refs:
 
 - **source_id:** blower
 - **version_id:** v1
-- **Bahan asli:** `raw/blower.md`
+- **Bahan asli:** `raw/kalibrasi-do-dan-blower-pembenihan-lele.md`
 - **Hash:** SHA-256 `98addc1142509127724e0267fa01ee5001336fea1662d9382d852ebe422d159c`
 
 ## Cakupan pembacaan

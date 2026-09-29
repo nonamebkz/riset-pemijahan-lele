@@ -24,7 +24,7 @@ source_refs:
 
 - **source_id:** cara-merawat-kolam-setelah-pemijahan
 - **version_id:** v1
-- **Bahan asli:** `raw/cara-merawat-kolam setelah-pemijahan.md` (nama berkas mengandung spasi)
+- **Bahan asli:** `raw/cara-merawat-kolam-setelah-pemijahan.md`
 - **Hash:** SHA-256 `8f62c06f824a66876dbf918fb69922b50d89938c632ab40b613d45882dbd1d5d`
 
 ## Cakupan pembacaan

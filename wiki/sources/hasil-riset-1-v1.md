@@ -24,7 +24,7 @@ source_refs:
 
 - **source_id:** hasil-riset-1
 - **version_id:** v1
-- **Bahan asli:** `raw/hasil-riset-1.html`
+- **Bahan asli:** `raw/hasil-riset-1-kriteria-pra-pemijahan-sintesis-web.html`
 - **Hash:** SHA-256 `f13be2dcd1e9306cd395bd14064a3083087e927f9a810aa22c6a8ac41e9e8188`
 - **Jenis:** ekspor HTML **sintesis** (judul: foundation pre-spawn/spawn criteria); teks merujuk «sumber web yang Anda terima»; elemen `<sup>` sitasi **kosong** di raw—**URL/jurnal tidak tersimpan** di berkas ini.
 

@@ -4,8 +4,8 @@ type: concept
 title: Alur pasca pemijahan lele
 aliases: [checklist pasca pijah, timeline setelah pemijahan]
 created: 2026-09-29
-updated: 2026-09-29
-revision: 3
+updated: 2026-09-30
+revision: 4
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -30,21 +30,24 @@ Sumber checklist merangkum urutan operasional setelah pemijahan: **induk out →
 
 Urutan dari [pasca-pemijahan v1](../sources/pasca-pemijahan-v1.md):
 
-1. **Angkat induk** jantan dan betina segera setelah pijah selesai (pasca raw 5–7)—**bukan** tunggu menetas; **bukan** hitung jam sejak tebar tanpa indikator ([estimasi-waktu-kawin v1](../sources/estimasi-waktu-kawin-v1.md)). Timing kakaban terpal: **1–2 jam** pasca selesai (konflik frasa vs «mulai memijah»—lihat konsep pemindahan), ideal pagi **05–07**, maks **<6 jam** → [Pemindahan induk](pemindahan-induk-pasca-pemijahan-kakaban-terpal.md), [Durasi & indikator pijah](durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md).
-2. **Seleksi telur** — bening kekuningan vs putih susu/keruh (mati); buang mati (raw 9–12).
-3. **Kakaban → bak penetasan** — air 20–30 cm, bersih, tenang (raw 14–16).
-4. **Aerasi halus** dekat telur, tidak kencang (raw 18–20).
-5. **Kualitas air** — suhu ~27–29 °C, pH ~6,5–7,5; hindari kotor/bau/lonjakan suhu (raw 22–25).
-6. **Cegah jamur** — buang telur gagal; methylene blue ringan «sesuai kebiasaan setempat» (raw 27–29) — lihat [Penetasan telur lele](penetasan-telur-lele-praktik-kolam-terpal.md) untuk pertentangan dengan larangan obat coba-coba.
-7. **Siapkan bak larva** — menetas ~**20–30 jam**; larva tanpa pakan **2–3 hari** (raw 31–33).
-8. **Pulihkan induk** — pisah, pakan berkualitas, air bersih (raw 35–37).
+1. **Angkat induk** jantan dan betina segera setelah pijah selesai ([Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md) — raw baris 5–7)—**bukan** tunggu menetas; **bukan** hitung jam sejak tebar tanpa indikator ([Estimasi waktu kawin v1](../sources/estimasi-waktu-kawin-v1.md)). Timing kakaban terpal: **1–2 jam** pasca selesai → [Pemindahan induk](pemindahan-induk-pasca-pemijahan-kakaban-terpal.md), [Durasi & indikator pijah](durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md). Detail pisah induk & pindah kakaban perlahan → [Penetasan telur lele](penetasan-telur-lele-praktik-kolam-terpal.md) ([Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md) — raw baris 3–4).
+2. **Seleksi telur** — bening kekuningan vs putih susu/keruh (mati); buang mati ([Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md) — raw baris 9–12).
+3. **Kakaban → bak penetasan** — air **20–30 cm**, bersih, tenang ([Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md) — raw baris 14–16; [Spesifikasi pemijahan lele v1](../sources/spesifikasi-pemijahan-lele-v1.md) — raw baris 39–40).
+4. **Aerasi halus** dekat telur, tidak kencang ([Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md) — raw baris 18–20).
+5. **Kualitas air** — suhu ~27–29 °C, pH ~6,5–7,5; hindari kotor/bau/lonjakan suhu ([Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md) — raw baris 22–25).
+6. **Cegah jamur** — buang telur gagal; methylene blue ringan «sesuai kebiasaan setempat» ([Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md) — raw baris 27–29) — lihat [Penetasan telur lele](penetasan-telur-lele-praktik-kolam-terpal.md) / [Methylene blue pada inkubasi telur lele](methylene-blue-pada-inkubasi-telur-lele.md).
+7. **Siapkan bak larva** — menetas ~**20–30 jam**; larva tanpa pakan **2–3 hari** ([Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md) — raw baris 31–33).
+8. **Pulihkan induk** — pisah, pakan berkualitas, air bersih ([Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md) — raw baris 35–37).
 
-**Satu baris:** selesai pijah → induk diangkat → telur diseleksi → bak penetasan → aerasi halus → jaga air → tunggu menetas → rawat larva (raw 39–40).
+**Satu baris:** selesai pijah → induk diangkat → telur diseleksi → bak penetasan → aerasi halus → jaga air → tunggu menetas → rawat larva ([Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md) — raw baris 39–40).
 
 ## Bukti dan sumber
 
 - [Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md)
 - [Info pemindahan induk v1](../sources/info-pemindahan-induk-v1.md)
+- [Estimasi waktu kawin v1](../sources/estimasi-waktu-kawin-v1.md)
+- [Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md)
+- [Spesifikasi pemijahan lele v1](../sources/spesifikasi-pemijahan-lele-v1.md)
 
 ## Hubungan
 

@@ -24,7 +24,7 @@ source_refs:
 
 - **source_id:** hasil-riset-3
 - **version_id:** v1
-- **Bahan asli:** `raw/hasil-riset-3.html`
+- **Bahan asli:** `raw/hasil-riset-3-metode-pemijahan-sintesis-web.html`
 - **Hash:** SHA-256 `d206cbc66f872c33cd9367aae8a03064056f979b53e43ce323712b632695f6c7`
 - **Jenis:** ekspor HTML **sintesis web** (metode A alami, B striping Ovaprim, C semi-alami); sitasi `<sup>` kosong di raw.
 

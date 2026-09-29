@@ -24,7 +24,7 @@ source_refs:
 
 - **source_id:** methylene-blue
 - **version_id:** v1
-- **Bahan asli:** `raw/methylene blue.md` (nama berkas mengandung spasi)
+- **Bahan asli:** `raw/methylene-blue-inkubasi-telur-lele.md`
 - **Hash:** SHA-256 `6c87d25ebc5717c9eafa5f7562ec4639270e5f0a7d7762e2f4301c6dd09f81c5`
 - **Catatan teknis:** baris 3 raw memulai dengan « adalah» (judul MB tersirat di §1); isi dibaca utuh.
 

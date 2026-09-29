@@ -24,7 +24,7 @@ source_refs:
 
 - **source_id:** pasca-pemijahan
 - **version_id:** v1
-- **Bahan asli:** `raw/pasca-pemijahan.md`
+- **Bahan asli:** `raw/checklist-pasca-pemijahan-lele.md`
 - **Hash:** SHA-256 `0c6d41514a12fb86fa880bfe77289479f25a64c7c31696d7b1a87e161667114b`
 
 ## Cakupan pembacaan

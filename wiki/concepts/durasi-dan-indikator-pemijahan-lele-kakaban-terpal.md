@@ -4,8 +4,8 @@ type: concept
 title: Durasi dan indikator pemijahan lele — kakaban terpal
 aliases: [waktu kawin lele, timeline pemijahan kakaban, estimasi pijah]
 created: 2026-09-29
-updated: 2026-09-29
-revision: 1
+updated: 2026-09-30
+revision: 2
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -47,7 +47,7 @@ Telur keluar **bertahap** dalam beberapa pelepasan; jantan mengikuti; pembuahan 
 
 **Masih proses:** masih kejar-kejaran; masih posisi kawin (raw ~48–50).
 
-**Selesai pijah (patokan):** tidak mengejar; betina lebih diam; jantan tidak agresif; telur memenuhi kakaban; aktivitas kawin berhenti **±15–30 menit** (raw ~52–58; selaras [info-pemindahan-induk v1](../sources/info-pemindahan-induk-v1.md)).
+**Selesai pijah (patokan):** tidak mengejar; betina lebih diam; jantan tidak agresif; telur memenuhi kakaban; aktivitas kawin berhenti **±15–30 menit** ([Estimasi waktu kawin v1](../sources/estimasi-waktu-kawin-v1.md) — raw baris 52–58; selaras [Info pemindahan induk v1](../sources/info-pemindahan-induk-v1.md)).
 
 ### Contoh timeline lapangan (raw)
 

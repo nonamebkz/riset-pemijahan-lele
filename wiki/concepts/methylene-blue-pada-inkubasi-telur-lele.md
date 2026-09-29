@@ -4,8 +4,8 @@ type: concept
 title: Methylene blue pada inkubasi telur lele
 aliases: [MB telur lele, dosis methylene blue ppm]
 created: 2026-09-29
-updated: 2026-09-29
-revision: 1
+updated: 2026-09-30
+revision: 2
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -65,7 +65,7 @@ Stres embrio, ganggu bakteri nitrifikasi/biofilter, warna air pekat, residu pada
 
 ## Pertentangan dan ketidakpastian
 
-- **Telur-lele:** hindari obat/garam/kapur **coba-coba** vs **saran/pasca/MB raw** vs dosis **2–5 ppm** di methylene-blue raw.
+- [Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md): hindari obat/garam/kapur **coba-coba** vs opsi MB di [Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md) / [Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md) vs dosis **2–5 ppm** ([Methylene blue v1](../sources/methylene-blue-v1.md)).
 - **Deep-research:** MB bukan SOP default.
 - `evidence_status: uncertain` — butuh keputusan manusia + verifikasi produk (konsentrasi larutan MB).
 

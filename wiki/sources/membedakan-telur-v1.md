@@ -24,7 +24,7 @@ source_refs:
 
 - **source_id:** membedakan-telur
 - **version_id:** v1
-- **Bahan asli:** `raw/membedakan-telur.md`
+- **Bahan asli:** `raw/membedakan-telur-bagus-dan-mati.md`
 - **Hash:** SHA-256 `4013faabd522d34e72c7675d8deffc3cb456e65b913deea01ddfc172beecab4b`
 
 ## Cakupan pembacaan
