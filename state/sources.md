@@ -262,3 +262,68 @@
 - **Ketersediaan:** available
 - **Halaman wiki:** [pakan-alternative-v1.md](../wiki/sources/pakan-alternative-v1.md)
 - **job_id terakhir:** job-20260929-ingest-012
+
+## aerasi-kolam
+
+### v1
+
+- **Judul:** Aerasi kolam terpal pemijahan (catatan raw)
+- **Lokasi lokal:** `raw/aerasi-kolam.md`
+- **Hash:** SHA-256 `cb24af00fbace8ef2d3f308e655767b325837bf9118f480ec9960031df759f19`
+- **processing_status:** complete
+- **extraction_scope:** full
+- **Ketersediaan:** available
+- **Halaman wiki:** [aerasi-kolam-v1.md](../wiki/sources/aerasi-kolam-v1.md)
+- **job_id terakhir:** job-20260929-ingest-013
+
+## blower
+
+### v1
+
+- **Judul:** Kalibrasi DO dan blower (catatan raw)
+- **Lokasi lokal:** `raw/blower.md`
+- **Hash:** SHA-256 `98addc1142509127724e0267fa01ee5001336fea1662d9382d852ebe422d159c`
+- **processing_status:** complete
+- **extraction_scope:** full
+- **Ketersediaan:** available
+- **Halaman wiki:** [blower-v1.md](../wiki/sources/blower-v1.md)
+- **job_id terakhir:** job-20260929-ingest-014
+
+## cara-cepat-menetaskan-telur
+
+### v1
+
+- **Judul:** Cara cepat menetaskan telur (catatan raw)
+- **Lokasi lokal:** `raw/cara cepat menetaskan telur.md`
+- **Hash:** SHA-256 `97c407711400ebe5264804ec031e547861f23d43f60e33cf2980cc1ea63f5598`
+- **processing_status:** complete
+- **extraction_scope:** full
+- **Ketersediaan:** available
+- **Halaman wiki:** [cara-cepat-menetaskan-telur-v1.md](../wiki/sources/cara-cepat-menetaskan-telur-v1.md)
+- **job_id terakhir:** job-20260929-ingest-015
+
+## methylene-blue
+
+### v1
+
+- **Judul:** Methylene blue pada penetasan telur (catatan raw)
+- **Lokasi lokal:** `raw/methylene blue.md`
+- **Hash:** SHA-256 `6c87d25ebc5717c9eafa5f7562ec4639270e5f0a7d7762e2f4301c6dd09f81c5`
+- **processing_status:** complete
+- **extraction_scope:** full
+- **Ketersediaan:** available
+- **Halaman wiki:** [methylene-blue-v1.md](../wiki/sources/methylene-blue-v1.md)
+- **job_id terakhir:** job-20260929-ingest-016
+
+## info-pemindahan-induk
+
+### v1
+
+- **Judul:** Info pemindahan induk (catatan raw)
+- **Lokasi lokal:** `raw/info pemindahan induk.md`
+- **Hash:** SHA-256 `64d9f7b1048987887d94d1c6f963d8e5c25719b2e60b217a4d555cc8ec8b1e13`
+- **processing_status:** complete
+- **extraction_scope:** full
+- **Ketersediaan:** available
+- **Halaman wiki:** [info-pemindahan-induk-v1.md](../wiki/sources/info-pemindahan-induk-v1.md)
+- **job_id terakhir:** job-20260929-ingest-017

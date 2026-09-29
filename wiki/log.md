@@ -81,3 +81,37 @@
 - **Hasil:** 1 sumber; konsep pakan alternatif sintesis riset; komposisi pakan larva rev 3
 - **Validasi:** hash SHA-256; raw tidak diubah; registri 19/19 complete
 - **Sisa:** jurnal `[citation: N]` belum di raw; gap rucah/rebon/cacing vs praktik lapangan wiki
+
+## 2026-09-29 — job-20260929-ingest-013
+
+- **Jenis:** ingest (aerasi-kolam.md baru; 19 dilewati)
+- **Hasil:** 1 sumber; layout aerasi rev 3; penetasan rev 8; unit inkubasi diperbarui (% exchange)
+- **Validasi:** hash SHA-256; raw tidak diubah; registri 20/20 complete
+- **Sisa:** 1–2 vs 4–6 batu aerasi; satuan udara vs air; DO lapangan belum terukur di wiki
+
+## 2026-09-29 — job-20260929-ingest-014
+
+- **Jenis:** ingest (blower.md baru; 20 dilewati)
+- **Hasil:** 1 sumber; konsep kalibrasi DO/blower; layout aerasi rev 4
+- **Validasi:** hash SHA-256; raw tidak diubah; registri 21/21 complete
+- **Sisa:** log DO nyata di lapangan pengguna belum di wiki
+
+## 2026-09-29 — job-20260929-ingest-015
+
+- **Jenis:** ingest (cara cepat menetaskan telur.md baru; 21 dilewati)
+- **Hasil:** 1 sumber; penetasan rev 9 (tabel suhu, golden setting 18–30 h)
+- **Validasi:** hash SHA-256; raw tidak diubah; registri 22/22 complete
+- **Catatan:** path raw berisi spasi (seperti berkas raw lain)
+
+## 2026-09-29 — job-20260929-ingest-016
+
+- **Jenis:** ingest (methylene blue.md baru; 22 dilewati)
+- **Hasil:** 1 sumber; konsep MB inkubasi; penetasan rev 10
+- **Validasi:** hash SHA-256; raw tidak diubah; registri 23/23 complete
+- **Sisa:** kebijakan MB vs larangan telur-lele — butuh persetujuan manusia
+
+## 2026-09-29 — job-20260929-ingest-017
+
+- **Jenis:** ingest (info pemindahan induk.md baru; 23 dilewati)
+- **Hasil:** 1 sumber; konsep pemindahan induk; alur pasca rev 2; induk rev 6
+- **Validasi:** hash SHA-256; raw tidak diubah; registri 24/24 complete

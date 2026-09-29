@@ -55,18 +55,18 @@
     "semantic_hash": ""
   },
   "state/sources.md": {
-    "mtime": 1790694864.328644,
-    "ast_hash": "3e1ff7315660c0855ec0ae16092f2d91",
+    "mtime": 1790700603.525068,
+    "ast_hash": "3a6688dbb747b027a63dea703d138f60",
     "semantic_hash": ""
   },
   "wiki/concepts/parameter-kualitas-air-lele.md": {
-    "mtime": 1790694643.287655,
-    "ast_hash": "8a76df462a64b2b1bf817d9f092f5054",
+    "mtime": 1790698143.525596,
+    "ast_hash": "970b6ca447b46c2de3210d08f38b2ecb",
     "semantic_hash": ""
   },
   "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md": {
-    "mtime": 1790694861.3775206,
-    "ast_hash": "712c76ad81c65e0253e05c7a01e8c0d4",
+    "mtime": 1790700173.6400661,
+    "ast_hash": "0e13a7af910cf3f16c99b1e14a1217f9",
     "semantic_hash": ""
   },
   "wiki/concepts/perawatan-rutin-air-kolam-lele.md": {
@@ -85,13 +85,13 @@
     "semantic_hash": ""
   },
   "wiki/index.md": {
-    "mtime": 1790694862.7116373,
-    "ast_hash": "0d7e920c1207c76404ee201fcc9b9320",
+    "mtime": 1790700604.1523216,
+    "ast_hash": "41e8fa529d53d8257a3c0fa415b7e9f5",
     "semantic_hash": ""
   },
   "wiki/log.md": {
-    "mtime": 1790694865.265648,
-    "ast_hash": "a99bc1c3a2e503bbe9aaaa98096b3441",
+    "mtime": 1790700604.9295168,
+    "ast_hash": "55457f800808da74197a5dc051507e78",
     "semantic_hash": ""
   },
   "wiki/sources/cara-merawat-air-v1.md": {
@@ -120,8 +120,8 @@
     "semantic_hash": ""
   },
   "wiki/concepts/perawatan-kolam-setelah-pemijahan.md": {
-    "mtime": 1790694857.17923,
-    "ast_hash": "8ece4f15e52148aacc58993823770c9b",
+    "mtime": 1790695985.883098,
+    "ast_hash": "93bb35995667697995f1901ea0e515e7",
     "semantic_hash": ""
   },
   "wiki/sources/cara-merawat-kolam-setelah-pemijahan-v1.md": {
@@ -132,6 +132,356 @@
   "wiki/sources/cara-merawat-telur-lele-v1.md": {
     "mtime": 1790694849.440285,
     "ast_hash": "7a9f0b260dfc2b2a2709411282a69fcf",
+    "semantic_hash": ""
+  },
+  "raw/aerasi-kolam.md": {
+    "mtime": 1790699234.9840095,
+    "ast_hash": "a7a49d0e46379ac8e3517326b2120cea",
+    "semantic_hash": ""
+  },
+  "raw/agar-kolam-tidak-memilii-jentik-nyamuk.md": {
+    "mtime": 1790695747.9309058,
+    "ast_hash": "1f2d85cf9848e99f24a5318889a0582f",
+    "semantic_hash": ""
+  },
+  "raw/blower.md": {
+    "mtime": 1790699368.3397858,
+    "ast_hash": "ce0e2dcc935f6ca121214681ffa92cc7",
+    "semantic_hash": ""
+  },
+  "raw/cara cepat menetaskan telur.md": {
+    "mtime": 1790699951.210661,
+    "ast_hash": "3c3ebe359d79514e14bb720e9fe490c9",
+    "semantic_hash": ""
+  },
+  "raw/cara-menaikan-ph.md": {
+    "mtime": 1790694951.656443,
+    "ast_hash": "d331116fb8d5938db279caf13bb480e7",
+    "semantic_hash": ""
+  },
+  "raw/cara-menurunkan-ph.md": {
+    "mtime": 1790694934.2554305,
+    "ast_hash": "2fc77310aaadaaa42f07fc69011ea29a",
+    "semantic_hash": ""
+  },
+  "raw/deep-research-pemijahan-lele.md": {
+    "mtime": 1790697594.1823661,
+    "ast_hash": "29353c162173558aae432571eb61d0c0",
+    "semantic_hash": ""
+  },
+  "raw/hasil-riset-1.html": {
+    "mtime": 1790698097.902113,
+    "ast_hash": "095114d60fae57af001ba5c63fcffae9",
+    "semantic_hash": ""
+  },
+  "raw/hasil-riset-2.html": {
+    "mtime": 1790698393.0740328,
+    "ast_hash": "93dddb3826c3f218b15bc2f5f9a6b1b6",
+    "semantic_hash": ""
+  },
+  "raw/hasil-riset-3.html": {
+    "mtime": 1790698479.7409542,
+    "ast_hash": "6a72a690ed783c0d4421b0e14469b1b3",
+    "semantic_hash": ""
+  },
+  "raw/info pemindahan induk.md": {
+    "mtime": 1790700578.0638921,
+    "ast_hash": "b5fa1750102d7e71ed8a4f7f9dfaf6b9",
+    "semantic_hash": ""
+  },
+  "raw/komposisi-pakan-larva-lele.md": {
+    "mtime": 1790695697.3811245,
+    "ast_hash": "4485967af06a97742fbc11f7f3b4fad3",
+    "semantic_hash": ""
+  },
+  "raw/layout-aerasi.md": {
+    "mtime": 1790696508.1800096,
+    "ast_hash": "61dfa33a1db4c02dd4f2e76b9302eb86",
+    "semantic_hash": ""
+  },
+  "raw/membedakan-telur.md": {
+    "mtime": 1790696935.9333918,
+    "ast_hash": "5a642df6d4a1e5a08dd1cc3daab47108",
+    "semantic_hash": ""
+  },
+  "raw/methylene blue.md": {
+    "mtime": 1790700147.329086,
+    "ast_hash": "9a79b89f9afad684477d644d1ee00bb0",
+    "semantic_hash": ""
+  },
+  "raw/pakan-alternative.md": {
+    "mtime": 1790698539.1685138,
+    "ast_hash": "7c552ade40ceabd71399f05e430bec2b",
+    "semantic_hash": ""
+  },
+  "raw/pasca-pemijahan.md": {
+    "mtime": 1790695957.7356107,
+    "ast_hash": "c4c807127eeff798371e8aa98a644597",
+    "semantic_hash": ""
+  },
+  "raw/saran-penetasan-telur.md": {
+    "mtime": 1790695614.9433336,
+    "ast_hash": "bf1bfa60c92ccdefb79f21c39c9a3866",
+    "semantic_hash": ""
+  },
+  "raw/spesifikasi-kakaban.md": {
+    "mtime": 1790696562.9059076,
+    "ast_hash": "845d3c4dd0c03841c0f2fa81854d8fa3",
+    "semantic_hash": ""
+  },
+  "raw/spesifikasi-pemijahan-lele.md": {
+    "mtime": 1790695467.3981404,
+    "ast_hash": "7b96545f33b25f79db8d43076ea241e4",
+    "semantic_hash": ""
+  },
+  "state/jobs/job-20260929-ingest-003.md": {
+    "mtime": 1790695001.3772914,
+    "ast_hash": "a2864750add485ffbe07e1c1ce7da395",
+    "semantic_hash": ""
+  },
+  "state/jobs/job-20260929-ingest-004.md": {
+    "mtime": 1790695511.5279374,
+    "ast_hash": "ea8e867ed448f31f88b3102f734065f9",
+    "semantic_hash": ""
+  },
+  "state/jobs/job-20260929-ingest-005.md": {
+    "mtime": 1790695767.6327705,
+    "ast_hash": "f9f8c2fcdaafbc4fa69abf67cbb2ad5b",
+    "semantic_hash": ""
+  },
+  "state/jobs/job-20260929-ingest-006.md": {
+    "mtime": 1790695976.883711,
+    "ast_hash": "8cfd0595753a87a2a92ae1d942076d3c",
+    "semantic_hash": ""
+  },
+  "state/jobs/job-20260929-ingest-007.md": {
+    "mtime": 1790696588.8174183,
+    "ast_hash": "725876af694096485531c9153c68d547",
+    "semantic_hash": ""
+  },
+  "state/jobs/job-20260929-ingest-008.md": {
+    "mtime": 1790697664.9495246,
+    "ast_hash": "2f2dcf596f44a57571db82a006d1a233",
+    "semantic_hash": ""
+  },
+  "state/jobs/job-20260929-ingest-009.md": {
+    "mtime": 1790698146.1002994,
+    "ast_hash": "9a54c0b992ef124a435c95c2330dcaa7",
+    "semantic_hash": ""
+  },
+  "state/jobs/job-20260929-ingest-010.md": {
+    "mtime": 1790698430.9112394,
+    "ast_hash": "24686145dc212956b0df80aa6ae2a900",
+    "semantic_hash": ""
+  },
+  "state/jobs/job-20260929-ingest-011.md": {
+    "mtime": 1790698531.8464653,
+    "ast_hash": "955ea5048a23a1cbc4f7dee5deca81b8",
+    "semantic_hash": ""
+  },
+  "state/jobs/job-20260929-ingest-012.md": {
+    "mtime": 1790698575.5475633,
+    "ast_hash": "084d24ab36d516b15e4e6096f2013c6c",
+    "semantic_hash": ""
+  },
+  "state/jobs/job-20260929-ingest-013.md": {
+    "mtime": 1790699271.7020195,
+    "ast_hash": "b6bd860ddf0bfcece929e0278d4353fc",
+    "semantic_hash": ""
+  },
+  "state/jobs/job-20260929-ingest-014.md": {
+    "mtime": 1790699395.0452132,
+    "ast_hash": "800b6094e97674a0c0a9e54999a8ef14",
+    "semantic_hash": ""
+  },
+  "state/jobs/job-20260929-ingest-015.md": {
+    "mtime": 1790699977.7107148,
+    "ast_hash": "fc352755ab30b8e2c266d5c58dc16491",
+    "semantic_hash": ""
+  },
+  "state/jobs/job-20260929-ingest-016.md": {
+    "mtime": 1790700176.2325327,
+    "ast_hash": "53776dfcd455c24d4d9fca6bb1a8d923",
+    "semantic_hash": ""
+  },
+  "wiki/concepts/alur-pasca-pemijahan-lele.md": {
+    "mtime": 1790700600.8635383,
+    "ast_hash": "b65435d4bd637af573d1fbc388a7b47b",
+    "semantic_hash": ""
+  },
+  "wiki/concepts/bak-pemijahan-dan-sarana-kakaban-lele.md": {
+    "mtime": 1790696602.5228567,
+    "ast_hash": "ada61acaf5d6d9b0214988572ad31437",
+    "semantic_hash": ""
+  },
+  "wiki/concepts/induk-dan-persiapan-pemijahan-lele.md": {
+    "mtime": 1790700602.8690667,
+    "ast_hash": "6f4d38a43aee6c0563c2c6e70ffa3fb9",
+    "semantic_hash": ""
+  },
+  "wiki/concepts/kalibrasi-do-dan-blower-pembenihan-lele.md": {
+    "mtime": 1790699389.4413164,
+    "ast_hash": "7bac62bd945e3631dd272a58a8c87e51",
+    "semantic_hash": ""
+  },
+  "wiki/concepts/komposisi-dan-jadwal-pakan-larva-lele.md": {
+    "mtime": 1790698572.7268646,
+    "ast_hash": "bf5eb70fca68155b270954a7456d23ad",
+    "semantic_hash": ""
+  },
+  "wiki/concepts/kriteria-pra-pemijahan-lele-sintesis-web.md": {
+    "mtime": 1790698526.6794538,
+    "ast_hash": "e21ecd3c14a7fa890482d49325e34d9e",
+    "semantic_hash": ""
+  },
+  "wiki/concepts/layout-aerasi-pembenihan-lele.md": {
+    "mtime": 1790699392.025877,
+    "ast_hash": "c89d00f68e7a1eed05aabba03c3e591e",
+    "semantic_hash": ""
+  },
+  "wiki/concepts/methylene-blue-pada-inkubasi-telur-lele.md": {
+    "mtime": 1790700171.7338243,
+    "ast_hash": "e70155b11d61bab688192c64d3b742be",
+    "semantic_hash": ""
+  },
+  "wiki/concepts/metode-pemijahan-lele-sintesis-web.md": {
+    "mtime": 1790698521.6120381,
+    "ast_hash": "e1d775d461f8ff24b500a700bf8d7cfb",
+    "semantic_hash": ""
+  },
+  "wiki/concepts/pakan-alternatif-lele-sintesis-riset.md": {
+    "mtime": 1790698567.3031964,
+    "ast_hash": "9edef67e245ca2b1e89e41e83a6041be",
+    "semantic_hash": ""
+  },
+  "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md": {
+    "mtime": 1790700598.8032846,
+    "ast_hash": "43b5d54794f9f138ac719214be2811a5",
+    "semantic_hash": ""
+  },
+  "wiki/concepts/pencegahan-jentik-nyamuk-kolam-larva.md": {
+    "mtime": 1790695773.172826,
+    "ast_hash": "275623739e9374d56b01fe9ac498b383",
+    "semantic_hash": ""
+  },
+  "wiki/concepts/pengaturan-ph-air-pembenihan.md": {
+    "mtime": 1790695011.6748025,
+    "ast_hash": "5b027c4507240ef6edc6520eb50489f6",
+    "semantic_hash": ""
+  },
+  "wiki/concepts/seleksi-dan-ciri-telur-lele.md": {
+    "mtime": 1790697632.9454813,
+    "ast_hash": "a5e9bc4ec3780534abac7225ee16c12d",
+    "semantic_hash": ""
+  },
+  "wiki/concepts/unit-inkubasi-telur-lele-engineering-sintesis-web.md": {
+    "mtime": 1790699268.597996,
+    "ast_hash": "a75aba6c4c2ea8444203f09f50cce4d5",
+    "semantic_hash": ""
+  },
+  "wiki/sources/aerasi-kolam-v1.md": {
+    "mtime": 1790699263.248071,
+    "ast_hash": "c2e2fb66d7949ab015dcb8b7819c801d",
+    "semantic_hash": ""
+  },
+  "wiki/sources/agar-kolam-tidak-memilii-jentik-nyamuk-v1.md": {
+    "mtime": 1790695767.6327705,
+    "ast_hash": "1f1f99e5d093625920fa3ebb006cd4cc",
+    "semantic_hash": ""
+  },
+  "wiki/sources/blower-v1.md": {
+    "mtime": 1790699385.1485136,
+    "ast_hash": "75b9c619d95a11571272fce038b48253",
+    "semantic_hash": ""
+  },
+  "wiki/sources/cara-cepat-menetaskan-telur-v1.md": {
+    "mtime": 1790699968.7869608,
+    "ast_hash": "047c7ec7d8deafafcc66b07fbf4674b0",
+    "semantic_hash": ""
+  },
+  "wiki/sources/cara-menaikan-ph-v1.md": {
+    "mtime": 1790695003.8678718,
+    "ast_hash": "8edd3ec9303eddea389ce78448a5c211",
+    "semantic_hash": ""
+  },
+  "wiki/sources/cara-menurunkan-ph-v1.md": {
+    "mtime": 1790695007.0969155,
+    "ast_hash": "110918621f85923e242f2d2ad9881db3",
+    "semantic_hash": ""
+  },
+  "wiki/sources/deep-research-pemijahan-lele-v1.md": {
+    "mtime": 1790697628.7353756,
+    "ast_hash": "7b773ac7f6b92101ba98297cf9ad6c54",
+    "semantic_hash": ""
+  },
+  "wiki/sources/hasil-riset-1-v1.md": {
+    "mtime": 1790698129.2656295,
+    "ast_hash": "fd68c82508e44a5c1e15ed79daf6ca2f",
+    "semantic_hash": ""
+  },
+  "wiki/sources/hasil-riset-2-v1.md": {
+    "mtime": 1790698418.2986054,
+    "ast_hash": "8cd18b597350abd1bdb2ca546be66b7a",
+    "semantic_hash": ""
+  },
+  "wiki/sources/hasil-riset-3-v1.md": {
+    "mtime": 1790698516.4408896,
+    "ast_hash": "93e0dd44a5486dde28684cdcbab19e4c",
+    "semantic_hash": ""
+  },
+  "wiki/sources/info-pemindahan-induk-v1.md": {
+    "mtime": 1790700595.783303,
+    "ast_hash": "7aef4313a865ab1ec35c85bffba77f55",
+    "semantic_hash": ""
+  },
+  "wiki/sources/komposisi-pakan-larva-lele-v1.md": {
+    "mtime": 1790695769.2767045,
+    "ast_hash": "ce023eedc4b5c31d40e499625554c5c2",
+    "semantic_hash": ""
+  },
+  "wiki/sources/layout-aerasi-v1.md": {
+    "mtime": 1790696594.3113093,
+    "ast_hash": "098dc115a27cafeb5317283aeef61ef2",
+    "semantic_hash": ""
+  },
+  "wiki/sources/membedakan-telur-v1.md": {
+    "mtime": 1790697626.0310597,
+    "ast_hash": "f999e08dc35cde2d808ba8e3ee255685",
+    "semantic_hash": ""
+  },
+  "wiki/sources/methylene-blue-v1.md": {
+    "mtime": 1790700167.7113914,
+    "ast_hash": "7bc76d33c00db1f3bbeaa42b2ac620c8",
+    "semantic_hash": ""
+  },
+  "wiki/sources/pakan-alternative-v1.md": {
+    "mtime": 1790698563.7537255,
+    "ast_hash": "11e0c3f5c3b85cbe457b37d13981b760",
+    "semantic_hash": ""
+  },
+  "wiki/sources/pasca-pemijahan-v1.md": {
+    "mtime": 1790695976.8841136,
+    "ast_hash": "6e30ed7f09d4912c50980b40f399351b",
+    "semantic_hash": ""
+  },
+  "wiki/sources/saran-penetasan-telur-v1.md": {
+    "mtime": 1790695771.3235679,
+    "ast_hash": "51f645b5e9b9bd4a6cda5c1dbe522397",
+    "semantic_hash": ""
+  },
+  "wiki/sources/spesifikasi-kakaban-v1.md": {
+    "mtime": 1790696591.1935096,
+    "ast_hash": "d3453472e19f4310be031fea8fd4aa25",
+    "semantic_hash": ""
+  },
+  "wiki/sources/spesifikasi-pemijahan-lele-v1.md": {
+    "mtime": 1790695512.9411926,
+    "ast_hash": "3a357c2aea52f892e98dbfb3660b63cb",
+    "semantic_hash": ""
+  },
+  "state/jobs/job-20260929-ingest-017.md": {
+    "mtime": 1790700605.1130939,
+    "ast_hash": "470fdd84d9a898f8acad7ab555a4ccee",
     "semantic_hash": ""
   }
 }

@@ -81,7 +81,7 @@ Layout: inlet/outflow satu sisi; tray berlubang agar telur tidak hanyut saat sir
 - **Kedalaman bak:** ~**20–30 cm** (saran penetasan kolam terpal) vs **40 cm** (studi tray tangki)—tipe wadah berbeda.
 - **Waktu menetas:** **22 h**, **28–32 h @ 25 °C** (FAO/studi) vs rentang lapangan wiki—lihat konsep penetasan.
 - Debit **5 L/menit/18 L** tidak linear ke kolam terpal besar tanpa rekayasa ulang.
-- % **pertukaran air/hari** fase telur: gap di raw §63.
+- % **pertukaran air/hari** fase telur: **0–5%/hari** (telur awal) dicatat di [aerasi-kolam v1](../sources/aerasi-kolam-v1.md) untuk kolam terpal ~3.000 L—konteks berbeda dari trough hatchery.
 
 ## Pertanyaan terbuka
 

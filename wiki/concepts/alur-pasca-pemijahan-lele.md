@@ -5,7 +5,7 @@ title: Alur pasca pemijahan lele
 aliases: [checklist pasca pijah, timeline setelah pemijahan]
 created: 2026-09-29
 updated: 2026-09-29
-revision: 1
+revision: 2
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -13,6 +13,8 @@ evidence_status: supported
 tags: [pemijahan, penetasan, workflow]
 source_refs:
   - source_id: pasca-pemijahan
+    version_id: v1
+  - source_id: info-pemindahan-induk
     version_id: v1
 ---
 
@@ -26,7 +28,7 @@ Sumber checklist merangkum urutan operasional setelah pemijahan: **induk out →
 
 Urutan dari [pasca-pemijahan v1](../sources/pasca-pemijahan-v1.md):
 
-1. **Angkat induk** jantan dan betina segera (raw 5–7).
+1. **Angkat induk** jantan dan betina segera (pasca raw 5–7)—**bukan** tunggu menetas. Timing kakaban terpal: **1–2 jam** setelah pijah selesai, ideal pagi **05–07**, maks **<6 jam**; indikator visual selesai pijah → [Pemindahan induk pasca pemijahan — kakaban terpal](pemindahan-induk-pasca-pemijahan-kakaban-terpal.md) ([info-pemindahan-induk v1](../sources/info-pemindahan-induk-v1.md)).
 2. **Seleksi telur** — bening kekuningan vs putih susu/keruh (mati); buang mati (raw 9–12).
 3. **Kakaban → bak penetasan** — air 20–30 cm, bersih, tenang (raw 14–16).
 4. **Aerasi halus** dekat telur, tidak kencang (raw 18–20).
@@ -40,9 +42,11 @@ Urutan dari [pasca-pemijahan v1](../sources/pasca-pemijahan-v1.md):
 ## Bukti dan sumber
 
 - [Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md)
+- [Info pemindahan induk v1](../sources/info-pemindahan-induk-v1.md)
 
 ## Hubungan
 
+- [Pemindahan induk pasca pemijahan — kakaban terpal](pemindahan-induk-pasca-pemijahan-kakaban-terpal.md)
 - [Penetasan telur lele — praktik kolam terpal](penetasan-telur-lele-praktik-kolam-terpal.md) — detail penetasan
 - [Perawatan kolam setelah pemijahan](perawatan-kolam-setelah-pemijahan.md) — sanitasi kolam pemijahan / air bekas
 - [Induk dan persiapan pemijahan lele](induk-dan-persiapan-pemijahan-lele.md) — pemulihan induk
@@ -54,4 +58,4 @@ Urutan dari [pasca-pemijahan v1](../sources/pasca-pemijahan-v1.md):
 
 ## Pertanyaan terbuka
 
-- SOP waktu pasti angkat induk (menit/jam pasca pijah) tidak ada di sumber.
+- Adopsi rentang 1–2 jam vs «segera» literal; skenario telur pindah bak vs tetap di kolam pijah.

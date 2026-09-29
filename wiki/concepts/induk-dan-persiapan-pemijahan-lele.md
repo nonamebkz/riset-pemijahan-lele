@@ -5,7 +5,7 @@ title: Induk dan persiapan pemijahan lele
 aliases: [seleksi induk lele, induk siap pijah]
 created: 2026-09-29
 updated: 2026-09-29
-revision: 5
+revision: 6
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -21,6 +21,8 @@ source_refs:
   - source_id: hasil-riset-1
     version_id: v1
   - source_id: hasil-riset-3
+    version_id: v1
+  - source_id: info-pemindahan-induk
     version_id: v1
 ---
 
@@ -52,7 +54,7 @@ Bukti: [spesifikasi-pemijahan-lele v1](../sources/spesifikasi-pemijahan-lele-v1.
 
 ### Pemulihan pasca pemijahan
 
-Setelah dipijahkan, induk dipisah dan dipulihkan: pakan berkualitas tinggi dan air bersih agar siap siklus berikutnya ([pasca-pemijahan v1](../sources/pasca-pemijahan-v1.md) raw 35–37).
+Setelah dipijahkan, induk dipisah dan dipulihkan: pakan berkualitas tinggi dan air bersih agar siap siklus berikutnya ([pasca-pemijahan v1](../sources/pasca-pemijahan-v1.md) raw 35–37). **Kapan angkat (kakaban terpal):** [Pemindahan induk pasca pemijahan — kakaban terpal](pemindahan-induk-pasca-pemijahan-kakaban-terpal.md)—**1–2 jam** setelah pijah selesai, maks **<6 jam**; tebar malam **20–22**, cek & angkat pagi **05–07** ([info-pemindahan-induk v1](../sources/info-pemindahan-induk-v1.md)).
 
 ## Bukti dan sumber
 
@@ -61,9 +63,11 @@ Setelah dipijahkan, induk dipisah dan dipulihkan: pakan berkualitas tinggi dan a
 - [Deep research pemijahan lele v1](../sources/deep-research-pemijahan-lele-v1.md) (bobot induk — lihat Pertentangan)
 - [Hasil riset 1 v1](../sources/hasil-riset-1-v1.md)
 - [Hasil riset 3 v1](../sources/hasil-riset-3-v1.md)
+- [Info pemindahan induk v1](../sources/info-pemindahan-induk-v1.md)
 
 ## Hubungan
 
+- [Pemindahan induk pasca pemijahan — kakaban terpal](pemindahan-induk-pasca-pemijahan-kakaban-terpal.md)
 - [Metode pemijahan lele — sintesis web](metode-pemijahan-lele-sintesis-web.md)
 - [Kriteria pra-pemijahan lele — sintesis web](kriteria-pra-pemijahan-lele-sintesis-web.md)
 - [Alur pasca pemijahan lele](alur-pasca-pemijahan-lele.md)
