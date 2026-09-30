@@ -4,8 +4,8 @@ type: concept
 title: Komposisi dan jadwal pakan larva lele
 aliases: [feeding schedule larva, artemia larva lele]
 created: 2026-09-29
-updated: 2026-09-29
-revision: 4
+updated: 2026-09-30
+revision: 5
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -23,6 +23,8 @@ source_refs:
   - source_id: deep-research-pemijahan-lele
     version_id: v1
   - source_id: pakan-alternative
+    version_id: v1
+  - source_id: cara-budidaya-casut
     version_id: v1
 ---
 
@@ -47,6 +49,10 @@ Kebutuhan pakan larva berubah cepat menurut umur. Sumber komposisi merinci targe
 
 **Selaras sumber lain:** mulai pakan halus setelah kuning telur — hari **2–3** ([spesifikasi v1](../sources/spesifikasi-pemijahan-lele-v1.md), [telur-lele v1](../sources/cara-merawat-telur-lele-v1.md), [saran-penetasan v1](../sources/saran-penetasan-telur-v1.md)).
 
+### Pasokan cacing sutra (casut)
+
+Rekomendasi pakan hidup di fase **2–7 hari** (tabel atas) mengasumsikan casut/artemia tersedia. Prosedur **budidaya pemula** di baki berlumpur + aliran air pelan—tanpa angka produksi—ada di [Budidaya cacing sutra untuk pemula](budidaya-cacing-sutra-pemula.md) ([Cara budidaya casut v1](../sources/cara-budidaya-casut-v1.md)).
+
 **Kanibalisme ([Deep research pemijahan lele v1](../sources/deep-research-pemijahan-lele-v1.md) — raw §13 / baris terkait kanibalisme):** keterlambatan pakan awal meningkatkan kanibalisme; satu referensi dalam dokumen menekankan pakan sekitar **36 jam setelah menetas**—beda framing dengan «2–3 hari kuning telur»; rencanakan pakan hidup/halus, kepadatan, dan frekuensi sebelum menetas.
 
 ### Alternatif berbasis sintesis riset (uncertain)
@@ -63,9 +69,11 @@ Ringkasan [pakan-alternative v1](../sources/pakan-alternative-v1.md)—detail di
 - [Komposisi pakan larva lele v1](../sources/komposisi-pakan-larva-lele-v1.md)
 - [Deep research pemijahan lele v1](../sources/deep-research-pemijahan-lele-v1.md) (kanibalisme / ~36 jam)
 - [Pakan alternatif v1](../sources/pakan-alternative-v1.md) (BSF, fermentasi — uncertain)
+- [Cara budidaya casut v1](../sources/cara-budidaya-casut-v1.md) (produksi casut pemula — uncertain taksonomi/aliran)
 
 ## Hubungan
 
+- [Budidaya cacing sutra untuk pemula](budidaya-cacing-sutra-pemula.md)
 - [Pakan alternatif lele — sintesis riset](pakan-alternatif-lele-sintesis-riset.md)
 - [Penetasan telur lele — praktik kolam terpal](penetasan-telur-lele-praktik-kolam-terpal.md)
 - [Pencegahan jentik nyamuk di kolam larva](pencegahan-jentik-nyamuk-kolam-larva.md)

@@ -371,3 +371,20 @@
 - **Halaman wiki:** [info-lapangan-konfigurasi-kolam-v1.md](../wiki/sources/info-lapangan-konfigurasi-kolam-v1.md)
 - **job_id terakhir:** job-20260930-ingest-019
 - **Kendala terbuka:** kedalaman air; pembagian fungsi antar 3 kolam 1,5×3 m
+
+## cara-budidaya-casut
+
+### v1
+
+- **Judul:** Cara budidaya casut (cacing sutra) — catatan raw
+- **Penulis/penerbit:** tidak tercantum dalam berkas
+- **Tanggal publikasi:** null
+- **Lokasi lokal:** `raw/cara-budidaya-casut.md`
+- **URL asal:** rujukan inline di raw (tirto.id, repositori.unsil.ac.id, enaca.org, wernweb.blogspot.com)
+- **Hash:** SHA-256 `bb4ae990e0de2d71cc0f61e1efad449b3317647db1be430ccd536ef1c0342096`
+- **processing_status:** complete
+- **extraction_scope:** full
+- **Ketersediaan:** available
+- **Halaman wiki:** [cara-budidaya-casut-v1.md](../wiki/sources/cara-budidaya-casut-v1.md)
+- **job_id terakhir:** job-20260930-ingest-020
+- **Kendala terbuka:** spesies casut vs kutipan *Tubifex*; produksi kuantitatif tidak di raw

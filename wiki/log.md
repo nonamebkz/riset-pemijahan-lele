@@ -168,3 +168,10 @@
 - **Jenis:** ingest (konfirmasi satuan)
 - **Hasil:** sumber info-lapangan rev 2; konfigurasi kolam lapangan rev 2; job § kutipan lanjutan
 - **Validasi:** satuan meter dari pernyataan pengguna, bukan interpretasi wiki
+
+## 2026-09-30 — job-20260930-ingest-020
+
+- **Jenis:** ingest (sumber baru di raw/)
+- **Hasil:** 1 sumber [Cara budidaya casut v1](sources/cara-budidaya-casut-v1.md); konsep [Budidaya cacing sutra untuk pemula](concepts/budidaya-cacing-sutra-pemula.md); [Komposisi dan jadwal pakan larva lele](concepts/komposisi-dan-jadwal-pakan-larva-lele.md) rev 5
+- **Validasi:** baca raw 17 baris; hash SHA-256; tautan indeks/registri; raw tidak diubah
+- **Sisa:** verifikasi taksonomi casut vs *Tubifex*; target produksi untuk 3 kolam larva
