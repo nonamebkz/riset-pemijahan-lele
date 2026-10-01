@@ -48,4 +48,5 @@ Pakan larva menurut umur: 0–2 hari tanpa pakan (kuning telur); 2–7 hari arte
 ## Halaman terkait
 
 - [Komposisi dan jadwal pakan larva lele](../concepts/komposisi-dan-jadwal-pakan-larva-lele.md)
+- [Komposisi pakan larva v1](komposisi-pakan-larva-v1.md) (karya berbeda: rencana 3 kolam)
 - [Penetasan telur lele — praktik kolam terpal](../concepts/penetasan-telur-lele-praktik-kolam-terpal.md)

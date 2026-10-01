@@ -55,5 +55,7 @@ Resep batch kecil fermentasi dedak untuk **nutrisi kultur Moina**: **1 kg** deda
 ## Halaman terkait
 
 - [Fermentasi dedak EM4 untuk kultur Moina](../concepts/fermentasi-dedak-em4-kultur-moina.md)
+- [Takaran air fermentasi untuk kultur Moina v1](takaran-air-fermentasi-untuk-monia-v1.md)
+- [Batas penyimpanan supernatan v1](batas-penyimpanan-supernatan-v1.md)
 - [Rendaman dedak untuk kultur Moina](../concepts/rendaman-dedak-kultur-moina.md)
 - [Budidaya Moina untuk pakan larva lele](../concepts/budidaya-moina-pakan-larva-lele.md)

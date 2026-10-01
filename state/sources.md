@@ -441,3 +441,86 @@
 - **Ketersediaan:** available
 - **Halaman wiki:** [cara-membuat-fermentasi-dengan-em4-v1.md](../wiki/sources/cara-membuat-fermentasi-dengan-em4-v1.md)
 - **job_id terakhir:** job-20261001-ingest-021
+
+## takaran-air-fermentasi-untuk-monia
+
+### v1
+
+- **Judul:** Takaran air fermentasi untuk kultur Moina (catatan raw)
+- **Penulis/penerbit:** kurasi Perplexity (tercantum di berkas)
+- **Tanggal publikasi:** null
+- **Lokasi lokal:** `raw/takaran-air-fermentasi-untuk-monia.md`
+- **URL asal:** rujukan inline di raw (jurnal.utu.ac.id, bioflux.com.ro) — PDF tidak dibaca ulang
+- **Hash:** SHA-256 `59162f6a66d472b40badccf424541bdbfed6d313626b1f7ee4a494f36e9f0887`
+- **processing_status:** complete
+- **extraction_scope:** full
+- **Ketersediaan:** available
+- **Halaman wiki:** [takaran-air-fermentasi-untuk-monia-v1.md](../wiki/sources/takaran-air-fermentasi-untuk-monia-v1.md)
+- **job_id terakhir:** job-20261001-ingest-022
+- **Kendala terbuka:** ejaan berkas «monia»; konsentrasi ekstrak 1 sdm vs 1–2 sdm pada sumber EM4
+
+## batas-penyimpanan-supernatan
+
+### v1
+
+- **Judul:** Batas penyimpanan supernatan dedak (catatan raw)
+- **Penulis/penerbit:** kurasi Perplexity (tercantum di berkas)
+- **Tanggal publikasi:** null
+- **Lokasi lokal:** `raw/batas-penyimpanan-supernatan.md`
+- **URL asal:** rujukan inline di raw (repository.unmul.ac.id, journal.ipb.ac.id) — PDF tidak dibaca ulang
+- **Hash:** SHA-256 `9c14d2df3c68526e2a9fae70acdc457d73dc3029d2a7e72b8590b0619d191f2d`
+- **processing_status:** complete
+- **extraction_scope:** full
+- **Ketersediaan:** available
+- **Halaman wiki:** [batas-penyimpanan-supernatan-v1.md](../wiki/sources/batas-penyimpanan-supernatan-v1.md)
+- **job_id terakhir:** job-20261001-ingest-023
+- **Kendala terbuka:** angka simpan konservatif; suhu kulkas lapangan belum dicatat
+
+## komposisi-pakan-larva
+
+### v1
+
+- **Judul:** Komposisi pakan larva — rencana 3 kolam 1,5×3 m (catatan raw)
+- **Penulis/penerbit:** kurasi Perplexity (tercantum di berkas)
+- **Tanggal publikasi:** null
+- **Lokasi lokal:** `raw/komposisi-pakan-larva.md`
+- **URL asal:** rujukan inline (satyaminabahari.org, ask.ifas.ufl.edu, ejurnal.ung.ac.id) — tidak dibaca ulang
+- **Hash:** SHA-256 `b1a0c6510ecdc09c107950cc5f65133c75327bb55571a0312ef6afba3ae4a523`
+- **processing_status:** complete
+- **extraction_scope:** full
+- **Ketersediaan:** available
+- **Halaman wiki:** [komposisi-pakan-larva-v1.md](../wiki/sources/komposisi-pakan-larva-v1.md)
+- **job_id terakhir:** job-20261001-ingest-024
+- **Kendala terbuka:** bukan alias komposisi-pakan-larva-lele; jumlah tebar belum ada; kedalaman 25–30 cm = saran, bukan ukur lapangan
+
+## fakta
+
+### v1
+
+- **Judul:** Fakta lapangan pembenihan (catatan raw)
+- **Penulis/penerbit:** pengguna
+- **Tanggal publikasi:** null
+- **Lokasi lokal:** `raw/fakta.md` (bytes v1 tidak lagi di path)
+- **URL asal:** null
+- **Hash:** SHA-256 `a2be332e3a28fec58628c5cfc41d3a2e4fb9149109ab0497d6c67e96afb2cdca`
+- **processing_status:** complete
+- **extraction_scope:** full
+- **Ketersediaan:** replaced
+- **Halaman wiki:** [fakta-v1.md](../wiki/sources/fakta-v1.md)
+- **job_id terakhir:** job-20261001-ingest-025
+- **Kendala terbuka:** cuplikan v1 1x3; arsip byte tidak tersedia
+
+### v2
+
+- **Judul:** Fakta lapangan pembenihan (catatan raw)
+- **Penulis/penerbit:** pengguna
+- **Tanggal publikasi:** null
+- **Lokasi lokal:** `raw/fakta.md`
+- **URL asal:** null
+- **Hash:** SHA-256 `cee8eaa7d6a165124d5403313243f7e5bd769ee65458cf3c26e6ecdb09f9327c`
+- **processing_status:** complete
+- **extraction_scope:** full
+- **Ketersediaan:** available
+- **Halaman wiki:** [fakta-v2.md](../wiki/sources/fakta-v2.md)
+- **job_id terakhir:** job-20261001-ingest-026
+- **Kendala terbuka:** kedalaman belum diukur; detail paranet belum ada; pembagian peran 3 kolam belum ada

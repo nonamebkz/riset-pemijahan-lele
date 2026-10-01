@@ -5,7 +5,7 @@ title: Budidaya cacing sutra untuk pemula
 aliases: [casut, budidaya casut, cacing sutra baki lumpur]
 created: 2026-09-30
 updated: 2026-10-01
-revision: 2
+revision: 3
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -15,6 +15,8 @@ source_refs:
   - source_id: cara-budidaya-casut
     version_id: v1
   - source_id: komposisi-pakan-larva-lele
+    version_id: v1
+  - source_id: komposisi-pakan-larva
     version_id: v1
 ---
 
@@ -47,10 +49,16 @@ Pasokan **cacing sutra (casut)** untuk pakan larva lele (umur **2–7 hari** dan
 - **Tidak wajib** jika aliran pelan kontinu ([Cara budidaya casut v1](../sources/cara-budidaya-casut-v1.md) — raw baris 13, 17).
 - **Opsional** bila wadah tanpa aliran atau mudah genangan; gelembung **lembut** agar lumpur tidak teraduk ([Cara budidaya casut v1](../sources/cara-budidaya-casut-v1.md) — raw baris 15–16).
 
+### Pemberian ke larva (bukan protokol produksi)
+
+- Cuci sampai air bilasan relatif jernih; jika sumber tidak jelas, karantina/purging **24–48 jam** air mengalir sebelum dipakai ([Komposisi pakan larva v1](../sources/komposisi-pakan-larva-v1.md) — raw baris 91). Karantina **1–2 hari** di sumber casut adalah untuk **bibit tebar kultur**, konteks agak berbeda.
+- Peran casut di rencana 3 kolam naik setelah Moina (hari **6–9** dst.), bukan sebagai pakan tunggal hari 2 ([Komposisi pakan larva v1](../sources/komposisi-pakan-larva-v1.md) — raw baris 47–55).
+- ~**10% biomassa/hari** ÷ 4 kali dilaporkan untuk **benih**; larva sangat kecil lebih aman berbasis respons makan ([Komposisi pakan larva v1](../sources/komposisi-pakan-larva-v1.md) — raw baris 78).
+
 ## Bukti dan sumber
 
 - [Cara budidaya casut v1](../sources/cara-budidaya-casut-v1.md)
-- Kebutuhan pakan larva (penggunaan casut): [Komposisi pakan larva lele v1](../sources/komposisi-pakan-larva-lele-v1.md)
+- Kebutuhan pakan larva: [Komposisi pakan larva lele v1](../sources/komposisi-pakan-larva-lele-v1.md); [Komposisi pakan larva v1](../sources/komposisi-pakan-larva-v1.md)
 
 ## Hubungan
 
@@ -65,5 +73,5 @@ Pasokan **cacing sutra (casut)** untuk pakan larva lele (umur **2–7 hari** dan
 
 ## Pertanyaan terbuka
 
-- Volume wadah dan kepadatan tebar untuk pasokan harian kolam larva 1,5×3 m Anda.
+- Volume wadah **produksi** casut untuk pasokan harian kolam larva 1,5×3 m masih belum ada di sumber (hanya acuan % biomassa saat memberi).
 - Apakah ampas tahu fermentasi yang sama dipakai di budidaya casut dan (jika ada) fermentasi pakan larva.

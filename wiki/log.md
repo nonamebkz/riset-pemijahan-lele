@@ -190,3 +190,43 @@
 - **Hasil:** indeks induk rev 9; perawatan rutin rev 2 (tautan bukti); TDS rev 2; pencegahan jentik rev 2 (bagian pertentangan); casut rev 2; air hijau rev 2
 - **Validasi:** indeks lengkap; sitasi «raw baris» tanpa tautan di konsep = 0; raw tidak diubah
 - **Sisa:** job-20260930-maintain-001 tanpa berkas; heading Keterbatasan/Klaim di sebagian halaman sumber; konflik SOP (tetas, MB, rasio, Moina, casut) butuh tinjauan manusia
+
+## 2026-10-01 — job-20261001-ingest-022
+
+- **Jenis:** ingest (1 sumber baru takaran ekstrak fermentasi Moina)
+- **Hasil:** sumber [Takaran air fermentasi Moina v1](sources/takaran-air-fermentasi-untuk-monia-v1.md); konsep fermentasi EM4 rev 2 (tabel dosis + aturan naik/turun); rendaman rev 2 (dua makna 5 ml/L); Moina rev 2 (tautan fermentasi)
+- **Dilewati:** 30 raw terdaftar (hash unchanged) + README
+- **Validasi:** baca 64 baris; SHA-256 `59162f6a…0887`; 0 tautan rusak; indeks 32 sumber + 28 konsep; URL jurnal tidak dibaca ulang; raw tidak diubah
+- **Sisa:** konsentrasi ekstrak 1 sdm vs 1–2 sdm; PDF sitasi belum diverifikasi
+
+## 2026-10-01 — job-20261001-ingest-023
+
+- **Jenis:** ingest (1 sumber baru batas simpan supernatan)
+- **Hasil:** sumber [Batas penyimpanan supernatan v1](sources/batas-penyimpanan-supernatan-v1.md); rendaman rev 3 (simpan 24 jam / kulkas 2–3 hari); fermentasi EM4 rev 3 (padat 1–2 minggu vs ekstrak cair 2–3/5 hari)
+- **Dilewati:** 31 raw terdaftar (hash unchanged) + README
+- **Validasi:** baca 42 baris; SHA-256 `9c14d2df…1f2d`; 0 tautan rusak; indeks 33 sumber + 28 konsep; URL jurnal tidak dibaca ulang; raw tidak diubah
+- **Sisa:** suhu kulkas lapangan vs ~4–8 °C; PDF unmul/IPB belum diverifikasi
+
+## 2026-10-01 — job-20261001-ingest-024
+
+- **Jenis:** ingest (1 sumber baru; bukan duplikat komposisi-pakan-larva-lele)
+- **Hasil:** sumber [Komposisi pakan larva v1](sources/komposisi-pakan-larva-v1.md); konsep pakan larva rev 7 (uncertain); Moina rev 3; casut rev 3; konfigurasi kolam rev 3 (kedalaman = saran, bukan ukur)
+- **Dilewati:** 32 raw terdaftar (hash unchanged) + README
+- **Validasi:** baca 94 baris; SHA-256 `b1a0c651…a523`; 0 tautan rusak; indeks 34 sumber + 28 konsep; dual jadwal tidak disatukan; raw tidak diubah
+- **Sisa:** jumlah tebar larva; pilih SOP 2–7 vs 3–5 Moina butuh tinjauan manusia
+
+## 2026-10-01 — job-20261001-ingest-025
+
+- **Jenis:** ingest (`fakta` v1)
+- **Hasil:** halaman [Fakta v1](sources/fakta-v1.md); konsep kolam/kakaban/aerasi/pakan mencatat cuplikan **1x3** vs chat **1,5×3 m**
+- **Catatan:** sebelum job ditutup, `raw/fakta.md` diganti pengguna; bytes v1 **replaced**, tidak diarsipkan
+- **Validasi:** hash v1 tidak lagi cocok path; penerus job-026
+- **Raw:** tidak diubah agen
+
+## 2026-10-01 — job-20261001-ingest-026
+
+- **Jenis:** ingest (`fakta` v2; lokasi sama)
+- **Hasil:** [Fakta v2](sources/fakta-v2.md); konfigurasi kolam rev 5 (dimensi selaras chat); bak rev 6; layout rev 9; pakan rev 9; Moina rev 5
+- **Isi v2:** 1×2x3m pijah; 3×1.5x3m telur & larva; kakaban paranet
+- **Validasi:** SHA-256 `cee8eaa7…327c`; 0 tautan rusak; 36 sumber + 28 konsep di indeks; raw tidak diubah
+- **Sisa:** kedalaman terukur; jumlah/ukuran lembar paranet; pembagian peran 3 kolam

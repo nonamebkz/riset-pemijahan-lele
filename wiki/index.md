@@ -11,11 +11,14 @@
 - [Spesifikasi pemijahan lele](sources/spesifikasi-pemijahan-lele-v1.md) — induk, bak, kakaban, air pemijahan, alur penetasan skala kecil.
 - [Agar kolam tidak memiliki jentik nyamuk](sources/agar-kolam-tidak-memilii-jentik-nyamuk-v1.md) — aerasi, tutup kolam, higiene; tanpa insektisida.
 - [Komposisi pakan larva lele](sources/komposisi-pakan-larva-lele-v1.md) — nutrisi per umur larva dan contoh racikan.
+- [Komposisi pakan larva (3 kolam 1,5×3 m)](sources/komposisi-pakan-larva-v1.md) — Moina 1.500–2.000 L; proporsi Moina/casut/buatan; bukan duplikat nutrisi.
 - [Cara budidaya casut](sources/cara-budidaya-casut-v1.md) — baki berlumpur, aliran pelan, panen sebagian; aerator opsional.
 - [Budidaya kutu air (Moina)](sources/budidaya-kutu-air-v1.md) — kultur terpisah, pakan larva ~hari 3–15; dosis pupuk & crash plankton.
 - [Budidaya air hijau](sources/budidaya-plankton-v1.md) — fitoplankton organik/anorganik untuk rantai Moina.
 - [Rendaman dedak](sources/cara-membuat-rendaman-dedak-v1.md) — supernatan 12–24 h; dosis ke kolam kultur.
 - [Fermentasi dedak EM4](sources/cara-membuat-fermentasi-dengan-em4-v1.md) — batch 1 kg dedak; ekstrak air untuk Moina.
+- [Takaran air fermentasi Moina](sources/takaran-air-fermentasi-untuk-monia-v1.md) — 0,5–1 ml/L/hari ekstrak; tabel volume; aturan naik/turun.
+- [Batas penyimpanan supernatan](sources/batas-penyimpanan-supernatan-v1.md) — 24 jam ruang / 2–3 hari kulkas; ekstrak EM4 vs padat.
 - [Saran penetasan telur](sources/saran-penetasan-telur-v1.md) — bak penetasan, jamur, waktu menetas, pasca menetas.
 - [Cara cepat menetaskan telur](sources/cara-cepat-menetaskan-telur-v1.md) — suhu vs waktu, golden setting 18–30 h, inkubasi terpisah.
 - [Methylene blue pada penetasan](sources/methylene-blue-v1.md) — 2–5 ppm, antijamur, bukan percepat menetas.
@@ -33,6 +36,8 @@
 - [Hasil riset 3 — metode pemijahan](sources/hasil-riset-3-v1.md) — alami, striping Ovaprim, semi-alami; latency ~10 jam.
 - [Pakan alternatif lele & larva](sources/pakan-alternative-v1.md) — sintesis BSF, fermentasi; citation IDs di raw; uncertain.
 - [Info lapangan — konfigurasi kolam](sources/info-lapangan-konfigurasi-kolam-v1.md) — 1 kolam pijah 2×3 m; 3 kolam larva/penetasan 1,5×3 m (chat pengguna).
+- [Fakta lapangan v2](sources/fakta-v2.md) — pijah 2x3m; 3 kolam 1.5x3m telur & larva; kakaban paranet (tersedia di raw).
+- [Fakta lapangan v1](sources/fakta-v1.md) — cuplikan diganti; pernah 1x3 tanpa satuan.
 
 ## Konsep
 
@@ -48,17 +53,17 @@
 - [Induk dan persiapan pemijahan lele](concepts/induk-dan-persiapan-pemijahan-lele.md) — umur/bobot, 1:1, puasa, pakan, ciri siap pijah (rev 9; rasio/bobot literatur web).
 - [Kriteria pra-pemijahan lele — sintesis web](concepts/kriteria-pra-pemijahan-lele-sintesis-web.md) — metode alami/induced/striping; uncertain.
 - [Metode pemijahan lele — sintesis web](concepts/metode-pemijahan-lele-sintesis-web.md) — prosedur A/B/C, fertilisasi, inkubasi pasca striping.
-- [Bak pemijahan dan sarana kakaban lele](concepts/bak-pemijahan-dan-sarana-kakaban-lele.md) — dimensi bak, detail kakaban; kolam pijah lapangan 2×3 m (rev 4).
-- [Konfigurasi kolam pembenihan — lapangan](concepts/konfigurasi-kolam-pembenihan-lapangan.md) — inventaris 1× pijah 2×3 m + 3× larva/penetasan 1,5×3 m.
-- [Layout aerasi pembenihan lele](concepts/layout-aerasi-pembenihan-lele.md) — posisi aerasi + inventaris kolam lapangan (rev 7).
+- [Bak pemijahan dan sarana kakaban lele](concepts/bak-pemijahan-dan-sarana-kakaban-lele.md) — dimensi bak, kakaban ijuk vs paranet lapangan (rev 6).
+- [Konfigurasi kolam pembenihan — lapangan](concepts/konfigurasi-kolam-pembenihan-lapangan.md) — pijah 2×3 m; 3 kolam 1,5×3 m (rev 5).
+- [Layout aerasi pembenihan lele](concepts/layout-aerasi-pembenihan-lele.md) — posisi aerasi + inventaris kolam lapangan (rev 9).
 - [Kalibrasi DO dan blower pembenihan lele](concepts/kalibrasi-do-dan-blower-pembenihan-lele.md) — lapangan DO vs arus telur.
 - [Unit inkubasi telur lele — engineering (sintesis web)](concepts/unit-inkubasi-telur-lele-engineering-sintesis-web.md) — trough, tray, DO, cautions agitasi.
-- [Komposisi dan jadwal pakan larva lele](concepts/komposisi-dan-jadwal-pakan-larva-lele.md) — fase 0–2 hari hingga 14+ hari; casut & Moina (rev 6).
-- [Budidaya Moina untuk pakan larva lele](concepts/budidaya-moina-pakan-larva-lele.md) — wadah terpisah, bilas panen, rotasi 2–3 unit.
+- [Komposisi dan jadwal pakan larva lele](concepts/komposisi-dan-jadwal-pakan-larva-lele.md) — nutrisi vs rencana 3 kolam; casut & Moina (rev 9; uncertain).
+- [Budidaya Moina untuk pakan larva lele](concepts/budidaya-moina-pakan-larva-lele.md) — wadah terpisah; buffer 1.500–2.000 L (rev 5).
 - [Air hijau untuk kultur Moina](concepts/air-hijau-fitoplankton-kultur-moina.md) — pupuk kantong, target hijau muda, hindari crash.
-- [Rendaman dedak untuk kultur Moina](concepts/rendaman-dedak-kultur-moina.md) — supernatan; dosis konservatif per volume.
-- [Fermentasi dedak EM4 untuk kultur Moina](concepts/fermentasi-dedak-em4-kultur-moina.md) — ekstrak tersaring; bukan tabur padat.
-- [Budidaya cacing sutra untuk pemula](concepts/budidaya-cacing-sutra-pemula.md) — wadah berlumpur, bibit, pakan fermentasi, aliran vs aerator (uncertain).
+- [Rendaman dedak untuk kultur Moina](concepts/rendaman-dedak-kultur-moina.md) — supernatan; dosis; simpan 24 jam / kulkas 2–3 hari (rev 3).
+- [Fermentasi dedak EM4 untuk kultur Moina](concepts/fermentasi-dedak-em4-kultur-moina.md) — ekstrak tersaring; dosis 0,5–1 ml/L/hari; umur padat vs cair (rev 3).
+- [Budidaya cacing sutra untuk pemula](concepts/budidaya-cacing-sutra-pemula.md) — wadah berlumpur; cuci/karantina sebelum beri larva (rev 3; uncertain).
 - [Pakan alternatif lele — sintesis riset](concepts/pakan-alternatif-lele-sintesis-riset.md) — BSF 66%, pasta 1,2 mm, gap rucah/rebon/cacing.
 - [Pencegahan jentik nyamuk di kolam larva](concepts/pencegahan-jentik-nyamuk-kolam-larva.md) — aerasi permukaan, penutup, larangan insektisida.
 - [Alur pasca pemijahan lele](concepts/alur-pasca-pemijahan-lele.md) — urutan operasional singkat setelah pemijahan selesai (rev 4).

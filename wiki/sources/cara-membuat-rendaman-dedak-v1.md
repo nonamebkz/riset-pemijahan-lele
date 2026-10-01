@@ -53,4 +53,5 @@ Rendaman sederhana: **50–100 g** dedak + **1 L** air endap, **12–24 h** tedu
 
 - [Rendaman dedak untuk kultur Moina](../concepts/rendaman-dedak-kultur-moina.md)
 - [Fermentasi dedak EM4 untuk kultur Moina](../concepts/fermentasi-dedak-em4-kultur-moina.md)
+- [Batas penyimpanan supernatan v1](batas-penyimpanan-supernatan-v1.md)
 - [Air hijau untuk kultur Moina](../concepts/air-hijau-fitoplankton-kultur-moina.md)

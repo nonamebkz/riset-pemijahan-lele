@@ -4,8 +4,8 @@ type: concept
 title: Layout aerasi pembenihan lele
 aliases: [posisi aerasi telur, aerasi bak pijah]
 created: 2026-09-29
-updated: 2026-09-30
-revision: 7
+updated: 2026-10-01
+revision: 9
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -22,13 +22,15 @@ source_refs:
     version_id: v1
   - source_id: info-lapangan-konfigurasi-kolam
     version_id: v1
+  - source_id: fakta
+    version_id: v2
 ---
 
 # Layout aerasi pembenihan lele
 
 ## Ringkasan
 
-Posisi aerasi **beda per fase**: pemijahan ringan; penetasan halus dekat kakaban tanpa hantaman; larva di pinggir dengan zona tengah relatif tenang untuk makan. **Inventaris lapangan:** 1 kolam pijah **2×3 m**; 3 kolam **1,5×3 m** untuk larva/penetasan ([Konfigurasi kolam pembenihan — lapangan](konfigurasi-kolam-pembenihan-lapangan.md)).
+Posisi aerasi **beda per fase**: pemijahan ringan; penetasan halus dekat kakaban tanpa hantaman; larva di pinggir dengan zona tengah relatif tenang untuk makan. **Inventaris lapangan:** 1 kolam pijah **2×3 m**; 3 kolam telur/larva **1,5×3 m** — [Konfigurasi kolam pembenihan — lapangan](konfigurasi-kolam-pembenihan-lapangan.md).
 
 ## Penjelasan
 
@@ -37,9 +39,9 @@ Posisi aerasi **beda per fase**: pemijahan ringan; penetasan halus dekat kakaban
 | Unit | Fungsi | Dimensi |
 |------|--------|---------|
 | 1 | Pijah | 2 × 3 m |
-| 3 | Larva & penetasan | 1,5 × 3 m (per kolam) |
+| 3 | Telur & larva | 1,5 × 3 m |
 
-Bukti: [Info lapangan konfigurasi kolam v1](../sources/info-lapangan-konfigurasi-kolam-v1.md). Patokan **4–6** diffuser / **~3.000 L** di bawah mengacu desain **2×3 m** telur ([aerasi-kolam v1](../sources/aerasi-kolam-v1.md))—untuk kolam **1,5×3 m** volume lebih kecil jika kedalaman sama; kalibrasi DO per unit setelah kedalaman diketahui.
+Bukti: [Info lapangan konfigurasi kolam v1](../sources/info-lapangan-konfigurasi-kolam-v1.md); [Fakta v2](../sources/fakta-v2.md). Patokan **4–6** diffuser / **~3.000 L** mengacu desain **2×3 m** telur ([aerasi-kolam v1](../sources/aerasi-kolam-v1.md))—tiga kolam lapangan **1,5×3 m** punya tapak lebih kecil; kalibrasi DO per unit setelah kedalaman dipastikan.
 
 ### Bak pemijahan induk
 
@@ -104,6 +106,7 @@ Setelah desain awal, sesuaikan blower dengan **DO terukur** dan respons telur �
 - [Blower v1](../sources/blower-v1.md)
 - [Hasil riset 2 v1](../sources/hasil-riset-2-v1.md) (debit L/menit — uncertain, skala wadah berbeda)
 - [Info lapangan — konfigurasi kolam pembenihan v1](../sources/info-lapangan-konfigurasi-kolam-v1.md)
+- [Fakta v2](../sources/fakta-v2.md)
 
 ## Hubungan
 
