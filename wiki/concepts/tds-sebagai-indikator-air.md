@@ -4,8 +4,8 @@ type: concept
 title: TDS sebagai indikator air
 aliases: [TDS ppm lele, total dissolved solids]
 created: 2026-09-29
-updated: 2026-09-29
-revision: 1
+updated: 2026-10-01
+revision: 2
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -37,6 +37,7 @@ TDS (sering ditampilkan alat sebagai ppm) menjumlahkan zat terlarut, tetapi **ti
 ## Hubungan
 
 - [Parameter kualitas air lele](parameter-kualitas-air-lele.md)
+- [Perawatan rutin air kolam lele](perawatan-rutin-air-kolam-lele.md)
 
 ## Pertentangan dan ketidakpastian
 

@@ -182,3 +182,11 @@
 - **Hasil:** sumber budidaya-kutu-air, budidaya-plankton, rendaman-dedak, fermentasi-EM4 v1; konsep Moina, air hijau, rendaman, fermentasi EM4; komposisi pakan larva rev 6
 - **Validasi:** baca raw penuh (322+84+85+79 baris); hash; indeks/registri; raw tidak diubah
 - **Sisa:** harmonisasi hari mulai Moina (~3) vs artemia/cacing (2–7); kapasitas wadah untuk 3 kolam larva
+
+## 2026-10-01 — job-20261001-maintain-005
+
+- **Jenis:** maintain (audit + perbaikan mekanis)
+- **Cakupan:** 31 sumber + 28 konsep; hash 30/30 raw; 0 tautan rusak
+- **Hasil:** indeks induk rev 9; perawatan rutin rev 2 (tautan bukti); TDS rev 2; pencegahan jentik rev 2 (bagian pertentangan); casut rev 2; air hijau rev 2
+- **Validasi:** indeks lengkap; sitasi «raw baris» tanpa tautan di konsep = 0; raw tidak diubah
+- **Sisa:** job-20260930-maintain-001 tanpa berkas; heading Keterbatasan/Klaim di sebagian halaman sumber; konflik SOP (tetas, MB, rasio, Moina, casut) butuh tinjauan manusia

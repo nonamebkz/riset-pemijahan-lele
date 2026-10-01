@@ -4,8 +4,8 @@ type: concept
 title: Pencegahan jentik nyamuk di kolam larva
 aliases: [nyamuk kolam larva, paranet larva]
 created: 2026-09-29
-updated: 2026-09-29
-revision: 1
+updated: 2026-10-01
+revision: 2
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -38,6 +38,10 @@ Nyamuk bertelur di permukaan air tenang. Kolam larva lele dicegah dengan aerasi 
 
 - [Komposisi dan jadwal pakan larva lele](komposisi-dan-jadwal-pakan-larva-lele.md) — sisa pakan memburuk air
 - [Penetasan telur lele — praktik kolam terpal](penetasan-telur-lele-praktik-kolam-terpal.md) — aerasi halus
+
+## Pertentangan dan ketidakpastian
+
+- Koleksi hanya memuat satu sumber untuk topik ini; tidak ada pertentangan antar-sumber di wiki.
 
 ## Pertanyaan terbuka
 

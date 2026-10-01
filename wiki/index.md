@@ -45,7 +45,7 @@
 - [Methylene blue pada inkubasi telur lele](concepts/methylene-blue-pada-inkubasi-telur-lele.md) — dosis, metode, konflik sumber (uncertain).
 - [Perawatan kolam setelah pemijahan](concepts/perawatan-kolam-setelah-pemijahan.md) — skenario telur di kolam; pembersihan kolam kosong; air bekas pemijahan.
 - [Pengaturan pH air pembenihan](concepts/pengaturan-ph-air-pembenihan.md) — KH/alkalinitas; naik/turun terkendali; larangan kimia langsung ke kolam telur.
-- [Induk dan persiapan pemijahan lele](concepts/induk-dan-persiapan-pemijahan-lele.md) — umur/bobot, 1:1, puasa, pakan, ciri siap pijah (rev 8; rasio/bobot literatur web).
+- [Induk dan persiapan pemijahan lele](concepts/induk-dan-persiapan-pemijahan-lele.md) — umur/bobot, 1:1, puasa, pakan, ciri siap pijah (rev 9; rasio/bobot literatur web).
 - [Kriteria pra-pemijahan lele — sintesis web](concepts/kriteria-pra-pemijahan-lele-sintesis-web.md) — metode alami/induced/striping; uncertain.
 - [Metode pemijahan lele — sintesis web](concepts/metode-pemijahan-lele-sintesis-web.md) — prosedur A/B/C, fertilisasi, inkubasi pasca striping.
 - [Bak pemijahan dan sarana kakaban lele](concepts/bak-pemijahan-dan-sarana-kakaban-lele.md) — dimensi bak, detail kakaban; kolam pijah lapangan 2×3 m (rev 4).

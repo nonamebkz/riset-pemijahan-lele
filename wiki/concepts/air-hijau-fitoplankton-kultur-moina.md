@@ -5,7 +5,7 @@ title: Air hijau untuk kultur Moina
 aliases: [green water, fitoplankton Moina]
 created: 2026-10-01
 updated: 2026-10-01
-revision: 1
+revision: 2
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -60,6 +60,7 @@ Tanda: warna pucat/hitam cepat, bau, busa, Moina stres pagi hari → hentikan pu
 
 - [Budidaya Moina untuk pakan larva lele](budidaya-moina-pakan-larva-lele.md)
 - [Rendaman dedak untuk kultur Moina](rendaman-dedak-kultur-moina.md)
+- [Fermentasi dedak EM4 untuk kultur Moina](fermentasi-dedak-em4-kultur-moina.md)
 
 ## Pertentangan dan ketidakpastian
 

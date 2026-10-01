@@ -4,8 +4,8 @@ type: concept
 title: Budidaya cacing sutra untuk pemula
 aliases: [casut, budidaya casut, cacing sutra baki lumpur]
 created: 2026-09-30
-updated: 2026-09-30
-revision: 1
+updated: 2026-10-01
+revision: 2
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -55,6 +55,7 @@ Pasokan **cacing sutra (casut)** untuk pakan larva lele (umur **2–7 hari** dan
 ## Hubungan
 
 - [Komposisi dan jadwal pakan larva lele](komposisi-dan-jadwal-pakan-larva-lele.md)
+- [Budidaya Moina untuk pakan larva lele](budidaya-moina-pakan-larva-lele.md) (pakan hidup alternatif; kultur terpisah)
 - [Pakan alternatif lele — sintesis riset](pakan-alternatif-lele-sintesis-riset.md) (alternatif buatan/BSF vs pakan hidup)
 
 ## Pertentangan dan ketidakpastian
