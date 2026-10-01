@@ -1,17 +1,17 @@
 # Graph Report - riset-pemijahan-lele  (2026-10-01)
 
 ## Corpus Check
-- 139 files · ~66,818 words
+- 142 files · ~68,216 words
 - Verdict: corpus is large enough that graph structure adds value.
 - Unclassified: 9 file(s) not represented in the graph (top: (none) 5, .mdc 4)
 
 ## Summary
-- 1223 nodes · 1441 edges · 160 communities (118 shown, 42 thin omitted)
+- 1250 nodes · 1481 edges · 164 communities (122 shown, 42 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS · INFERRED: 4 edges (avg confidence: 0.85)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `485140aa`
+- Built from commit: `1cc0b33b`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -27,8 +27,8 @@
 - Penetasan telur lele — praktik kolam terpal
 - Perawatan rutin air kolam lele
 - Rantai pengolahan air sungai untuk pembenihan
-- TDS sebagai indikator air
-- Cara merawat air (catatan raw)
+- Job maintain — job-20261001-maintain-006
+- Job ingest — job-20261001-ingest-027
 - Pembahasan kolam terpal dan pemijahan (catatan raw)
 - LLM Wiki — ingest (skill utama)
 - Registri Sumber
@@ -79,7 +79,7 @@
 - Pencegahan jentik nyamuk di kolam larva
 - Agar kolam tidak memiliki jentik nyamuk (catatan raw)
 - Info pemindahan induk (catatan raw)
-- Komposisi pakan larva lele (catatan raw)
+- Konfigurasi kolam pembenihan — lapangan
 - Layout aerasi (catatan raw)
 - Pasca pemijahan (catatan raw)
 - Job ingest — job-20260929-ingest-003
@@ -111,7 +111,7 @@
 - cara-merawat-air
 - cara-merawat-kolam-setelah-pemijahan
 - cara-merawat-telur-lele
-- deep-research-pemijahan-lele
+- Fakta lapangan pembenihan (catatan raw)
 - estimasi-waktu-kawin
 - hasil-riset-1
 - hasil-riset-2
@@ -119,7 +119,7 @@
 - info-pemindahan-induk
 - wiki_check.py
 - Job ingest — job-20261001-ingest-025
-- membedakan-telur
+- Fakta lapangan pembenihan (catatan raw)
 - methylene-blue
 - pasca-pemijahan
 - pembahasan-kolam-terpal-dan-pemijahan
@@ -157,18 +157,22 @@
 - batas-penyimpanan-supernatan.md
 - fakta
 - agar-kolam-tidak-memilii-jentik-nyamuk
-- batas-penyimpanan-supernatan
+- Hasil riset 2 — unit inkubasi telur (catatan raw)
 - blower
 - budidaya-kutu-air
 - cara-budidaya-casut
 - cara-membuat-fermentasi-dengan-em4
 - cara-membuat-rendaman-dedak
-- komposisi-pakan-larva
+- Info lapangan — konfigurasi kolam pembenihan
 - takaran-air-fermentasi-untuk-monia
+- budidaya-plankton
+- komposisi-pakan-larva-lele
+- layout-aerasi
+- saran-penetasan-telur
 
 ## God Nodes (most connected - your core abstractions)
 1. `Registri Sumber` - 36 edges
-2. `Log Kegiatan` - 34 edges
+2. `Log Kegiatan` - 36 edges
 3. `Deep Research: Pemijahan Lele` - 21 edges
 4. `Pedoman Agen LLM Wiki` - 12 edges
 5. `Struktur Data Wiki` - 11 edges
@@ -184,7 +188,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (160 total, 42 thin omitted)
+## Communities (164 total, 42 thin omitted)
 
 ### Community 0 - "Pedoman Agen LLM Wiki"
 Cohesion: 0.15
@@ -219,20 +223,20 @@ Cohesion: 0.29
 Nodes (7): Bukti dan sumber, Hubungan, Penetasan telur lele — praktik kolam terpal, Penjelasan, Pertanyaan terbuka, Pertentangan dan ketidakpastian, Ringkasan
 
 ### Community 9 - "Perawatan rutin air kolam lele"
-Cohesion: 0.29
-Nodes (7): Bukti dan sumber, Hubungan, Penjelasan, Perawatan rutin air kolam lele, Pertanyaan terbuka, Pertentangan dan ketidakpastian, Ringkasan
+Cohesion: 0.09
+Nodes (21): Bukti dan sumber, Hubungan, Penjelasan, Perawatan rutin air kolam lele, Pertanyaan terbuka, Pertentangan dan ketidakpastian, Ringkasan, Bukti dan sumber (+13 more)
 
 ### Community 10 - "Rantai pengolahan air sungai untuk pembenihan"
 Cohesion: 0.29
 Nodes (7): Bukti dan sumber, Hubungan, Penjelasan, Pertanyaan terbuka, Pertentangan dan ketidakpastian, Rantai pengolahan air sungai untuk pembenihan, Ringkasan
 
-### Community 11 - "TDS sebagai indikator air"
-Cohesion: 0.29
-Nodes (7): Bukti dan sumber, Hubungan, Penjelasan, Pertanyaan terbuka, Pertentangan dan ketidakpastian, Ringkasan, TDS sebagai indikator air
+### Community 11 - "Job maintain — job-20261001-maintain-006"
+Cohesion: 0.22
+Nodes (8): Berkas yang berubah, Daftar langkah, Hasil pemeriksaan, kendala, dan langkah berikutnya, Job maintain — job-20261001-maintain-006, Keadaan awal (dibaca 2026-10-01), Sumber atau topik, Tujuan, cakupan, dan izin pengguna, Usulan yang memerlukan persetujuan
 
-### Community 12 - "Cara merawat air (catatan raw)"
+### Community 12 - "Job ingest — job-20261001-ingest-027"
 Cohesion: 0.29
-Nodes (7): Cakupan pembacaan, Cara merawat air (catatan raw), Halaman terkait, Identitas dan versi sumber, Keterbatasan, Klaim utama dan lokasi bukti, Ringkasan
+Nodes (6): Berkas yang berubah, Hasil pemeriksaan, Identifikasi, Job ingest — job-20261001-ingest-027, Tujuan, Usulan persetujuan
 
 ### Community 13 - "Pembahasan kolam terpal dan pemijahan (catatan raw)"
 Cohesion: 0.29
@@ -244,7 +248,7 @@ Nodes (4): LLM Wiki — ingest (skill utama), Prompt berulang (jalankan persis),
 
 ### Community 15 - "Registri Sumber"
 Cohesion: 0.18
-Nodes (11): aerasi-kolam, budidaya-plankton, komposisi-pakan-larva-lele, layout-aerasi, Registri Sumber, saran-penetasan-telur, v1, v1 (+3 more)
+Nodes (11): aerasi-kolam, batas-penyimpanan-supernatan, deep-research-pemijahan-lele, komposisi-pakan-larva, membedakan-telur, Registri Sumber, v1, v1 (+3 more)
 
 ### Community 16 - "LLM Wiki — maintain"
 Cohesion: 0.50
@@ -260,7 +264,7 @@ Nodes (4): Analisis, Katalog Wiki, Konsep, Sumber
 
 ### Community 19 - "Log Kegiatan"
 Cohesion: 0.06
-Nodes (34): 2026-09-29 — job-20260929-ingest-001, 2026-09-29 — job-20260929-ingest-002, 2026-09-29 — job-20260929-ingest-003, 2026-09-29 — job-20260929-ingest-004, 2026-09-29 — job-20260929-ingest-005, 2026-09-29 — job-20260929-ingest-006, 2026-09-29 — job-20260929-ingest-007, 2026-09-29 — job-20260929-ingest-008 (+26 more)
+Nodes (36): 2026-09-29 — job-20260929-ingest-001, 2026-09-29 — job-20260929-ingest-002, 2026-09-29 — job-20260929-ingest-003, 2026-09-29 — job-20260929-ingest-004, 2026-09-29 — job-20260929-ingest-005, 2026-09-29 — job-20260929-ingest-006, 2026-09-29 — job-20260929-ingest-007, 2026-09-29 — job-20260929-ingest-008 (+28 more)
 
 ### Community 20 - "Perawatan kolam setelah pemijahan"
 Cohesion: 0.20
@@ -359,12 +363,12 @@ Cohesion: 0.29
 Nodes (7): Alur pasca pemijahan lele, Bukti dan sumber, Hubungan, Penjelasan, Pertanyaan terbuka, Pertentangan dan ketidakpastian, Ringkasan
 
 ### Community 45 - "Bak pemijahan dan sarana kakaban lele"
-Cohesion: 0.06
-Nodes (28): Bak pemijahan dan sarana kakaban lele, Bukti dan sumber, Hubungan, Penjelasan, Pertanyaan terbuka, Pertentangan dan ketidakpastian, Ringkasan, Bukti dan sumber (+20 more)
+Cohesion: 0.29
+Nodes (7): Bak pemijahan dan sarana kakaban lele, Bukti dan sumber, Hubungan, Penjelasan, Pertanyaan terbuka, Pertentangan dan ketidakpastian, Ringkasan
 
 ### Community 46 - "Aerasi kolam terpal pemijahan (catatan raw)"
-Cohesion: 0.13
-Nodes (14): Aerasi kolam terpal pemijahan (catatan raw), Cakupan pembacaan, Halaman terkait, Identitas dan versi sumber, Keterbatasan, Klaim utama (lokasi di raw), Ringkasan, Cakupan pembacaan (+6 more)
+Cohesion: 0.29
+Nodes (7): Aerasi kolam terpal pemijahan (catatan raw), Cakupan pembacaan, Halaman terkait, Identitas dan versi sumber, Keterbatasan, Klaim utama (lokasi di raw), Ringkasan
 
 ### Community 47 - "Kalibrasi DO dan blower (catatan raw)"
 Cohesion: 0.29
@@ -403,8 +407,8 @@ Cohesion: 0.29
 Nodes (7): Cakupan pembacaan, Halaman terkait, Identitas dan versi sumber, Keterbatasan, Klaim utama (lokasi di raw), Methylene blue pada penetasan telur (catatan raw), Ringkasan
 
 ### Community 56 - "Pakan alternatif lele & larva (catatan raw)"
-Cohesion: 0.29
-Nodes (7): Cakupan pembacaan, Halaman terkait, Identitas dan versi sumber, Keterbatasan, Klaim utama (lokasi di raw), Pakan alternatif lele & larva (catatan raw), Ringkasan
+Cohesion: 0.14
+Nodes (13): Cakupan pembacaan, Halaman terkait, Identitas dan versi sumber, Klaim utama dan lokasi bukti, Komposisi pakan larva lele (catatan raw), Ringkasan, Cakupan pembacaan, Halaman terkait (+5 more)
 
 ### Community 57 - "Saran penetasan telur (catatan raw)"
 Cohesion: 0.29
@@ -434,9 +438,9 @@ Nodes (6): Agar kolam tidak memiliki jentik nyamuk (catatan raw), Cakupan pembac
 Cohesion: 0.33
 Nodes (6): Cakupan pembacaan, Halaman terkait, Identitas dan versi sumber, Info pemindahan induk (catatan raw), Klaim utama (lokasi di raw), Ringkasan
 
-### Community 64 - "Komposisi pakan larva lele (catatan raw)"
-Cohesion: 0.33
-Nodes (6): Cakupan pembacaan, Halaman terkait, Identitas dan versi sumber, Klaim utama dan lokasi bukti, Komposisi pakan larva lele (catatan raw), Ringkasan
+### Community 64 - "Konfigurasi kolam pembenihan — lapangan"
+Cohesion: 0.29
+Nodes (7): Bukti dan sumber, Hubungan, Konfigurasi kolam pembenihan — lapangan, Penjelasan, Pertanyaan terbuka, Pertentangan dan ketidakpastian, Ringkasan
 
 ### Community 65 - "Layout aerasi (catatan raw)"
 Cohesion: 0.33
@@ -531,8 +535,12 @@ Cohesion: 0.40
 Nodes (4): Berkas diubah, Izin, Job maintain — job-20260930-maintain-002, Tujuan
 
 ### Community 95 - "Job ingest — job-20260930-ingest-019"
-Cohesion: 0.17
+Cohesion: 0.18
 Nodes (11): Berkas direncanakan, Hasil pemeriksaan, Job ingest — job-20260930-ingest-019, Keadaan awal, Kutipan lanjutan (konfirmasi satuan), Kutipan (teks pengguna), Langkah, Langkah berikutnya (+3 more)
+
+### Community 102 - "Fakta lapangan pembenihan (catatan raw)"
+Cohesion: 0.29
+Nodes (7): Cakupan pembacaan, Fakta lapangan pembenihan (catatan raw), Halaman terkait, Identitas dan versi sumber, Keterbatasan, Klaim utama dan lokasi bukti, Ringkasan
 
 ### Community 108 - "wiki_check.py"
 Cohesion: 0.17
@@ -541,6 +549,10 @@ Nodes (21): argparse, collections, hashlib, Path, pathlib, re, sys, cmd_hash() (
 ### Community 109 - "Job ingest — job-20261001-ingest-025"
 Cohesion: 0.11
 Nodes (16): Berkas yang berubah (v1), Hasil dan penerus, Identitas, Job ingest — job-20261001-ingest-025, Konflik tercatat pada v1 (tidak dipilih pemenang di job ini), Pemeriksaan, Sumber, Tujuan (+8 more)
+
+### Community 110 - "Fakta lapangan pembenihan (catatan raw)"
+Cohesion: 0.29
+Nodes (7): Cakupan pembacaan, Fakta lapangan pembenihan (catatan raw), Halaman terkait, Identitas dan versi sumber, Keterbatasan, Klaim utama dan lokasi bukti, Ringkasan
 
 ### Community 114 - "Job maintain — job-20261001-maintain-005"
 Cohesion: 0.14
@@ -655,28 +667,36 @@ Cohesion: 0.40
 Nodes (4): Batas penyimpanan, Cara menyimpan dengan benar, Praktik paling aman, Tanda stok harus dibuang
 
 ### Community 150 - "fakta"
-Cohesion: 0.67
-Nodes (3): fakta, v1, v2
+Cohesion: 0.50
+Nodes (4): fakta, v1, v2, v3
+
+### Community 152 - "Hasil riset 2 — unit inkubasi telur (catatan raw)"
+Cohesion: 0.29
+Nodes (7): Cakupan pembacaan, Halaman terkait, Hasil riset 2 — unit inkubasi telur (catatan raw), Identitas dan versi sumber, Keterbatasan, Klaim utama (lokasi di raw), Ringkasan
+
+### Community 158 - "Info lapangan — konfigurasi kolam pembenihan"
+Cohesion: 0.29
+Nodes (7): Cakupan pembacaan, Halaman terkait, Identitas dan versi sumber, Info lapangan — konfigurasi kolam pembenihan, Keterbatasan, Klaim utama (lokasi bukti), Ringkasan
 
 ## Knowledge Gaps
-- **857 isolated node(s):** `Prompt berulang (jalankan persis)`, `Rantai otomatis`, `Prompt pendek (setara)`, `Alur`, `Contoh prompt` (+852 more)
-  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 918 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
+- **878 isolated node(s):** `Prompt berulang (jalankan persis)`, `Rantai otomatis`, `Prompt pendek (setara)`, `Alur`, `Contoh prompt` (+873 more)
+  These have ≤1 connection - possible missing edges or undocumented components. (Counts symbols only; 940 node(s) total have ≤1 connection when file, concept and rationale nodes are included.)
 - **42 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `Registri Sumber` connect `Registri Sumber` to `index.md`, `fakta`, `agar-kolam-tidak-memilii-jentik-nyamuk`, `batas-penyimpanan-supernatan`, `blower`, `budidaya-kutu-air`, `cara-budidaya-casut`, `cara-membuat-fermentasi-dengan-em4`, `cara-membuat-rendaman-dedak`, `komposisi-pakan-larva`, `takaran-air-fermentasi-untuk-monia`, `cara-cepat-menetaskan-telur`, `cara-menaikan-ph`, `cara-menurunkan-ph`, `cara-merawat-air`, `cara-merawat-kolam-setelah-pemijahan`, `cara-merawat-telur-lele`, `deep-research-pemijahan-lele`, `estimasi-waktu-kawin`, `hasil-riset-1`, `hasil-riset-2`, `hasil-riset-3`, `info-pemindahan-induk`, `membedakan-telur`, `methylene-blue`, `pasca-pemijahan`, `pembahasan-kolam-terpal-dan-pemijahan`, `spesifikasi-kakaban`, `spesifikasi-pemijahan-lele`, `info-lapangan-konfigurasi-kolam`, `pakan-alternative`?**
-  _High betweenness centrality (0.084) - this node is a cross-community bridge._
+- **Why does `Registri Sumber` connect `Registri Sumber` to `index.md`, `fakta`, `agar-kolam-tidak-memilii-jentik-nyamuk`, `blower`, `budidaya-kutu-air`, `cara-budidaya-casut`, `cara-membuat-fermentasi-dengan-em4`, `cara-membuat-rendaman-dedak`, `takaran-air-fermentasi-untuk-monia`, `budidaya-plankton`, `komposisi-pakan-larva-lele`, `layout-aerasi`, `saran-penetasan-telur`, `cara-cepat-menetaskan-telur`, `cara-menaikan-ph`, `cara-menurunkan-ph`, `cara-merawat-air`, `cara-merawat-kolam-setelah-pemijahan`, `cara-merawat-telur-lele`, `estimasi-waktu-kawin`, `hasil-riset-1`, `hasil-riset-2`, `hasil-riset-3`, `info-pemindahan-induk`, `methylene-blue`, `pasca-pemijahan`, `pembahasan-kolam-terpal-dan-pemijahan`, `spesifikasi-kakaban`, `spesifikasi-pemijahan-lele`, `info-lapangan-konfigurasi-kolam`, `pakan-alternative`?**
+  _High betweenness centrality (0.096) - this node is a cross-community bridge._
 - **Why does `Log Kegiatan` connect `Log Kegiatan` to `index.md`?**
-  _High betweenness centrality (0.030) - this node is a cross-community bridge._
-- **Why does `Parameter kualitas air lele` connect `Parameter kualitas air lele` to `index.md`?**
-  _High betweenness centrality (0.025) - this node is a cross-community bridge._
+  _High betweenness centrality (0.043) - this node is a cross-community bridge._
+- **Why does `Layout aerasi pembenihan lele` connect `Penjelasan` to `index.md`?**
+  _High betweenness centrality (0.027) - this node is a cross-community bridge._
 - **What connects `Prompt berulang (jalankan persis)`, `Rantai otomatis`, `Prompt pendek (setara)` to the rest of the system?**
-  _857 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _878 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `index.md` be split into smaller, more focused modules?**
-  _Cohesion score 0.1248097412480974 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.12432432432432433 - nodes in this community are weakly interconnected._
+- **Should `Perawatan rutin air kolam lele` be split into smaller, more focused modules?**
+  _Cohesion score 0.08571428571428572 - nodes in this community are weakly interconnected._
 - **Should `Log Kegiatan` be split into smaller, more focused modules?**
-  _Cohesion score 0.058823529411764705 - nodes in this community are weakly interconnected._
-- **Should `Deep Research: Pemijahan Lele` be split into smaller, more focused modules?**
-  _Cohesion score 0.06896551724137931 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.05555555555555555 - nodes in this community are weakly interconnected._

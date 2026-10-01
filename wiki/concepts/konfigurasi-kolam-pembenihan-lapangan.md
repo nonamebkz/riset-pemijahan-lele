@@ -5,7 +5,7 @@ title: Konfigurasi kolam pembenihan — lapangan
 aliases: [inventaris kolam terpal, ukuran kolam lapangan]
 created: 2026-09-30
 updated: 2026-10-01
-revision: 5
+revision: 6
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -17,14 +17,14 @@ source_refs:
   - source_id: komposisi-pakan-larva
     version_id: v1
   - source_id: fakta
-    version_id: v2
+    version_id: v3
 ---
 
 # Konfigurasi kolam pembenihan — lapangan
 
 ## Ringkasan
 
-Fasilitas yang dilaporkan pengguna: **satu** kolam **pijah** **2×3 m**; **tiga** kolam **telur & larva** masing-masing **1,5×3 m**. Chat 2026-09-30 dan [Fakta v2](../sources/fakta-v2.md) selaras pada angka itu. Kedalaman belum diukur. Kakaban lapangan **paranet** ([Fakta v2](../sources/fakta-v2.md) — raw baris 3).
+Fasilitas: **satu** kolam **pijah** **2×3 m**; **tiga** kolam **telur & larva** **1,5×3 m**. Chat 2026-09-30 dan [Fakta v3](../sources/fakta-v3.md) selaras pada tapak. Kakaban lapangan **paranet**. Tinggi air lapangan **15~20** (satuan tidak di raw). Kejadian tercatat: pemijahan **Sabtu 26 September**; **Minggu 27 September** telur dipindah ke kolam larva dan menetas ([Fakta v3](../sources/fakta-v3.md) — raw baris 5–7).
 
 ## Penjelasan
 
@@ -33,35 +33,39 @@ Fasilitas yang dilaporkan pengguna: **satu** kolam **pijah** **2×3 m**; **tiga*
 | Kolam pijah | **1** | **2 × 3 m** |
 | Kolam telur & larva | **3** | **1,5 × 3 m** |
 
-Bukti: [Info lapangan konfigurasi kolam v1](../sources/info-lapangan-konfigurasi-kolam-v1.md) (satuan meter dikonfirmasi chat); [Fakta v2](../sources/fakta-v2.md) menulis **2x3m** dan **1.5x3m**.
+Bukti tapak: [Info lapangan konfigurasi kolam v1](../sources/info-lapangan-konfigurasi-kolam-v1.md); [Fakta v3](../sources/fakta-v3.md) **2x3m** / **1.5x3m**.
 
-Telur/larva **tidak** di kolam pijah.
+Telur/larva **tidak** di kolam pijah: pada 27 September telur **dipindah ke kolam larva** ([Fakta v3](../sources/fakta-v3.md) — raw baris 6).
 
-**Kedalaman/volume (bukan ukur pengguna):** [Komposisi pakan larva v1](../sources/komposisi-pakan-larva-v1.md) menghitung 25–30 cm pada tapak **1,5×3 m** → kisaran **1.125–1.350 L** per kolam. Angka volume itu tetap saran sumber, bukan pengukuran lapangan.
+**Tinggi air lapangan:** «tinggi air **15~20**» ([Fakta v3](../sources/fakta-v3.md) — raw baris 4). Satuan dan kolam mana tidak ditulis.
+
+**Volume saran (bukan ukur lapangan):** [Komposisi pakan larva v1](../sources/komposisi-pakan-larva-v1.md) menghitung 25–30 cm pada tapak **1,5×3 m** → **1.125–1.350 L** per kolam. Jangan pakai angka itu sebagai volume aktual selama satuan/tinggi lapangan belum dipastikan.
 
 ## Bukti dan sumber
 
 - [Info lapangan — konfigurasi kolam pembenihan v1](../sources/info-lapangan-konfigurasi-kolam-v1.md) — chat 2026-09-30
-- [Fakta v2](../sources/fakta-v2.md) — raw 3 baris, tersedia di `raw/fakta.md`
-- [Fakta v1](../sources/fakta-v1.md) — cuplikan diganti (replaced); menulis **1x3** tanpa satuan
-- [Komposisi pakan larva v1](../sources/komposisi-pakan-larva-v1.md) — saran kedalaman/volume pada asumsi 1,5×3 m
+- [Fakta v3](../sources/fakta-v3.md) — raw 7 baris, tersedia di `raw/fakta.md`
+- [Fakta v2](../sources/fakta-v2.md) — cuplikan 3 baris (replaced)
+- [Fakta v1](../sources/fakta-v1.md) — cuplikan diganti; menulis **1x3**
+- [Komposisi pakan larva v1](../sources/komposisi-pakan-larva-v1.md) — saran kedalaman/volume 25–30 cm
 
 ## Hubungan
 
-- [Bak pemijahan dan sarana kakaban lele](bak-pemijahan-dan-sarana-kakaban-lele.md) — kakaban paranet lapangan
+- [Bak pemijahan dan sarana kakaban lele](bak-pemijahan-dan-sarana-kakaban-lele.md)
 - [Layout aerasi pembenihan lele](layout-aerasi-pembenihan-lele.md)
 - [Penetasan telur lele — praktik kolam terpal](penetasan-telur-lele-praktik-kolam-terpal.md)
+- [Alur pasca pemijahan lele](alur-pasca-pemijahan-lele.md)
 - [Kalibrasi DO dan blower pembenihan lele](kalibrasi-do-dan-blower-pembenihan-lele.md)
 - [Komposisi dan jadwal pakan larva lele](komposisi-dan-jadwal-pakan-larva-lele.md)
 - [Budidaya Moina untuk pakan larva lele](budidaya-moina-pakan-larva-lele.md)
 
 ## Pertentangan dan ketidakpastian
 
-- **Fungsi tiga kolam:** «larva dan penetasan» (chat) / «telur & larva» (fakta); pembagian per unit belum ada.
-- Kedalaman 25–30 cm tetap saran catatan pakan, bukan ukur pengguna.
-- Cuplikan [Fakta v1](../sources/fakta-v1.md) menulis **1x3**; versi tersedia [v2](../sources/fakta-v2.md) **1.5x3m**. Tidak diperlakukan sebagai dua sumber independen yang masih bersaing.
+- Tinggi lapangan **15~20** (satuan tidak ada) vs saran pakan **25–30 cm** vs air pemijahan spesifikasi **30–50 cm** — tidak disatukan; jangan anggap otomatis sentimeter.
+- Fungsi tiga kolam: chat «larva dan penetasan»; fakta «telur & larva» + pindah ke «kolam larva» 27 September — pembagian per unit masih terbuka.
+- Cuplikan [Fakta v1](../sources/fakta-v1.md) **1x3** tidak diperlakukan sebagai sumber independen yang masih bersaing dengan v3.
 
 ## Pertanyaan terbuka
 
-- Kedalaman air **terukur** per kolam.
-- Apakah ketiga kolam 1,5×3 m setara atau berbeda peran.
+- Satuan tinggi air dan apakah 15~20 berlaku di pijah, larva, atau keduanya.
+- Apakah ketiga kolam 1,5×3 m setara setelah pindah telur.

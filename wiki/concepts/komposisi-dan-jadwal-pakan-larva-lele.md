@@ -5,7 +5,7 @@ title: Komposisi dan jadwal pakan larva lele
 aliases: [feeding schedule larva, artemia larva lele]
 created: 2026-09-29
 updated: 2026-10-01
-revision: 9
+revision: 10
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -117,7 +117,7 @@ Ringkasan [pakan-alternative v1](../sources/pakan-alternative-v1.md)—detail di
 - Frekuensi **4–6×** (nutrisi) vs **4–5×** lalu turun ke 3–4× (rencana 3 kolam)—tumpang tindih, bukan kontradiksi keras.
 - Pakan tradisional (rebon/cacing) di racikan lapangan vs **gap** data uji terkontrol dalam sintesis pakan-alternative—dua lapisan bukti berbeda.
 - Rencana 3 kolam: Moina **bukan** pakan tunggal sampai akhir pendederan ([Komposisi pakan larva v1](../sources/komposisi-pakan-larva-v1.md) — raw baris 90).
-- Volume kultur Moina di rencana 3 kolam dihitung dari tapak **1,5×3 m**, selaras inventaris lapangan tersedia ([Fakta v2](../sources/fakta-v2.md); [Konfigurasi kolam](konfigurasi-kolam-pembenihan-lapangan.md)). Kedalaman 25–30 cm tetap saran, bukan ukur.
+- Volume kultur Moina di rencana 3 kolam dihitung dari tapak **1,5×3 m**, selaras inventaris ([Fakta v3](../sources/fakta-v3.md); [Konfigurasi kolam](konfigurasi-kolam-pembenihan-lapangan.md)). Kedalaman saran catatan pakan **25–30 cm**; lapangan menulis **tinggi air 15~20** tanpa satuan — volume 1.125–1.350 L jangan dipakai sebagai ukur aktual.
 
 ## Pertanyaan terbuka
 

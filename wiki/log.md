@@ -230,3 +230,19 @@
 - **Isi v2:** 1×2x3m pijah; 3×1.5x3m telur & larva; kakaban paranet
 - **Validasi:** SHA-256 `cee8eaa7…327c`; 0 tautan rusak; 36 sumber + 28 konsep di indeks; raw tidak diubah
 - **Sisa:** kedalaman terukur; jumlah/ukuran lembar paranet; pembagian peran 3 kolam
+
+## 2026-10-01 — job-20261001-ingest-027
+
+- **Jenis:** ingest (`fakta` v3; lokasi sama)
+- **Hasil:** [Fakta v3](sources/fakta-v3.md); v2 replaced; konfigurasi rev 6; bak rev 7; layout rev 10; penetasan rev 13; alur rev 5; pemindahan rev 4; durasi rev 4; pakan rev 10; Moina rev 6
+- **Isi baru:** tinggi air 15~20 (satuan tidak di raw); pijah Sabtu 26 September; Minggu 27 September pindah ke kolam larva dan menetas
+- **Validasi:** `tools/wiki_check.py raw` + `validate`; SHA-256 `23e686c0…0eec`; 0 tautan rusak; 37 sumber + 28 konsep; raw tidak diubah
+- **Sisa:** satuan tinggi air; kolam mana; tahun; jam pindah/menetas; paranet
+
+## 2026-10-01 — job-20261001-maintain-006
+
+- **Jenis:** maintain (rapikan konsep bak/kakaban)
+- **Hasil:** [Bak pemijahan dan sarana kakaban lele](concepts/bak-pemijahan-dan-sarana-kakaban-lele.md) rev 8 — ringkasan spesifikasi; lapangan (paranet, tinggi air, tapak 2×3 m) sebagai rujukan; kalender 26–27 Sep dihapus dari halaman ini
+- **Validasi:** `tools/wiki_check.py validate` → VALIDATE_OK; tautan 0 rusak; 37 sumber + 28 konsep
+- **Catatan:** `wiki_check.py pages` tetap PAGES_FAIL (DUP_ID `src-komposisi-pakan-larva-v1` pada dua halaman sumber) — sudah ada sebelum job ini; tidak diubah
+- **Raw:** tidak diubah

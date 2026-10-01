@@ -515,12 +515,27 @@
 - **Judul:** Fakta lapangan pembenihan (catatan raw)
 - **Penulis/penerbit:** pengguna
 - **Tanggal publikasi:** null
-- **Lokasi lokal:** `raw/fakta.md`
+- **Lokasi lokal:** `raw/fakta.md` (bytes v2 tidak lagi di path)
 - **URL asal:** null
 - **Hash:** SHA-256 `cee8eaa7d6a165124d5403313243f7e5bd769ee65458cf3c26e6ecdb09f9327c`
 - **processing_status:** complete
 - **extraction_scope:** full
-- **Ketersediaan:** available
+- **Ketersediaan:** replaced
 - **Halaman wiki:** [fakta-v2.md](../wiki/sources/fakta-v2.md)
 - **job_id terakhir:** job-20261001-ingest-026
-- **Kendala terbuka:** kedalaman belum diukur; detail paranet belum ada; pembagian peran 3 kolam belum ada
+- **Kendala terbuka:** arsip byte tidak tersedia
+
+### v3
+
+- **Judul:** Fakta lapangan pembenihan (catatan raw)
+- **Penulis/penerbit:** pengguna
+- **Tanggal publikasi:** null
+- **Lokasi lokal:** `raw/fakta.md`
+- **URL asal:** null
+- **Hash:** SHA-256 `23e686c0ab5bb8d6d735a412c0d242a05a3801861b30029722290676a0900eec`
+- **processing_status:** complete
+- **extraction_scope:** full
+- **Ketersediaan:** available
+- **Halaman wiki:** [fakta-v3.md](../wiki/sources/fakta-v3.md)
+- **job_id terakhir:** job-20261001-ingest-027
+- **Kendala terbuka:** satuan tinggi air; kolam mana; tahun kalender; jam pindah/menetas; paranet

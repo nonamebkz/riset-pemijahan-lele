@@ -4,8 +4,8 @@ type: concept
 title: Alur pasca pemijahan lele
 aliases: [checklist pasca pijah, timeline setelah pemijahan]
 created: 2026-09-29
-updated: 2026-09-30
-revision: 4
+updated: 2026-10-01
+revision: 5
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -18,13 +18,15 @@ source_refs:
     version_id: v1
   - source_id: estimasi-waktu-kawin
     version_id: v1
+  - source_id: fakta
+    version_id: v3
 ---
 
 # Alur pasca pemijahan lele
 
 ## Ringkasan
 
-Sumber checklist merangkum urutan operasional setelah pemijahan: **induk out → seleksi telur → bak penetasan → aerasi & air → menetas → larva**; plus persiapan bak larva dan pemulihan induk.
+Sumber checklist merangkum urutan operasional setelah pemijahan: **induk out → seleksi telur → bak penetasan → aerasi & air → menetas → larva**; plus persiapan bak larva dan pemulihan induk. **Lapangan:** pijah 26 September; 27 September telur dipindah ke kolam larva dan menetas ([Fakta v3](../sources/fakta-v3.md) — raw baris 5–7).
 
 ## Penjelasan
 
@@ -41,6 +43,8 @@ Urutan dari [pasca-pemijahan v1](../sources/pasca-pemijahan-v1.md):
 
 **Satu baris:** selesai pijah → induk diangkat → telur diseleksi → bak penetasan → aerasi halus → jaga air → tunggu menetas → rawat larva ([Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md) — raw baris 39–40).
 
+**Kejadian lapangan (kalender hari):** Sabtu 26 September pemijahan dilakukan; Minggu 27 September telur dipindah ke kolam larva dan menetas ([Fakta v3](../sources/fakta-v3.md) — raw baris 5–7). Jam angkat induk dan urutan jam pindah vs menetas tidak ada di sumber itu.
+
 ## Bukti dan sumber
 
 - [Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md)
@@ -48,6 +52,7 @@ Urutan dari [pasca-pemijahan v1](../sources/pasca-pemijahan-v1.md):
 - [Estimasi waktu kawin v1](../sources/estimasi-waktu-kawin-v1.md)
 - [Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md)
 - [Spesifikasi pemijahan lele v1](../sources/spesifikasi-pemijahan-lele-v1.md)
+- [Fakta v3](../sources/fakta-v3.md)
 
 ## Hubungan
 
@@ -64,4 +69,5 @@ Urutan dari [pasca-pemijahan v1](../sources/pasca-pemijahan-v1.md):
 
 ## Pertanyaan terbuka
 
-- Adopsi rentang 1–2 jam vs «segera» literal; skenario telur pindah bak vs tetap di kolam pijah.
+- Adopsi rentang 1–2 jam vs «segera» literal.
+- Jam angkat induk pada kejadian 26–27 September tidak tercatat.

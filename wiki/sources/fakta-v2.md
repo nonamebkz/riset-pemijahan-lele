@@ -5,7 +5,7 @@ title: Fakta lapangan pembenihan (catatan raw)
 aliases: [fakta kolam dan kakaban, inventaris 1.5x3m paranet]
 created: 2026-10-01
 updated: 2026-10-01
-revision: 1
+revision: 2
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -25,7 +25,8 @@ source_refs:
 - **source_id:** fakta
 - **version_id:** v2
 - **Bahan asli:** [raw/fakta.md](../../raw/fakta.md)
-- **Hash:** SHA-256 `cee8eaa7d6a165124d5403313243f7e5bd769ee65458cf3c26e6ecdb09f9327c`
+- **Hash (saat dibaca job-026):** SHA-256 `cee8eaa7d6a165124d5403313243f7e5bd769ee65458cf3c26e6ecdb09f9327c`
+- **Ketersediaan:** replaced — path [raw/fakta.md](../../raw/fakta.md) sekarang memuat [v3](fakta-v3.md); salinan byte v2 tidak diarsipkan.
 - **Pendahulu:** [Fakta v1](fakta-v1.md) — bytes v1 tidak lagi di path yang sama (ketersediaan: replaced).
 
 ## Cakupan pembacaan
@@ -46,8 +47,8 @@ Pengguna mencatat: **1** kolam **2x3m** untuk **pijah**; **3** kolam **1.5x3m** 
 
 ## Keterbatasan
 
-- Tanpa kedalaman, jumlah/ukuran lembar paranet, atau cara pemasangan.
-- Tidak merinci pembagian peran antar ketiga kolam 1.5x3m.
+- Tanpa kedalaman, jumlah/ukuran lembar paranet, atau cara pemasangan (pada cuplikan v2).
+- Versi tersedia sekarang: [Fakta v3](fakta-v3.md).
 
 ## Halaman terkait
 
@@ -55,3 +56,4 @@ Pengguna mencatat: **1** kolam **2x3m** untuk **pijah**; **3** kolam **1.5x3m** 
 - [Bak pemijahan dan sarana kakaban lele](../concepts/bak-pemijahan-dan-sarana-kakaban-lele.md)
 - [Info lapangan — konfigurasi kolam v1](info-lapangan-konfigurasi-kolam-v1.md)
 - [Fakta v1](fakta-v1.md)
+- [Fakta v3](fakta-v3.md) (versi tersedia di `raw/fakta.md`)

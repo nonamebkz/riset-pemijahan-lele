@@ -36,7 +36,8 @@
 - [Hasil riset 3 — metode pemijahan](sources/hasil-riset-3-v1.md) — alami, striping Ovaprim, semi-alami; latency ~10 jam.
 - [Pakan alternatif lele & larva](sources/pakan-alternative-v1.md) — sintesis BSF, fermentasi; citation IDs di raw; uncertain.
 - [Info lapangan — konfigurasi kolam](sources/info-lapangan-konfigurasi-kolam-v1.md) — 1 kolam pijah 2×3 m; 3 kolam larva/penetasan 1,5×3 m (chat pengguna).
-- [Fakta lapangan v2](sources/fakta-v2.md) — pijah 2x3m; 3 kolam 1.5x3m telur & larva; kakaban paranet (tersedia di raw).
+- [Fakta lapangan v3](sources/fakta-v3.md) — inventaris 2x3m / 1.5x3m; paranet; tinggi air 15~20; pijah 26 Sep; pindah & menetas 27 Sep.
+- [Fakta lapangan v2](sources/fakta-v2.md) — cuplikan 3 baris (replaced).
 - [Fakta lapangan v1](sources/fakta-v1.md) — cuplikan diganti; pernah 1x3 tanpa satuan.
 
 ## Konsep
@@ -45,7 +46,7 @@
 - [TDS sebagai indikator air](concepts/tds-sebagai-indikator-air.md) — batas TDS/ppm; mengapa angka TDS saja tidak cukup.
 - [Perawatan rutin air kolam lele](concepts/perawatan-rutin-air-kolam-lele.md) — pakan, sedot endapan, aerasi, ganti air, sumber air, pencatatan TDS.
 - [Rantai pengolahan air sungai untuk pembenihan](concepts/rantai-pengolahan-air-sungai-pembenihan.md) — endap, saring, aerasi, UV/desinfektan sebelum pemijahan/penetasan.
-- [Penetasan telur lele — praktik kolam terpal](concepts/penetasan-telur-lele-praktik-kolam-terpal.md) — parameter, waktu menetas vs suhu (rev 12; uncertain), aerasi, pakan larva.
+- [Penetasan telur lele — praktik kolam terpal](concepts/penetasan-telur-lele-praktik-kolam-terpal.md) — parameter, waktu menetas vs suhu (rev 13; uncertain); lapangan 26–27 Sep.
 - [Seleksi dan ciri telur lele](concepts/seleksi-dan-ciri-telur-lele.md) — visual telur hidup vs mati/jamur; senter & buang telur jelek.
 - [Methylene blue pada inkubasi telur lele](concepts/methylene-blue-pada-inkubasi-telur-lele.md) — dosis, metode, konflik sumber (uncertain).
 - [Perawatan kolam setelah pemijahan](concepts/perawatan-kolam-setelah-pemijahan.md) — skenario telur di kolam; pembersihan kolam kosong; air bekas pemijahan.
@@ -53,22 +54,22 @@
 - [Induk dan persiapan pemijahan lele](concepts/induk-dan-persiapan-pemijahan-lele.md) — umur/bobot, 1:1, puasa, pakan, ciri siap pijah (rev 9; rasio/bobot literatur web).
 - [Kriteria pra-pemijahan lele — sintesis web](concepts/kriteria-pra-pemijahan-lele-sintesis-web.md) — metode alami/induced/striping; uncertain.
 - [Metode pemijahan lele — sintesis web](concepts/metode-pemijahan-lele-sintesis-web.md) — prosedur A/B/C, fertilisasi, inkubasi pasca striping.
-- [Bak pemijahan dan sarana kakaban lele](concepts/bak-pemijahan-dan-sarana-kakaban-lele.md) — dimensi bak, kakaban ijuk vs paranet lapangan (rev 6).
-- [Konfigurasi kolam pembenihan — lapangan](concepts/konfigurasi-kolam-pembenihan-lapangan.md) — pijah 2×3 m; 3 kolam 1,5×3 m (rev 5).
-- [Layout aerasi pembenihan lele](concepts/layout-aerasi-pembenihan-lele.md) — posisi aerasi + inventaris kolam lapangan (rev 9).
+- [Bak pemijahan dan sarana kakaban lele](concepts/bak-pemijahan-dan-sarana-kakaban-lele.md) — dimensi bak, kakaban ijuk; paranet lapangan sebagai rujukan (rev 8).
+- [Konfigurasi kolam pembenihan — lapangan](concepts/konfigurasi-kolam-pembenihan-lapangan.md) — pijah 2×3 m; 3 kolam 1,5×3 m; tinggi air 15~20 (rev 6).
+- [Layout aerasi pembenihan lele](concepts/layout-aerasi-pembenihan-lele.md) — posisi aerasi + inventaris kolam lapangan (rev 10).
 - [Kalibrasi DO dan blower pembenihan lele](concepts/kalibrasi-do-dan-blower-pembenihan-lele.md) — lapangan DO vs arus telur.
 - [Unit inkubasi telur lele — engineering (sintesis web)](concepts/unit-inkubasi-telur-lele-engineering-sintesis-web.md) — trough, tray, DO, cautions agitasi.
-- [Komposisi dan jadwal pakan larva lele](concepts/komposisi-dan-jadwal-pakan-larva-lele.md) — nutrisi vs rencana 3 kolam; casut & Moina (rev 9; uncertain).
-- [Budidaya Moina untuk pakan larva lele](concepts/budidaya-moina-pakan-larva-lele.md) — wadah terpisah; buffer 1.500–2.000 L (rev 5).
+- [Komposisi dan jadwal pakan larva lele](concepts/komposisi-dan-jadwal-pakan-larva-lele.md) — nutrisi vs rencana 3 kolam; casut & Moina (rev 10; uncertain).
+- [Budidaya Moina untuk pakan larva lele](concepts/budidaya-moina-pakan-larva-lele.md) — wadah terpisah; buffer 1.500–2.000 L (rev 6).
 - [Air hijau untuk kultur Moina](concepts/air-hijau-fitoplankton-kultur-moina.md) — pupuk kantong, target hijau muda, hindari crash.
 - [Rendaman dedak untuk kultur Moina](concepts/rendaman-dedak-kultur-moina.md) — supernatan; dosis; simpan 24 jam / kulkas 2–3 hari (rev 3).
 - [Fermentasi dedak EM4 untuk kultur Moina](concepts/fermentasi-dedak-em4-kultur-moina.md) — ekstrak tersaring; dosis 0,5–1 ml/L/hari; umur padat vs cair (rev 3).
 - [Budidaya cacing sutra untuk pemula](concepts/budidaya-cacing-sutra-pemula.md) — wadah berlumpur; cuci/karantina sebelum beri larva (rev 3; uncertain).
 - [Pakan alternatif lele — sintesis riset](concepts/pakan-alternatif-lele-sintesis-riset.md) — BSF 66%, pasta 1,2 mm, gap rucah/rebon/cacing.
 - [Pencegahan jentik nyamuk di kolam larva](concepts/pencegahan-jentik-nyamuk-kolam-larva.md) — aerasi permukaan, penutup, larangan insektisida.
-- [Alur pasca pemijahan lele](concepts/alur-pasca-pemijahan-lele.md) — urutan operasional singkat setelah pemijahan selesai (rev 4).
-- [Durasi dan indikator pemijahan lele — kakaban terpal](concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md) — adaptasi 2–8 h, kawin aktif, jangan hitung dari jam tebar.
-- [Pemindahan induk pasca pemijahan — kakaban terpal](concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md) — angkat <6 h, pindah kakaban perlahan (rev 3).
+- [Alur pasca pemijahan lele](concepts/alur-pasca-pemijahan-lele.md) — urutan operasional singkat setelah pemijahan selesai (rev 5).
+- [Durasi dan indikator pemijahan lele — kakaban terpal](concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md) — adaptasi 2–8 h, kawin aktif; lapangan 26–27 Sep (rev 4).
+- [Pemindahan induk pasca pemijahan — kakaban terpal](concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md) — angkat <6 h; telur pindah kolam larva 27 Sep (rev 4).
 
 ## Analisis
 

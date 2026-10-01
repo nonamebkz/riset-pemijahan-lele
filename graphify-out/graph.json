@@ -604,28 +604,88 @@
       "source_location": "L39"
     },
     {
-      "id": "state_sources_deep_research_pemijahan_lele",
-      "label": "deep-research-pemijahan-lele",
+      "id": "wiki_sources_fakta_v2_cakupan_pembacaan",
+      "label": "Cakupan pembacaan",
       "_origin": "ast",
       "community": 102,
-      "community_name": "deep-research-pemijahan-lele",
+      "community_name": "Fakta lapangan pembenihan (catatan raw)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "deep-research-pemijahan-lele",
-      "source_file": "state/sources.md",
-      "source_location": "L206"
+      "norm_label": "cakupan pembacaan",
+      "source_file": "wiki/sources/fakta-v2.md",
+      "source_location": "L32"
     },
     {
-      "id": "state_sources_v1_208",
-      "label": "v1",
+      "id": "wiki_sources_fakta_v2_fakta_lapangan_pembenihan_catatan_raw",
+      "label": "Fakta lapangan pembenihan (catatan raw)",
       "_origin": "ast",
       "community": 102,
-      "community_name": "deep-research-pemijahan-lele",
+      "community_name": "Fakta lapangan pembenihan (catatan raw)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "v1",
-      "source_file": "state/sources.md",
-      "source_location": "L208"
+      "norm_label": "fakta lapangan pembenihan (catatan raw)",
+      "source_file": "wiki/sources/fakta-v2.md",
+      "source_location": "L21"
+    },
+    {
+      "id": "wiki_sources_fakta_v2_halaman_terkait",
+      "label": "Halaman terkait",
+      "_origin": "ast",
+      "community": 102,
+      "community_name": "Fakta lapangan pembenihan (catatan raw)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "halaman terkait",
+      "source_file": "wiki/sources/fakta-v2.md",
+      "source_location": "L53"
+    },
+    {
+      "id": "wiki_sources_fakta_v2_identitas_dan_versi_sumber",
+      "label": "Identitas dan versi sumber",
+      "_origin": "ast",
+      "community": 102,
+      "community_name": "Fakta lapangan pembenihan (catatan raw)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "identitas dan versi sumber",
+      "source_file": "wiki/sources/fakta-v2.md",
+      "source_location": "L23"
+    },
+    {
+      "id": "wiki_sources_fakta_v2_keterbatasan",
+      "label": "Keterbatasan",
+      "_origin": "ast",
+      "community": 102,
+      "community_name": "Fakta lapangan pembenihan (catatan raw)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "keterbatasan",
+      "source_file": "wiki/sources/fakta-v2.md",
+      "source_location": "L48"
+    },
+    {
+      "id": "wiki_sources_fakta_v2_klaim_utama_dan_lokasi_bukti",
+      "label": "Klaim utama dan lokasi bukti",
+      "_origin": "ast",
+      "community": 102,
+      "community_name": "Fakta lapangan pembenihan (catatan raw)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "klaim utama dan lokasi bukti",
+      "source_file": "wiki/sources/fakta-v2.md",
+      "source_location": "L40"
+    },
+    {
+      "id": "wiki_sources_fakta_v2_ringkasan",
+      "label": "Ringkasan",
+      "_origin": "ast",
+      "community": 102,
+      "community_name": "Fakta lapangan pembenihan (catatan raw)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "ringkasan",
+      "source_file": "wiki/sources/fakta-v2.md",
+      "source_location": "L36"
     },
     {
       "id": "state_sources_estimasi_waktu_kawin",
@@ -997,112 +1057,196 @@
       "source_location": "L34"
     },
     {
-      "id": "wiki_concepts_tds_sebagai_indikator_air_bukti_dan_sumber",
-      "label": "Bukti dan sumber",
+      "id": "state_jobs_job_20261001_maintain_006",
+      "label": "job-20261001-maintain-006.md",
       "_origin": "ast",
       "community": 11,
-      "community_name": "TDS sebagai indikator air",
+      "community_name": "Job maintain \u2014 job-20261001-maintain-006",
       "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "bukti dan sumber",
-      "source_file": "wiki/concepts/tds-sebagai-indikator-air.md",
-      "source_location": "L32"
+      "node_kind": "page",
+      "norm_label": "job-20261001-maintain-006.md",
+      "source_file": "state/jobs/job-20261001-maintain-006.md",
+      "source_location": "L1"
     },
     {
-      "id": "wiki_concepts_tds_sebagai_indikator_air_hubungan",
-      "label": "Hubungan",
+      "id": "state_jobs_job_20261001_maintain_006_berkas_yang_berubah",
+      "label": "Berkas yang berubah",
       "_origin": "ast",
       "community": 11,
-      "community_name": "TDS sebagai indikator air",
+      "community_name": "Job maintain \u2014 job-20261001-maintain-006",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "hubungan",
-      "source_file": "wiki/concepts/tds-sebagai-indikator-air.md",
-      "source_location": "L37"
+      "norm_label": "berkas yang berubah",
+      "source_file": "state/jobs/job-20261001-maintain-006.md",
+      "source_location": "L18"
     },
     {
-      "id": "wiki_concepts_tds_sebagai_indikator_air_penjelasan",
-      "label": "Penjelasan",
+      "id": "state_jobs_job_20261001_maintain_006_daftar_langkah",
+      "label": "Daftar langkah",
       "_origin": "ast",
       "community": 11,
-      "community_name": "TDS sebagai indikator air",
+      "community_name": "Job maintain \u2014 job-20261001-maintain-006",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "penjelasan",
-      "source_file": "wiki/concepts/tds-sebagai-indikator-air.md",
-      "source_location": "L27"
+      "norm_label": "daftar langkah",
+      "source_file": "state/jobs/job-20261001-maintain-006.md",
+      "source_location": "L33"
     },
     {
-      "id": "wiki_concepts_tds_sebagai_indikator_air_pertanyaan_terbuka",
-      "label": "Pertanyaan terbuka",
+      "id": "state_jobs_job_20261001_maintain_006_hasil_pemeriksaan_kendala_dan_langkah_berikutnya",
+      "label": "Hasil pemeriksaan, kendala, dan langkah berikutnya",
       "_origin": "ast",
       "community": 11,
-      "community_name": "TDS sebagai indikator air",
+      "community_name": "Job maintain \u2014 job-20261001-maintain-006",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "pertanyaan terbuka",
-      "source_file": "wiki/concepts/tds-sebagai-indikator-air.md",
-      "source_location": "L46"
+      "norm_label": "hasil pemeriksaan, kendala, dan langkah berikutnya",
+      "source_file": "state/jobs/job-20261001-maintain-006.md",
+      "source_location": "L45"
     },
     {
-      "id": "wiki_concepts_tds_sebagai_indikator_air_pertentangan_dan_ketidakpastian",
-      "label": "Pertentangan dan ketidakpastian",
+      "id": "state_jobs_job_20261001_maintain_006_job_maintain_job_20261001_maintain_006",
+      "label": "Job maintain \u2014 job-20261001-maintain-006",
       "_origin": "ast",
       "community": 11,
-      "community_name": "TDS sebagai indikator air",
+      "community_name": "Job maintain \u2014 job-20261001-maintain-006",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "pertentangan dan ketidakpastian",
-      "source_file": "wiki/concepts/tds-sebagai-indikator-air.md",
-      "source_location": "L42"
+      "norm_label": "job maintain \u2014 job-20261001-maintain-006",
+      "source_file": "state/jobs/job-20261001-maintain-006.md",
+      "source_location": "L1"
     },
     {
-      "id": "wiki_concepts_tds_sebagai_indikator_air_ringkasan",
-      "label": "Ringkasan",
+      "id": "state_jobs_job_20261001_maintain_006_keadaan_awal_dibaca_2026_10_01",
+      "label": "Keadaan awal (dibaca 2026-10-01)",
       "_origin": "ast",
       "community": 11,
-      "community_name": "TDS sebagai indikator air",
+      "community_name": "Job maintain \u2014 job-20261001-maintain-006",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "ringkasan",
-      "source_file": "wiki/concepts/tds-sebagai-indikator-air.md",
-      "source_location": "L23"
+      "norm_label": "keadaan awal (dibaca 2026-10-01)",
+      "source_file": "state/jobs/job-20261001-maintain-006.md",
+      "source_location": "L25"
     },
     {
-      "id": "wiki_concepts_tds_sebagai_indikator_air_tds_sebagai_indikator_air",
-      "label": "TDS sebagai indikator air",
+      "id": "state_jobs_job_20261001_maintain_006_sumber_atau_topik",
+      "label": "Sumber atau topik",
       "_origin": "ast",
       "community": 11,
-      "community_name": "TDS sebagai indikator air",
+      "community_name": "Job maintain \u2014 job-20261001-maintain-006",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "tds sebagai indikator air",
-      "source_file": "wiki/concepts/tds-sebagai-indikator-air.md",
+      "norm_label": "sumber atau topik",
+      "source_file": "state/jobs/job-20261001-maintain-006.md",
+      "source_location": "L14"
+    },
+    {
+      "id": "state_jobs_job_20261001_maintain_006_tujuan_cakupan_dan_izin_pengguna",
+      "label": "Tujuan, cakupan, dan izin pengguna",
+      "_origin": "ast",
+      "community": 11,
+      "community_name": "Job maintain \u2014 job-20261001-maintain-006",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "tujuan, cakupan, dan izin pengguna",
+      "source_file": "state/jobs/job-20261001-maintain-006.md",
+      "source_location": "L8"
+    },
+    {
+      "id": "state_jobs_job_20261001_maintain_006_usulan_yang_memerlukan_persetujuan",
+      "label": "Usulan yang memerlukan persetujuan",
+      "_origin": "ast",
+      "community": 11,
+      "community_name": "Job maintain \u2014 job-20261001-maintain-006",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "usulan yang memerlukan persetujuan",
+      "source_file": "state/jobs/job-20261001-maintain-006.md",
+      "source_location": "L41"
+    },
+    {
+      "id": "wiki_sources_fakta_v3_cakupan_pembacaan",
+      "label": "Cakupan pembacaan",
+      "_origin": "ast",
+      "community": 110,
+      "community_name": "Fakta lapangan pembenihan (catatan raw)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "cakupan pembacaan",
+      "source_file": "wiki/sources/fakta-v3.md",
+      "source_location": "L31"
+    },
+    {
+      "id": "wiki_sources_fakta_v3_fakta_lapangan_pembenihan_catatan_raw",
+      "label": "Fakta lapangan pembenihan (catatan raw)",
+      "_origin": "ast",
+      "community": 110,
+      "community_name": "Fakta lapangan pembenihan (catatan raw)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "fakta lapangan pembenihan (catatan raw)",
+      "source_file": "wiki/sources/fakta-v3.md",
       "source_location": "L21"
     },
     {
-      "id": "state_sources_membedakan_telur",
-      "label": "membedakan-telur",
+      "id": "wiki_sources_fakta_v3_halaman_terkait",
+      "label": "Halaman terkait",
       "_origin": "ast",
       "community": 110,
-      "community_name": "membedakan-telur",
+      "community_name": "Fakta lapangan pembenihan (catatan raw)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "membedakan-telur",
-      "source_file": "state/sources.md",
-      "source_location": "L192"
+      "norm_label": "halaman terkait",
+      "source_file": "wiki/sources/fakta-v3.md",
+      "source_location": "L58"
     },
     {
-      "id": "state_sources_v1_194",
-      "label": "v1",
+      "id": "wiki_sources_fakta_v3_identitas_dan_versi_sumber",
+      "label": "Identitas dan versi sumber",
       "_origin": "ast",
       "community": 110,
-      "community_name": "membedakan-telur",
+      "community_name": "Fakta lapangan pembenihan (catatan raw)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "v1",
-      "source_file": "state/sources.md",
-      "source_location": "L194"
+      "norm_label": "identitas dan versi sumber",
+      "source_file": "wiki/sources/fakta-v3.md",
+      "source_location": "L23"
+    },
+    {
+      "id": "wiki_sources_fakta_v3_keterbatasan",
+      "label": "Keterbatasan",
+      "_origin": "ast",
+      "community": 110,
+      "community_name": "Fakta lapangan pembenihan (catatan raw)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "keterbatasan",
+      "source_file": "wiki/sources/fakta-v3.md",
+      "source_location": "L51"
+    },
+    {
+      "id": "wiki_sources_fakta_v3_klaim_utama_dan_lokasi_bukti",
+      "label": "Klaim utama dan lokasi bukti",
+      "_origin": "ast",
+      "community": 110,
+      "community_name": "Fakta lapangan pembenihan (catatan raw)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "klaim utama dan lokasi bukti",
+      "source_file": "wiki/sources/fakta-v3.md",
+      "source_location": "L39"
+    },
+    {
+      "id": "wiki_sources_fakta_v3_ringkasan",
+      "label": "Ringkasan",
+      "_origin": "ast",
+      "community": 110,
+      "community_name": "Fakta lapangan pembenihan (catatan raw)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "ringkasan",
+      "source_file": "wiki/sources/fakta-v3.md",
+      "source_location": "L35"
     },
     {
       "id": "state_sources_methylene_blue",
@@ -1429,88 +1573,88 @@
       "source_location": "L1"
     },
     {
-      "id": "wiki_sources_cara_merawat_air_v1_cakupan_pembacaan",
-      "label": "Cakupan pembacaan",
+      "id": "state_jobs_job_20261001_ingest_027",
+      "label": "job-20261001-ingest-027.md",
       "_origin": "ast",
       "community": 12,
-      "community_name": "Cara merawat air (catatan raw)",
+      "community_name": "Job ingest \u2014 job-20261001-ingest-027",
       "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "cakupan pembacaan",
-      "source_file": "wiki/sources/cara-merawat-air-v1.md",
-      "source_location": "L30"
+      "node_kind": "page",
+      "norm_label": "job-20261001-ingest-027.md",
+      "source_file": "state/jobs/job-20261001-ingest-027.md",
+      "source_location": "L1"
     },
     {
-      "id": "wiki_sources_cara_merawat_air_v1_cara_merawat_air_catatan_raw",
-      "label": "Cara merawat air (catatan raw)",
+      "id": "state_jobs_job_20261001_ingest_027_berkas_yang_berubah",
+      "label": "Berkas yang berubah",
       "_origin": "ast",
       "community": 12,
-      "community_name": "Cara merawat air (catatan raw)",
+      "community_name": "Job ingest \u2014 job-20261001-ingest-027",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "cara merawat air (catatan raw)",
-      "source_file": "wiki/sources/cara-merawat-air-v1.md",
-      "source_location": "L21"
+      "norm_label": "berkas yang berubah",
+      "source_file": "state/jobs/job-20261001-ingest-027.md",
+      "source_location": "L18"
     },
     {
-      "id": "wiki_sources_cara_merawat_air_v1_halaman_terkait",
-      "label": "Halaman terkait",
+      "id": "state_jobs_job_20261001_ingest_027_hasil_pemeriksaan",
+      "label": "Hasil pemeriksaan",
       "_origin": "ast",
       "community": 12,
-      "community_name": "Cara merawat air (catatan raw)",
+      "community_name": "Job ingest \u2014 job-20261001-ingest-027",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "halaman terkait",
-      "source_file": "wiki/sources/cara-merawat-air-v1.md",
-      "source_location": "L54"
+      "norm_label": "hasil pemeriksaan",
+      "source_file": "state/jobs/job-20261001-ingest-027.md",
+      "source_location": "L32"
     },
     {
-      "id": "wiki_sources_cara_merawat_air_v1_identitas_dan_versi_sumber",
-      "label": "Identitas dan versi sumber",
+      "id": "state_jobs_job_20261001_ingest_027_identifikasi",
+      "label": "Identifikasi",
       "_origin": "ast",
       "community": 12,
-      "community_name": "Cara merawat air (catatan raw)",
+      "community_name": "Job ingest \u2014 job-20261001-ingest-027",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "identitas dan versi sumber",
-      "source_file": "wiki/sources/cara-merawat-air-v1.md",
-      "source_location": "L23"
+      "norm_label": "identifikasi",
+      "source_file": "state/jobs/job-20261001-ingest-027.md",
+      "source_location": "L12"
     },
     {
-      "id": "wiki_sources_cara_merawat_air_v1_keterbatasan",
-      "label": "Keterbatasan",
+      "id": "state_jobs_job_20261001_ingest_027_job_ingest_job_20261001_ingest_027",
+      "label": "Job ingest \u2014 job-20261001-ingest-027",
       "_origin": "ast",
       "community": 12,
-      "community_name": "Cara merawat air (catatan raw)",
+      "community_name": "Job ingest \u2014 job-20261001-ingest-027",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "keterbatasan",
-      "source_file": "wiki/sources/cara-merawat-air-v1.md",
-      "source_location": "L49"
+      "norm_label": "job ingest \u2014 job-20261001-ingest-027",
+      "source_file": "state/jobs/job-20261001-ingest-027.md",
+      "source_location": "L1"
     },
     {
-      "id": "wiki_sources_cara_merawat_air_v1_klaim_utama_dan_lokasi_bukti",
-      "label": "Klaim utama dan lokasi bukti",
+      "id": "state_jobs_job_20261001_ingest_027_tujuan",
+      "label": "Tujuan",
       "_origin": "ast",
       "community": 12,
-      "community_name": "Cara merawat air (catatan raw)",
+      "community_name": "Job ingest \u2014 job-20261001-ingest-027",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "klaim utama dan lokasi bukti",
-      "source_file": "wiki/sources/cara-merawat-air-v1.md",
-      "source_location": "L38"
+      "norm_label": "tujuan",
+      "source_file": "state/jobs/job-20261001-ingest-027.md",
+      "source_location": "L8"
     },
     {
-      "id": "wiki_sources_cara_merawat_air_v1_ringkasan",
-      "label": "Ringkasan",
+      "id": "state_jobs_job_20261001_ingest_027_usulan_persetujuan",
+      "label": "Usulan persetujuan",
       "_origin": "ast",
       "community": 12,
-      "community_name": "Cara merawat air (catatan raw)",
+      "community_name": "Job ingest \u2014 job-20261001-ingest-027",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "ringkasan",
-      "source_file": "wiki/sources/cara-merawat-air-v1.md",
-      "source_location": "L34"
+      "norm_label": "usulan persetujuan",
+      "source_file": "state/jobs/job-20261001-ingest-027.md",
+      "source_location": "L28"
     },
     {
       "id": "raw_membedakan_telur_bagus_dan_mati",
@@ -4325,40 +4469,52 @@
       "source_location": "L275"
     },
     {
-      "id": "state_sources_budidaya_plankton",
-      "label": "budidaya-plankton",
+      "id": "state_sources_batas_penyimpanan_supernatan",
+      "label": "batas-penyimpanan-supernatan",
       "_origin": "ast",
       "community": 15,
       "community_name": "Registri Sumber",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "budidaya-plankton",
+      "norm_label": "batas-penyimpanan-supernatan",
       "source_file": "state/sources.md",
-      "source_location": "L406"
+      "source_location": "L462"
     },
     {
-      "id": "state_sources_komposisi_pakan_larva_lele",
-      "label": "komposisi-pakan-larva-lele",
+      "id": "state_sources_deep_research_pemijahan_lele",
+      "label": "deep-research-pemijahan-lele",
       "_origin": "ast",
       "community": 15,
       "community_name": "Registri Sumber",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "komposisi-pakan-larva-lele",
+      "norm_label": "deep-research-pemijahan-lele",
       "source_file": "state/sources.md",
-      "source_location": "L125"
+      "source_location": "L206"
     },
     {
-      "id": "state_sources_layout_aerasi",
-      "label": "layout-aerasi",
+      "id": "state_sources_komposisi_pakan_larva",
+      "label": "komposisi-pakan-larva",
       "_origin": "ast",
       "community": 15,
       "community_name": "Registri Sumber",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "layout-aerasi",
+      "norm_label": "komposisi-pakan-larva",
       "source_file": "state/sources.md",
-      "source_location": "L178"
+      "source_location": "L479"
+    },
+    {
+      "id": "state_sources_membedakan_telur",
+      "label": "membedakan-telur",
+      "_origin": "ast",
+      "community": 15,
+      "community_name": "Registri Sumber",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "membedakan-telur",
+      "source_file": "state/sources.md",
+      "source_location": "L192"
     },
     {
       "id": "state_sources_registri_sumber",
@@ -4373,19 +4529,7 @@
       "source_location": "L1"
     },
     {
-      "id": "state_sources_saran_penetasan_telur",
-      "label": "saran-penetasan-telur",
-      "_origin": "ast",
-      "community": 15,
-      "community_name": "Registri Sumber",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "saran-penetasan-telur",
-      "source_file": "state/sources.md",
-      "source_location": "L138"
-    },
-    {
-      "id": "state_sources_v1_127",
+      "id": "state_sources_v1_194",
       "label": "v1",
       "_origin": "ast",
       "community": 15,
@@ -4394,10 +4538,10 @@
       "node_kind": "heading",
       "norm_label": "v1",
       "source_file": "state/sources.md",
-      "source_location": "L127"
+      "source_location": "L194"
     },
     {
-      "id": "state_sources_v1_140",
+      "id": "state_sources_v1_208",
       "label": "v1",
       "_origin": "ast",
       "community": 15,
@@ -4406,19 +4550,7 @@
       "node_kind": "heading",
       "norm_label": "v1",
       "source_file": "state/sources.md",
-      "source_location": "L140"
-    },
-    {
-      "id": "state_sources_v1_180",
-      "label": "v1",
-      "_origin": "ast",
-      "community": 15,
-      "community_name": "Registri Sumber",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "v1",
-      "source_file": "state/sources.md",
-      "source_location": "L180"
+      "source_location": "L208"
     },
     {
       "id": "state_sources_v1_277",
@@ -4433,7 +4565,7 @@
       "source_location": "L277"
     },
     {
-      "id": "state_sources_v1_408",
+      "id": "state_sources_v1_464",
       "label": "v1",
       "_origin": "ast",
       "community": 15,
@@ -4442,7 +4574,19 @@
       "node_kind": "heading",
       "norm_label": "v1",
       "source_file": "state/sources.md",
-      "source_location": "L408"
+      "source_location": "L464"
+    },
+    {
+      "id": "state_sources_v1_481",
+      "label": "v1",
+      "_origin": "ast",
+      "community": 15,
+      "community_name": "Registri Sumber",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "v1",
+      "source_file": "state/sources.md",
+      "source_location": "L481"
     },
     {
       "id": "state_sources_fakta",
@@ -4481,6 +4625,18 @@
       "source_location": "L513"
     },
     {
+      "id": "state_sources_v3",
+      "label": "v3",
+      "_origin": "ast",
+      "community": 150,
+      "community_name": "fakta",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "v3",
+      "source_file": "state/sources.md",
+      "source_location": "L528"
+    },
+    {
       "id": "state_sources_agar_kolam_tidak_memilii_jentik_nyamuk",
       "label": "agar-kolam-tidak-memilii-jentik-nyamuk",
       "_origin": "ast",
@@ -4505,28 +4661,88 @@
       "source_location": "L113"
     },
     {
-      "id": "state_sources_batas_penyimpanan_supernatan",
-      "label": "batas-penyimpanan-supernatan",
+      "id": "wiki_sources_hasil_riset_2_v1_cakupan_pembacaan",
+      "label": "Cakupan pembacaan",
       "_origin": "ast",
       "community": 152,
-      "community_name": "batas-penyimpanan-supernatan",
+      "community_name": "Hasil riset 2 \u2014 unit inkubasi telur (catatan raw)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "batas-penyimpanan-supernatan",
-      "source_file": "state/sources.md",
-      "source_location": "L462"
+      "norm_label": "cakupan pembacaan",
+      "source_file": "wiki/sources/hasil-riset-2-v1.md",
+      "source_location": "L31"
     },
     {
-      "id": "state_sources_v1_464",
-      "label": "v1",
+      "id": "wiki_sources_hasil_riset_2_v1_halaman_terkait",
+      "label": "Halaman terkait",
       "_origin": "ast",
       "community": 152,
-      "community_name": "batas-penyimpanan-supernatan",
+      "community_name": "Hasil riset 2 \u2014 unit inkubasi telur (catatan raw)",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "v1",
-      "source_file": "state/sources.md",
-      "source_location": "L464"
+      "norm_label": "halaman terkait",
+      "source_file": "wiki/sources/hasil-riset-2-v1.md",
+      "source_location": "L59"
+    },
+    {
+      "id": "wiki_sources_hasil_riset_2_v1_hasil_riset_2_unit_inkubasi_telur_catatan_raw",
+      "label": "Hasil riset 2 \u2014 unit inkubasi telur (catatan raw)",
+      "_origin": "ast",
+      "community": 152,
+      "community_name": "Hasil riset 2 \u2014 unit inkubasi telur (catatan raw)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "hasil riset 2 \u2014 unit inkubasi telur (catatan raw)",
+      "source_file": "wiki/sources/hasil-riset-2-v1.md",
+      "source_location": "L21"
+    },
+    {
+      "id": "wiki_sources_hasil_riset_2_v1_identitas_dan_versi_sumber",
+      "label": "Identitas dan versi sumber",
+      "_origin": "ast",
+      "community": 152,
+      "community_name": "Hasil riset 2 \u2014 unit inkubasi telur (catatan raw)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "identitas dan versi sumber",
+      "source_file": "wiki/sources/hasil-riset-2-v1.md",
+      "source_location": "L23"
+    },
+    {
+      "id": "wiki_sources_hasil_riset_2_v1_keterbatasan",
+      "label": "Keterbatasan",
+      "_origin": "ast",
+      "community": 152,
+      "community_name": "Hasil riset 2 \u2014 unit inkubasi telur (catatan raw)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "keterbatasan",
+      "source_file": "wiki/sources/hasil-riset-2-v1.md",
+      "source_location": "L53"
+    },
+    {
+      "id": "wiki_sources_hasil_riset_2_v1_klaim_utama_lokasi_di_raw",
+      "label": "Klaim utama (lokasi di raw)",
+      "_origin": "ast",
+      "community": 152,
+      "community_name": "Hasil riset 2 \u2014 unit inkubasi telur (catatan raw)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "klaim utama (lokasi di raw)",
+      "source_file": "wiki/sources/hasil-riset-2-v1.md",
+      "source_location": "L39"
+    },
+    {
+      "id": "wiki_sources_hasil_riset_2_v1_ringkasan",
+      "label": "Ringkasan",
+      "_origin": "ast",
+      "community": 152,
+      "community_name": "Hasil riset 2 \u2014 unit inkubasi telur (catatan raw)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "ringkasan",
+      "source_file": "wiki/sources/hasil-riset-2-v1.md",
+      "source_location": "L35"
     },
     {
       "id": "state_sources_blower",
@@ -4649,28 +4865,88 @@
       "source_location": "L421"
     },
     {
-      "id": "state_sources_komposisi_pakan_larva",
-      "label": "komposisi-pakan-larva",
+      "id": "wiki_sources_info_lapangan_konfigurasi_kolam_v1_cakupan_pembacaan",
+      "label": "Cakupan pembacaan",
       "_origin": "ast",
       "community": 158,
-      "community_name": "komposisi-pakan-larva",
+      "community_name": "Info lapangan \u2014 konfigurasi kolam pembenihan",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "komposisi-pakan-larva",
-      "source_file": "state/sources.md",
-      "source_location": "L479"
+      "norm_label": "cakupan pembacaan",
+      "source_file": "wiki/sources/info-lapangan-konfigurasi-kolam-v1.md",
+      "source_location": "L30"
     },
     {
-      "id": "state_sources_v1_481",
-      "label": "v1",
+      "id": "wiki_sources_info_lapangan_konfigurasi_kolam_v1_halaman_terkait",
+      "label": "Halaman terkait",
       "_origin": "ast",
       "community": 158,
-      "community_name": "komposisi-pakan-larva",
+      "community_name": "Info lapangan \u2014 konfigurasi kolam pembenihan",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "v1",
-      "source_file": "state/sources.md",
-      "source_location": "L481"
+      "norm_label": "halaman terkait",
+      "source_file": "wiki/sources/info-lapangan-konfigurasi-kolam-v1.md",
+      "source_location": "L51"
+    },
+    {
+      "id": "wiki_sources_info_lapangan_konfigurasi_kolam_v1_identitas_dan_versi_sumber",
+      "label": "Identitas dan versi sumber",
+      "_origin": "ast",
+      "community": 158,
+      "community_name": "Info lapangan \u2014 konfigurasi kolam pembenihan",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "identitas dan versi sumber",
+      "source_file": "wiki/sources/info-lapangan-konfigurasi-kolam-v1.md",
+      "source_location": "L23"
+    },
+    {
+      "id": "wiki_sources_info_lapangan_konfigurasi_kolam_v1_info_lapangan_konfigurasi_kolam_pembenihan",
+      "label": "Info lapangan \u2014 konfigurasi kolam pembenihan",
+      "_origin": "ast",
+      "community": 158,
+      "community_name": "Info lapangan \u2014 konfigurasi kolam pembenihan",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "info lapangan \u2014 konfigurasi kolam pembenihan",
+      "source_file": "wiki/sources/info-lapangan-konfigurasi-kolam-v1.md",
+      "source_location": "L21"
+    },
+    {
+      "id": "wiki_sources_info_lapangan_konfigurasi_kolam_v1_keterbatasan",
+      "label": "Keterbatasan",
+      "_origin": "ast",
+      "community": 158,
+      "community_name": "Info lapangan \u2014 konfigurasi kolam pembenihan",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "keterbatasan",
+      "source_file": "wiki/sources/info-lapangan-konfigurasi-kolam-v1.md",
+      "source_location": "L46"
+    },
+    {
+      "id": "wiki_sources_info_lapangan_konfigurasi_kolam_v1_klaim_utama_lokasi_bukti",
+      "label": "Klaim utama (lokasi bukti)",
+      "_origin": "ast",
+      "community": 158,
+      "community_name": "Info lapangan \u2014 konfigurasi kolam pembenihan",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "klaim utama (lokasi bukti)",
+      "source_file": "wiki/sources/info-lapangan-konfigurasi-kolam-v1.md",
+      "source_location": "L38"
+    },
+    {
+      "id": "wiki_sources_info_lapangan_konfigurasi_kolam_v1_ringkasan",
+      "label": "Ringkasan",
+      "_origin": "ast",
+      "community": 158,
+      "community_name": "Info lapangan \u2014 konfigurasi kolam pembenihan",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "ringkasan",
+      "source_file": "wiki/sources/info-lapangan-konfigurasi-kolam-v1.md",
+      "source_location": "L34"
     },
     {
       "id": "state_sources_takaran_air_fermentasi_untuk_monia",
@@ -4750,6 +5026,102 @@
       "source_location": "L10"
     },
     {
+      "id": "state_sources_budidaya_plankton",
+      "label": "budidaya-plankton",
+      "_origin": "ast",
+      "community": 160,
+      "community_name": "budidaya-plankton",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "budidaya-plankton",
+      "source_file": "state/sources.md",
+      "source_location": "L406"
+    },
+    {
+      "id": "state_sources_v1_408",
+      "label": "v1",
+      "_origin": "ast",
+      "community": 160,
+      "community_name": "budidaya-plankton",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "v1",
+      "source_file": "state/sources.md",
+      "source_location": "L408"
+    },
+    {
+      "id": "state_sources_komposisi_pakan_larva_lele",
+      "label": "komposisi-pakan-larva-lele",
+      "_origin": "ast",
+      "community": 161,
+      "community_name": "komposisi-pakan-larva-lele",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "komposisi-pakan-larva-lele",
+      "source_file": "state/sources.md",
+      "source_location": "L125"
+    },
+    {
+      "id": "state_sources_v1_127",
+      "label": "v1",
+      "_origin": "ast",
+      "community": 161,
+      "community_name": "komposisi-pakan-larva-lele",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "v1",
+      "source_file": "state/sources.md",
+      "source_location": "L127"
+    },
+    {
+      "id": "state_sources_layout_aerasi",
+      "label": "layout-aerasi",
+      "_origin": "ast",
+      "community": 162,
+      "community_name": "layout-aerasi",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "layout-aerasi",
+      "source_file": "state/sources.md",
+      "source_location": "L178"
+    },
+    {
+      "id": "state_sources_v1_180",
+      "label": "v1",
+      "_origin": "ast",
+      "community": 162,
+      "community_name": "layout-aerasi",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "v1",
+      "source_file": "state/sources.md",
+      "source_location": "L180"
+    },
+    {
+      "id": "state_sources_saran_penetasan_telur",
+      "label": "saran-penetasan-telur",
+      "_origin": "ast",
+      "community": 163,
+      "community_name": "saran-penetasan-telur",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "saran-penetasan-telur",
+      "source_file": "state/sources.md",
+      "source_location": "L138"
+    },
+    {
+      "id": "state_sources_v1_140",
+      "label": "v1",
+      "_origin": "ast",
+      "community": 163,
+      "community_name": "saran-penetasan-telur",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "v1",
+      "source_file": "state/sources.md",
+      "source_location": "L140"
+    },
+    {
       "id": "cursor_skills_llm_wiki_query_skill",
       "label": "llm-wiki-query/SKILL.md",
       "_origin": "ast",
@@ -4812,7 +5184,7 @@
       "node_kind": "heading",
       "norm_label": "analisis",
       "source_file": "wiki/index.md",
-      "source_location": "L73"
+      "source_location": "L74"
     },
     {
       "id": "wiki_index_katalog_wiki",
@@ -4836,7 +5208,7 @@
       "node_kind": "heading",
       "norm_label": "konsep",
       "source_file": "wiki/index.md",
-      "source_location": "L42"
+      "source_location": "L43"
     },
     {
       "id": "wiki_index_sumber",
@@ -5235,6 +5607,18 @@
       "source_location": "L226"
     },
     {
+      "id": "wiki_log_2026_10_01_job_20261001_ingest_027",
+      "label": "2026-10-01 \u2014 job-20261001-ingest-027",
+      "_origin": "ast",
+      "community": 19,
+      "community_name": "Log Kegiatan",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "2026-10-01 \u2014 job-20261001-ingest-027",
+      "source_file": "wiki/log.md",
+      "source_location": "L234"
+    },
+    {
       "id": "wiki_log_2026_10_01_job_20261001_maintain_005",
       "label": "2026-10-01 \u2014 job-20261001-maintain-005",
       "_origin": "ast",
@@ -5245,6 +5629,18 @@
       "norm_label": "2026-10-01 \u2014 job-20261001-maintain-005",
       "source_file": "wiki/log.md",
       "source_location": "L186"
+    },
+    {
+      "id": "wiki_log_2026_10_01_job_20261001_maintain_006",
+      "label": "2026-10-01 \u2014 job-20261001-maintain-006",
+      "_origin": "ast",
+      "community": 19,
+      "community_name": "Log Kegiatan",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "2026-10-01 \u2014 job-20261001-maintain-006",
+      "source_file": "wiki/log.md",
+      "source_location": "L242"
     },
     {
       "id": "wiki_log_log_kegiatan",
@@ -6756,7 +7152,7 @@
       "node_kind": "heading",
       "norm_label": "hubungan",
       "source_file": "wiki/concepts/layout-aerasi-pembenihan-lele.md",
-      "source_location": "L111"
+      "source_location": "L112"
     },
     {
       "id": "wiki_concepts_layout_aerasi_pembenihan_lele_inventaris_kolam_lapangan",
@@ -6840,7 +7236,7 @@
       "node_kind": "heading",
       "norm_label": "pertanyaan terbuka",
       "source_file": "wiki/concepts/layout-aerasi-pembenihan-lele.md",
-      "source_location": "L126"
+      "source_location": "L127"
     },
     {
       "id": "wiki_concepts_layout_aerasi_pembenihan_lele_pertentangan_dan_ketidakpastian",
@@ -6852,7 +7248,7 @@
       "node_kind": "heading",
       "norm_label": "pertentangan dan ketidakpastian",
       "source_file": "wiki/concepts/layout-aerasi-pembenihan-lele.md",
-      "source_location": "L120"
+      "source_location": "L121"
     },
     {
       "id": "wiki_concepts_layout_aerasi_pembenihan_lele_prinsip_indikator",
@@ -7263,8 +7659,8 @@
         "title": "Penetasan telur lele \u2014 praktik kolam terpal",
         "aliases": "[aerasi telur lele, media telur lele, kakaban telur lele]",
         "created": "2026-09-29",
-        "updated": "2026-09-30",
-        "revision": "12",
+        "updated": "2026-10-01",
+        "revision": "13",
         "review_status": "unreviewed",
         "reviewed_revision": "null",
         "reviewed_at": "null",
@@ -7289,8 +7685,8 @@
         "title": "Pemindahan induk pasca pemijahan \u2014 kakaban terpal",
         "aliases": "[angkat induk, waktu angkat induk]",
         "created": "2026-09-29",
-        "updated": "2026-09-30",
-        "revision": "3",
+        "updated": "2026-10-01",
+        "revision": "4",
         "review_status": "unreviewed",
         "reviewed_revision": "null",
         "reviewed_at": "null",
@@ -7451,8 +7847,8 @@
         "title": "Alur pasca pemijahan lele",
         "aliases": "[checklist pasca pijah, timeline setelah pemijahan]",
         "created": "2026-09-29",
-        "updated": "2026-09-30",
-        "revision": "4",
+        "updated": "2026-10-01",
+        "revision": "5",
         "review_status": "unreviewed",
         "reviewed_revision": "null",
         "reviewed_at": "null",
@@ -7506,7 +7902,7 @@
         "aliases": "[fakta kolam dan kakaban, inventaris 1.5x3m paranet]",
         "created": "2026-10-01",
         "updated": "2026-10-01",
-        "revision": "1",
+        "revision": "2",
         "review_status": "unreviewed",
         "reviewed_revision": "null",
         "reviewed_at": "null",
@@ -7549,6 +7945,34 @@
       "source_location": "L1"
     },
     {
+      "id": "wiki_sources_fakta_v3",
+      "label": "fakta-v3.md",
+      "_origin": "ast",
+      "community": 3,
+      "community_name": "index.md",
+      "file_type": "document",
+      "frontmatter": {
+        "id": "src-fakta-v3",
+        "type": "source",
+        "title": "Fakta lapangan pembenihan (catatan raw)",
+        "aliases": "[fakta kolam kakaban tinggi air, kalender pijah 26\u201327 september]",
+        "created": "2026-10-01",
+        "updated": "2026-10-01",
+        "revision": "1",
+        "review_status": "unreviewed",
+        "reviewed_revision": "null",
+        "reviewed_at": "null",
+        "evidence_status": "supported",
+        "tags": "[lapangan, kolam, kakaban, paranet, penetasan]",
+        "source_id": "fakta",
+        "version_id": "v3"
+      },
+      "node_kind": "page",
+      "norm_label": "fakta-v3.md",
+      "source_file": "wiki/sources/fakta-v3.md",
+      "source_location": "L1"
+    },
+    {
       "id": "wiki_concepts_komposisi_dan_jadwal_pakan_larva_lele",
       "label": "komposisi-dan-jadwal-pakan-larva-lele.md",
       "_origin": "ast",
@@ -7562,7 +7986,7 @@
         "aliases": "[feeding schedule larva, artemia larva lele]",
         "created": "2026-09-29",
         "updated": "2026-10-01",
-        "revision": "9",
+        "revision": "10",
         "review_status": "unreviewed",
         "reviewed_revision": "null",
         "reviewed_at": "null",
@@ -7752,7 +8176,7 @@
         "aliases": "[inventaris kolam terpal, ukuran kolam lapangan]",
         "created": "2026-09-30",
         "updated": "2026-10-01",
-        "revision": "5",
+        "revision": "6",
         "review_status": "unreviewed",
         "reviewed_revision": "null",
         "reviewed_at": "null",
@@ -7888,7 +8312,7 @@
         "aliases": "[kolam pemijahan 2x3, kakaban ijuk]",
         "created": "2026-09-29",
         "updated": "2026-10-01",
-        "revision": "6",
+        "revision": "8",
         "review_status": "unreviewed",
         "reviewed_revision": "null",
         "reviewed_at": "null",
@@ -7970,7 +8394,7 @@
         "aliases": "[kutu air Moina, kultur Moina larva lele]",
         "created": "2026-10-01",
         "updated": "2026-10-01",
-        "revision": "5",
+        "revision": "6",
         "review_status": "unreviewed",
         "reviewed_revision": "null",
         "reviewed_at": "null",
@@ -8240,7 +8664,7 @@
         "aliases": "[posisi aerasi telur, aerasi bak pijah]",
         "created": "2026-09-29",
         "updated": "2026-10-01",
-        "revision": "9",
+        "revision": "10",
         "review_status": "unreviewed",
         "reviewed_revision": "null",
         "reviewed_at": "null",
@@ -8702,7 +9126,7 @@
         "aliases": "[ukuran kolam lapangan, inventaris kolam terpal]",
         "created": "2026-09-30",
         "updated": "2026-10-01",
-        "revision": "3",
+        "revision": "4",
         "review_status": "unreviewed",
         "reviewed_revision": "null",
         "reviewed_at": "null",
@@ -8757,8 +9181,8 @@
         "title": "Durasi dan indikator pemijahan lele \u2014 kakaban terpal",
         "aliases": "[waktu kawin lele, timeline pemijahan kakaban, estimasi pijah]",
         "created": "2026-09-29",
-        "updated": "2026-09-30",
-        "revision": "3",
+        "updated": "2026-10-01",
+        "revision": "4",
         "review_status": "unreviewed",
         "reviewed_revision": "null",
         "reviewed_at": "null",
@@ -8840,6 +9264,18 @@
       "node_kind": "page",
       "norm_label": "pembahasan-kolam-terpal-dan-pemijahan.md",
       "source_file": "raw/pembahasan-kolam-terpal-dan-pemijahan.md",
+      "source_location": "L1"
+    },
+    {
+      "id": "state_jobs_job_20260930_ingest_019",
+      "label": "job-20260930-ingest-019.md",
+      "_origin": "ast",
+      "community": 3,
+      "community_name": "index.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "norm_label": "job-20260930-ingest-019.md",
+      "source_file": "state/jobs/job-20260930-ingest-019.md",
       "source_location": "L1"
     },
     {
@@ -9584,7 +10020,7 @@
       "node_kind": "heading",
       "norm_label": "bukti dan sumber",
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L69"
+      "source_location": "L73"
     },
     {
       "id": "wiki_concepts_pemindahan_induk_pasca_pemijahan_kakaban_terpal_contoh_sop_lapangan_raw",
@@ -9596,7 +10032,7 @@
       "node_kind": "heading",
       "norm_label": "contoh sop lapangan (raw)",
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L57"
+      "source_location": "L59"
     },
     {
       "id": "wiki_concepts_pemindahan_induk_pasca_pemijahan_kakaban_terpal_hubungan",
@@ -9608,7 +10044,7 @@
       "node_kind": "heading",
       "norm_label": "hubungan",
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L77"
+      "source_location": "L82"
     },
     {
       "id": "wiki_concepts_pemindahan_induk_pasca_pemijahan_kakaban_terpal_indikator_selesai_pijah_bukan_jam_saja",
@@ -9620,7 +10056,7 @@
       "node_kind": "heading",
       "norm_label": "indikator \u00abselesai pijah\u00bb (bukan jam saja)",
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L44"
+      "source_location": "L46"
     },
     {
       "id": "wiki_concepts_pemindahan_induk_pasca_pemijahan_kakaban_terpal_kakaban_telur_setelah_induk_keluar",
@@ -9632,7 +10068,7 @@
       "node_kind": "heading",
       "norm_label": "kakaban & telur (setelah induk keluar)",
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L63"
+      "source_location": "L65"
     },
     {
       "id": "wiki_concepts_pemindahan_induk_pasca_pemijahan_kakaban_terpal_kapan_angkat_jam",
@@ -9644,7 +10080,7 @@
       "node_kind": "heading",
       "norm_label": "kapan angkat (jam)",
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L35"
+      "source_location": "L37"
     },
     {
       "id": "wiki_concepts_pemindahan_induk_pasca_pemijahan_kakaban_terpal_pemindahan_induk_pasca_pemijahan_kakaban_terpal",
@@ -9656,7 +10092,7 @@
       "node_kind": "heading",
       "norm_label": "pemindahan induk pasca pemijahan \u2014 kakaban terpal",
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L27"
+      "source_location": "L29"
     },
     {
       "id": "wiki_concepts_pemindahan_induk_pasca_pemijahan_kakaban_terpal_penjelasan",
@@ -9668,7 +10104,7 @@
       "node_kind": "heading",
       "norm_label": "penjelasan",
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L33"
+      "source_location": "L35"
     },
     {
       "id": "wiki_concepts_pemindahan_induk_pasca_pemijahan_kakaban_terpal_pertanyaan_terbuka",
@@ -9680,7 +10116,7 @@
       "node_kind": "heading",
       "norm_label": "pertanyaan terbuka",
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L89"
+      "source_location": "L94"
     },
     {
       "id": "wiki_concepts_pemindahan_induk_pasca_pemijahan_kakaban_terpal_pertentangan_dan_ketidakpastian",
@@ -9692,7 +10128,7 @@
       "node_kind": "heading",
       "norm_label": "pertentangan dan ketidakpastian",
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L84"
+      "source_location": "L89"
     },
     {
       "id": "wiki_concepts_pemindahan_induk_pasca_pemijahan_kakaban_terpal_ringkasan",
@@ -9704,7 +10140,7 @@
       "node_kind": "heading",
       "norm_label": "ringkasan",
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L29"
+      "source_location": "L31"
     },
     {
       "id": "wiki_concepts_pemindahan_induk_pasca_pemijahan_kakaban_terpal_risiko_menunda",
@@ -9716,7 +10152,7 @@
       "node_kind": "heading",
       "norm_label": "risiko menunda",
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L52"
+      "source_location": "L54"
     },
     {
       "id": "wiki_concepts_seleksi_dan_ciri_telur_lele_bukti_dan_sumber",
@@ -10472,7 +10908,7 @@
       "node_kind": "heading",
       "norm_label": "bukti dan sumber",
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L71"
+      "source_location": "L73"
     },
     {
       "id": "wiki_concepts_durasi_dan_indikator_pemijahan_lele_kakaban_terpal_contoh_timeline_lapangan_estimasi_waktu_kawin_v1_sources_estimasi_waktu_kawin_v1_md",
@@ -10484,7 +10920,7 @@
       "node_kind": "heading",
       "norm_label": "contoh timeline lapangan ([estimasi waktu kawin v1](../sources/estimasi-waktu-kawin-v1.md))",
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L52"
+      "source_location": "L54"
     },
     {
       "id": "wiki_concepts_durasi_dan_indikator_pemijahan_lele_kakaban_terpal_durasi_dan_indikator_pemijahan_lele_kakaban_terpal",
@@ -10496,7 +10932,7 @@
       "node_kind": "heading",
       "norm_label": "durasi dan indikator pemijahan lele \u2014 kakaban terpal",
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L21"
+      "source_location": "L23"
     },
     {
       "id": "wiki_concepts_durasi_dan_indikator_pemijahan_lele_kakaban_terpal_hubungan",
@@ -10508,7 +10944,7 @@
       "node_kind": "heading",
       "norm_label": "hubungan",
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L76"
+      "source_location": "L79"
     },
     {
       "id": "wiki_concepts_durasi_dan_indikator_pemijahan_lele_kakaban_terpal_indikator_jangan_angkat_vs_selesai",
@@ -10520,7 +10956,7 @@
       "node_kind": "heading",
       "norm_label": "indikator \u00abjangan angkat\u00bb vs \u00abselesai\u00bb",
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L46"
+      "source_location": "L48"
     },
     {
       "id": "wiki_concepts_durasi_dan_indikator_pemijahan_lele_kakaban_terpal_penjelasan",
@@ -10532,7 +10968,7 @@
       "node_kind": "heading",
       "norm_label": "penjelasan",
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L27"
+      "source_location": "L29"
     },
     {
       "id": "wiki_concepts_durasi_dan_indikator_pemijahan_lele_kakaban_terpal_pertanyaan_terbuka",
@@ -10544,7 +10980,7 @@
       "node_kind": "heading",
       "norm_label": "pertanyaan terbuka",
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L87"
+      "source_location": "L90"
     },
     {
       "id": "wiki_concepts_durasi_dan_indikator_pemijahan_lele_kakaban_terpal_pertentangan_dan_ketidakpastian",
@@ -10556,7 +10992,7 @@
       "node_kind": "heading",
       "norm_label": "pertentangan dan ketidakpastian",
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L82"
+      "source_location": "L85"
     },
     {
       "id": "wiki_concepts_durasi_dan_indikator_pemijahan_lele_kakaban_terpal_ringkasan",
@@ -10568,7 +11004,7 @@
       "node_kind": "heading",
       "norm_label": "ringkasan",
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L23"
+      "source_location": "L25"
     },
     {
       "id": "wiki_concepts_durasi_dan_indikator_pemijahan_lele_kakaban_terpal_risiko_timing",
@@ -10580,7 +11016,7 @@
       "node_kind": "heading",
       "norm_label": "risiko timing",
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L64"
+      "source_location": "L66"
     },
     {
       "id": "wiki_concepts_durasi_dan_indikator_pemijahan_lele_kakaban_terpal_tahapan_perkiraan_raw",
@@ -10592,7 +11028,7 @@
       "node_kind": "heading",
       "norm_label": "tahapan (perkiraan raw)",
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L29"
+      "source_location": "L31"
     },
     {
       "id": "wiki_concepts_durasi_dan_indikator_pemijahan_lele_kakaban_terpal_telur_tidak_selalu_sekaligus",
@@ -10604,7 +11040,7 @@
       "node_kind": "heading",
       "norm_label": "telur tidak selalu sekaligus",
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L42"
+      "source_location": "L44"
     },
     {
       "id": "wiki_concepts_induk_dan_persiapan_pemijahan_lele_bukti_dan_sumber",
@@ -10844,7 +11280,7 @@
       "node_kind": "heading",
       "norm_label": "alur pasca pemijahan lele",
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L23"
+      "source_location": "L25"
     },
     {
       "id": "wiki_concepts_alur_pasca_pemijahan_lele_bukti_dan_sumber",
@@ -10856,7 +11292,7 @@
       "node_kind": "heading",
       "norm_label": "bukti dan sumber",
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L44"
+      "source_location": "L48"
     },
     {
       "id": "wiki_concepts_alur_pasca_pemijahan_lele_hubungan",
@@ -10868,7 +11304,7 @@
       "node_kind": "heading",
       "norm_label": "hubungan",
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L52"
+      "source_location": "L57"
     },
     {
       "id": "wiki_concepts_alur_pasca_pemijahan_lele_penjelasan",
@@ -10880,7 +11316,7 @@
       "node_kind": "heading",
       "norm_label": "penjelasan",
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L29"
+      "source_location": "L31"
     },
     {
       "id": "wiki_concepts_alur_pasca_pemijahan_lele_pertanyaan_terbuka",
@@ -10892,7 +11328,7 @@
       "node_kind": "heading",
       "norm_label": "pertanyaan terbuka",
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L65"
+      "source_location": "L70"
     },
     {
       "id": "wiki_concepts_alur_pasca_pemijahan_lele_pertentangan_dan_ketidakpastian",
@@ -10904,7 +11340,7 @@
       "node_kind": "heading",
       "norm_label": "pertentangan dan ketidakpastian",
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L61"
+      "source_location": "L66"
     },
     {
       "id": "wiki_concepts_alur_pasca_pemijahan_lele_ringkasan",
@@ -10916,7 +11352,7 @@
       "node_kind": "heading",
       "norm_label": "ringkasan",
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L25"
+      "source_location": "L27"
     },
     {
       "id": "wiki_concepts_bak_pemijahan_dan_sarana_kakaban_lele_bak_pemijahan_dan_sarana_kakaban_lele",
@@ -10976,7 +11412,7 @@
       "node_kind": "heading",
       "norm_label": "pertanyaan terbuka",
       "source_file": "wiki/concepts/bak-pemijahan-dan-sarana-kakaban-lele.md",
-      "source_location": "L77"
+      "source_location": "L78"
     },
     {
       "id": "wiki_concepts_bak_pemijahan_dan_sarana_kakaban_lele_pertentangan_dan_ketidakpastian",
@@ -11001,258 +11437,6 @@
       "norm_label": "ringkasan",
       "source_file": "wiki/concepts/bak-pemijahan-dan-sarana-kakaban-lele.md",
       "source_location": "L27"
-    },
-    {
-      "id": "wiki_concepts_konfigurasi_kolam_pembenihan_lapangan_bukti_dan_sumber",
-      "label": "Bukti dan sumber",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "Bak pemijahan dan sarana kakaban lele",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "bukti dan sumber",
-      "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
-      "source_location": "L42"
-    },
-    {
-      "id": "wiki_concepts_konfigurasi_kolam_pembenihan_lapangan_hubungan",
-      "label": "Hubungan",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "Bak pemijahan dan sarana kakaban lele",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "hubungan",
-      "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
-      "source_location": "L49"
-    },
-    {
-      "id": "wiki_concepts_konfigurasi_kolam_pembenihan_lapangan_konfigurasi_kolam_pembenihan_lapangan",
-      "label": "Konfigurasi kolam pembenihan \u2014 lapangan",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "Bak pemijahan dan sarana kakaban lele",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "konfigurasi kolam pembenihan \u2014 lapangan",
-      "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
-      "source_location": "L23"
-    },
-    {
-      "id": "wiki_concepts_konfigurasi_kolam_pembenihan_lapangan_penjelasan",
-      "label": "Penjelasan",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "Bak pemijahan dan sarana kakaban lele",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "penjelasan",
-      "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
-      "source_location": "L29"
-    },
-    {
-      "id": "wiki_concepts_konfigurasi_kolam_pembenihan_lapangan_pertanyaan_terbuka",
-      "label": "Pertanyaan terbuka",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "Bak pemijahan dan sarana kakaban lele",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "pertanyaan terbuka",
-      "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
-      "source_location": "L64"
-    },
-    {
-      "id": "wiki_concepts_konfigurasi_kolam_pembenihan_lapangan_pertentangan_dan_ketidakpastian",
-      "label": "Pertentangan dan ketidakpastian",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "Bak pemijahan dan sarana kakaban lele",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "pertentangan dan ketidakpastian",
-      "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
-      "source_location": "L58"
-    },
-    {
-      "id": "wiki_concepts_konfigurasi_kolam_pembenihan_lapangan_ringkasan",
-      "label": "Ringkasan",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "Bak pemijahan dan sarana kakaban lele",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "ringkasan",
-      "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
-      "source_location": "L25"
-    },
-    {
-      "id": "wiki_sources_fakta_v2_cakupan_pembacaan",
-      "label": "Cakupan pembacaan",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "Bak pemijahan dan sarana kakaban lele",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "cakupan pembacaan",
-      "source_file": "wiki/sources/fakta-v2.md",
-      "source_location": "L31"
-    },
-    {
-      "id": "wiki_sources_fakta_v2_fakta_lapangan_pembenihan_catatan_raw",
-      "label": "Fakta lapangan pembenihan (catatan raw)",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "Bak pemijahan dan sarana kakaban lele",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "fakta lapangan pembenihan (catatan raw)",
-      "source_file": "wiki/sources/fakta-v2.md",
-      "source_location": "L21"
-    },
-    {
-      "id": "wiki_sources_fakta_v2_halaman_terkait",
-      "label": "Halaman terkait",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "Bak pemijahan dan sarana kakaban lele",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "halaman terkait",
-      "source_file": "wiki/sources/fakta-v2.md",
-      "source_location": "L52"
-    },
-    {
-      "id": "wiki_sources_fakta_v2_identitas_dan_versi_sumber",
-      "label": "Identitas dan versi sumber",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "Bak pemijahan dan sarana kakaban lele",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "identitas dan versi sumber",
-      "source_file": "wiki/sources/fakta-v2.md",
-      "source_location": "L23"
-    },
-    {
-      "id": "wiki_sources_fakta_v2_keterbatasan",
-      "label": "Keterbatasan",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "Bak pemijahan dan sarana kakaban lele",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "keterbatasan",
-      "source_file": "wiki/sources/fakta-v2.md",
-      "source_location": "L47"
-    },
-    {
-      "id": "wiki_sources_fakta_v2_klaim_utama_dan_lokasi_bukti",
-      "label": "Klaim utama dan lokasi bukti",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "Bak pemijahan dan sarana kakaban lele",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "klaim utama dan lokasi bukti",
-      "source_file": "wiki/sources/fakta-v2.md",
-      "source_location": "L39"
-    },
-    {
-      "id": "wiki_sources_fakta_v2_ringkasan",
-      "label": "Ringkasan",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "Bak pemijahan dan sarana kakaban lele",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "ringkasan",
-      "source_file": "wiki/sources/fakta-v2.md",
-      "source_location": "L35"
-    },
-    {
-      "id": "wiki_sources_info_lapangan_konfigurasi_kolam_v1_cakupan_pembacaan",
-      "label": "Cakupan pembacaan",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "Bak pemijahan dan sarana kakaban lele",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "cakupan pembacaan",
-      "source_file": "wiki/sources/info-lapangan-konfigurasi-kolam-v1.md",
-      "source_location": "L30"
-    },
-    {
-      "id": "wiki_sources_info_lapangan_konfigurasi_kolam_v1_halaman_terkait",
-      "label": "Halaman terkait",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "Bak pemijahan dan sarana kakaban lele",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "halaman terkait",
-      "source_file": "wiki/sources/info-lapangan-konfigurasi-kolam-v1.md",
-      "source_location": "L51"
-    },
-    {
-      "id": "wiki_sources_info_lapangan_konfigurasi_kolam_v1_identitas_dan_versi_sumber",
-      "label": "Identitas dan versi sumber",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "Bak pemijahan dan sarana kakaban lele",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "identitas dan versi sumber",
-      "source_file": "wiki/sources/info-lapangan-konfigurasi-kolam-v1.md",
-      "source_location": "L23"
-    },
-    {
-      "id": "wiki_sources_info_lapangan_konfigurasi_kolam_v1_info_lapangan_konfigurasi_kolam_pembenihan",
-      "label": "Info lapangan \u2014 konfigurasi kolam pembenihan",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "Bak pemijahan dan sarana kakaban lele",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "info lapangan \u2014 konfigurasi kolam pembenihan",
-      "source_file": "wiki/sources/info-lapangan-konfigurasi-kolam-v1.md",
-      "source_location": "L21"
-    },
-    {
-      "id": "wiki_sources_info_lapangan_konfigurasi_kolam_v1_keterbatasan",
-      "label": "Keterbatasan",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "Bak pemijahan dan sarana kakaban lele",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "keterbatasan",
-      "source_file": "wiki/sources/info-lapangan-konfigurasi-kolam-v1.md",
-      "source_location": "L46"
-    },
-    {
-      "id": "wiki_sources_info_lapangan_konfigurasi_kolam_v1_klaim_utama_lokasi_bukti",
-      "label": "Klaim utama (lokasi bukti)",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "Bak pemijahan dan sarana kakaban lele",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "klaim utama (lokasi bukti)",
-      "source_file": "wiki/sources/info-lapangan-konfigurasi-kolam-v1.md",
-      "source_location": "L38"
-    },
-    {
-      "id": "wiki_sources_info_lapangan_konfigurasi_kolam_v1_ringkasan",
-      "label": "Ringkasan",
-      "_origin": "ast",
-      "community": 45,
-      "community_name": "Bak pemijahan dan sarana kakaban lele",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "ringkasan",
-      "source_file": "wiki/sources/info-lapangan-konfigurasi-kolam-v1.md",
-      "source_location": "L34"
     },
     {
       "id": "wiki_sources_aerasi_kolam_v1_aerasi_kolam_terpal_pemijahan_catatan_raw",
@@ -11337,90 +11521,6 @@
       "norm_label": "ringkasan",
       "source_file": "wiki/sources/aerasi-kolam-v1.md",
       "source_location": "L34"
-    },
-    {
-      "id": "wiki_sources_hasil_riset_2_v1_cakupan_pembacaan",
-      "label": "Cakupan pembacaan",
-      "_origin": "ast",
-      "community": 46,
-      "community_name": "Aerasi kolam terpal pemijahan (catatan raw)",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "cakupan pembacaan",
-      "source_file": "wiki/sources/hasil-riset-2-v1.md",
-      "source_location": "L31"
-    },
-    {
-      "id": "wiki_sources_hasil_riset_2_v1_halaman_terkait",
-      "label": "Halaman terkait",
-      "_origin": "ast",
-      "community": 46,
-      "community_name": "Aerasi kolam terpal pemijahan (catatan raw)",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "halaman terkait",
-      "source_file": "wiki/sources/hasil-riset-2-v1.md",
-      "source_location": "L59"
-    },
-    {
-      "id": "wiki_sources_hasil_riset_2_v1_hasil_riset_2_unit_inkubasi_telur_catatan_raw",
-      "label": "Hasil riset 2 \u2014 unit inkubasi telur (catatan raw)",
-      "_origin": "ast",
-      "community": 46,
-      "community_name": "Aerasi kolam terpal pemijahan (catatan raw)",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "hasil riset 2 \u2014 unit inkubasi telur (catatan raw)",
-      "source_file": "wiki/sources/hasil-riset-2-v1.md",
-      "source_location": "L21"
-    },
-    {
-      "id": "wiki_sources_hasil_riset_2_v1_identitas_dan_versi_sumber",
-      "label": "Identitas dan versi sumber",
-      "_origin": "ast",
-      "community": 46,
-      "community_name": "Aerasi kolam terpal pemijahan (catatan raw)",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "identitas dan versi sumber",
-      "source_file": "wiki/sources/hasil-riset-2-v1.md",
-      "source_location": "L23"
-    },
-    {
-      "id": "wiki_sources_hasil_riset_2_v1_keterbatasan",
-      "label": "Keterbatasan",
-      "_origin": "ast",
-      "community": 46,
-      "community_name": "Aerasi kolam terpal pemijahan (catatan raw)",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "keterbatasan",
-      "source_file": "wiki/sources/hasil-riset-2-v1.md",
-      "source_location": "L53"
-    },
-    {
-      "id": "wiki_sources_hasil_riset_2_v1_klaim_utama_lokasi_di_raw",
-      "label": "Klaim utama (lokasi di raw)",
-      "_origin": "ast",
-      "community": 46,
-      "community_name": "Aerasi kolam terpal pemijahan (catatan raw)",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "klaim utama (lokasi di raw)",
-      "source_file": "wiki/sources/hasil-riset-2-v1.md",
-      "source_location": "L39"
-    },
-    {
-      "id": "wiki_sources_hasil_riset_2_v1_ringkasan",
-      "label": "Ringkasan",
-      "_origin": "ast",
-      "community": 46,
-      "community_name": "Aerasi kolam terpal pemijahan (catatan raw)",
-      "file_type": "document",
-      "node_kind": "heading",
-      "norm_label": "ringkasan",
-      "source_file": "wiki/sources/hasil-riset-2-v1.md",
-      "source_location": "L35"
     },
     {
       "id": "wiki_sources_blower_v1_cakupan_pembacaan",
@@ -12587,6 +12687,78 @@
       "source_location": "L35"
     },
     {
+      "id": "wiki_sources_komposisi_pakan_larva_lele_v1_cakupan_pembacaan",
+      "label": "Cakupan pembacaan",
+      "_origin": "ast",
+      "community": 56,
+      "community_name": "Pakan alternatif lele & larva (catatan raw)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "cakupan pembacaan",
+      "source_file": "wiki/sources/komposisi-pakan-larva-lele-v1.md",
+      "source_location": "L30"
+    },
+    {
+      "id": "wiki_sources_komposisi_pakan_larva_lele_v1_halaman_terkait",
+      "label": "Halaman terkait",
+      "_origin": "ast",
+      "community": 56,
+      "community_name": "Pakan alternatif lele & larva (catatan raw)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "halaman terkait",
+      "source_file": "wiki/sources/komposisi-pakan-larva-lele-v1.md",
+      "source_location": "L48"
+    },
+    {
+      "id": "wiki_sources_komposisi_pakan_larva_lele_v1_identitas_dan_versi_sumber",
+      "label": "Identitas dan versi sumber",
+      "_origin": "ast",
+      "community": 56,
+      "community_name": "Pakan alternatif lele & larva (catatan raw)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "identitas dan versi sumber",
+      "source_file": "wiki/sources/komposisi-pakan-larva-lele-v1.md",
+      "source_location": "L23"
+    },
+    {
+      "id": "wiki_sources_komposisi_pakan_larva_lele_v1_klaim_utama_dan_lokasi_bukti",
+      "label": "Klaim utama dan lokasi bukti",
+      "_origin": "ast",
+      "community": 56,
+      "community_name": "Pakan alternatif lele & larva (catatan raw)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "klaim utama dan lokasi bukti",
+      "source_file": "wiki/sources/komposisi-pakan-larva-lele-v1.md",
+      "source_location": "L38"
+    },
+    {
+      "id": "wiki_sources_komposisi_pakan_larva_lele_v1_komposisi_pakan_larva_lele_catatan_raw",
+      "label": "Komposisi pakan larva lele (catatan raw)",
+      "_origin": "ast",
+      "community": 56,
+      "community_name": "Pakan alternatif lele & larva (catatan raw)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "komposisi pakan larva lele (catatan raw)",
+      "source_file": "wiki/sources/komposisi-pakan-larva-lele-v1.md",
+      "source_location": "L21"
+    },
+    {
+      "id": "wiki_sources_komposisi_pakan_larva_lele_v1_ringkasan",
+      "label": "Ringkasan",
+      "_origin": "ast",
+      "community": 56,
+      "community_name": "Pakan alternatif lele & larva (catatan raw)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "ringkasan",
+      "source_file": "wiki/sources/komposisi-pakan-larva-lele-v1.md",
+      "source_location": "L34"
+    },
+    {
       "id": "wiki_sources_pakan_alternative_v1_cakupan_pembacaan",
       "label": "Cakupan pembacaan",
       "_origin": "ast",
@@ -13367,76 +13539,88 @@
       "source_location": "L34"
     },
     {
-      "id": "wiki_sources_komposisi_pakan_larva_lele_v1_cakupan_pembacaan",
-      "label": "Cakupan pembacaan",
+      "id": "wiki_concepts_konfigurasi_kolam_pembenihan_lapangan_bukti_dan_sumber",
+      "label": "Bukti dan sumber",
       "_origin": "ast",
       "community": 64,
-      "community_name": "Komposisi pakan larva lele (catatan raw)",
+      "community_name": "Konfigurasi kolam pembenihan \u2014 lapangan",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "cakupan pembacaan",
-      "source_file": "wiki/sources/komposisi-pakan-larva-lele-v1.md",
-      "source_location": "L30"
+      "norm_label": "bukti dan sumber",
+      "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
+      "source_location": "L44"
     },
     {
-      "id": "wiki_sources_komposisi_pakan_larva_lele_v1_halaman_terkait",
-      "label": "Halaman terkait",
+      "id": "wiki_concepts_konfigurasi_kolam_pembenihan_lapangan_hubungan",
+      "label": "Hubungan",
       "_origin": "ast",
       "community": 64,
-      "community_name": "Komposisi pakan larva lele (catatan raw)",
+      "community_name": "Konfigurasi kolam pembenihan \u2014 lapangan",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "halaman terkait",
-      "source_file": "wiki/sources/komposisi-pakan-larva-lele-v1.md",
-      "source_location": "L48"
+      "norm_label": "hubungan",
+      "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
+      "source_location": "L52"
     },
     {
-      "id": "wiki_sources_komposisi_pakan_larva_lele_v1_identitas_dan_versi_sumber",
-      "label": "Identitas dan versi sumber",
+      "id": "wiki_concepts_konfigurasi_kolam_pembenihan_lapangan_konfigurasi_kolam_pembenihan_lapangan",
+      "label": "Konfigurasi kolam pembenihan \u2014 lapangan",
       "_origin": "ast",
       "community": 64,
-      "community_name": "Komposisi pakan larva lele (catatan raw)",
+      "community_name": "Konfigurasi kolam pembenihan \u2014 lapangan",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "identitas dan versi sumber",
-      "source_file": "wiki/sources/komposisi-pakan-larva-lele-v1.md",
+      "norm_label": "konfigurasi kolam pembenihan \u2014 lapangan",
+      "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
       "source_location": "L23"
     },
     {
-      "id": "wiki_sources_komposisi_pakan_larva_lele_v1_klaim_utama_dan_lokasi_bukti",
-      "label": "Klaim utama dan lokasi bukti",
+      "id": "wiki_concepts_konfigurasi_kolam_pembenihan_lapangan_penjelasan",
+      "label": "Penjelasan",
       "_origin": "ast",
       "community": 64,
-      "community_name": "Komposisi pakan larva lele (catatan raw)",
+      "community_name": "Konfigurasi kolam pembenihan \u2014 lapangan",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "klaim utama dan lokasi bukti",
-      "source_file": "wiki/sources/komposisi-pakan-larva-lele-v1.md",
-      "source_location": "L38"
+      "norm_label": "penjelasan",
+      "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
+      "source_location": "L29"
     },
     {
-      "id": "wiki_sources_komposisi_pakan_larva_lele_v1_komposisi_pakan_larva_lele_catatan_raw",
-      "label": "Komposisi pakan larva lele (catatan raw)",
+      "id": "wiki_concepts_konfigurasi_kolam_pembenihan_lapangan_pertanyaan_terbuka",
+      "label": "Pertanyaan terbuka",
       "_origin": "ast",
       "community": 64,
-      "community_name": "Komposisi pakan larva lele (catatan raw)",
+      "community_name": "Konfigurasi kolam pembenihan \u2014 lapangan",
       "file_type": "document",
       "node_kind": "heading",
-      "norm_label": "komposisi pakan larva lele (catatan raw)",
-      "source_file": "wiki/sources/komposisi-pakan-larva-lele-v1.md",
-      "source_location": "L21"
+      "norm_label": "pertanyaan terbuka",
+      "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
+      "source_location": "L68"
     },
     {
-      "id": "wiki_sources_komposisi_pakan_larva_lele_v1_ringkasan",
+      "id": "wiki_concepts_konfigurasi_kolam_pembenihan_lapangan_pertentangan_dan_ketidakpastian",
+      "label": "Pertentangan dan ketidakpastian",
+      "_origin": "ast",
+      "community": 64,
+      "community_name": "Konfigurasi kolam pembenihan \u2014 lapangan",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "pertentangan dan ketidakpastian",
+      "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
+      "source_location": "L62"
+    },
+    {
+      "id": "wiki_concepts_konfigurasi_kolam_pembenihan_lapangan_ringkasan",
       "label": "Ringkasan",
       "_origin": "ast",
       "community": 64,
-      "community_name": "Komposisi pakan larva lele (catatan raw)",
+      "community_name": "Konfigurasi kolam pembenihan \u2014 lapangan",
       "file_type": "document",
       "node_kind": "heading",
       "norm_label": "ringkasan",
-      "source_file": "wiki/sources/komposisi-pakan-larva-lele-v1.md",
-      "source_location": "L34"
+      "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
+      "source_location": "L25"
     },
     {
       "id": "wiki_sources_layout_aerasi_v1_cakupan_pembacaan",
@@ -14468,7 +14652,7 @@
       "node_kind": "heading",
       "norm_label": "bukti dan sumber",
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L71"
+      "source_location": "L73"
     },
     {
       "id": "wiki_concepts_penetasan_telur_lele_praktik_kolam_terpal_hubungan",
@@ -14480,7 +14664,7 @@
       "node_kind": "heading",
       "norm_label": "hubungan",
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L88"
+      "source_location": "L91"
     },
     {
       "id": "wiki_concepts_penetasan_telur_lele_praktik_kolam_terpal_penetasan_telur_lele_praktik_kolam_terpal",
@@ -14492,7 +14676,7 @@
       "node_kind": "heading",
       "norm_label": "penetasan telur lele \u2014 praktik kolam terpal",
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L47"
+      "source_location": "L49"
     },
     {
       "id": "wiki_concepts_penetasan_telur_lele_praktik_kolam_terpal_penjelasan",
@@ -14504,7 +14688,7 @@
       "node_kind": "heading",
       "norm_label": "penjelasan",
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L53"
+      "source_location": "L55"
     },
     {
       "id": "wiki_concepts_penetasan_telur_lele_praktik_kolam_terpal_pertanyaan_terbuka",
@@ -14516,7 +14700,7 @@
       "node_kind": "heading",
       "norm_label": "pertanyaan terbuka",
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L107"
+      "source_location": "L110"
     },
     {
       "id": "wiki_concepts_penetasan_telur_lele_praktik_kolam_terpal_pertentangan_dan_ketidakpastian",
@@ -14528,7 +14712,7 @@
       "node_kind": "heading",
       "norm_label": "pertentangan dan ketidakpastian",
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L100"
+      "source_location": "L103"
     },
     {
       "id": "wiki_concepts_penetasan_telur_lele_praktik_kolam_terpal_ringkasan",
@@ -14540,7 +14724,7 @@
       "node_kind": "heading",
       "norm_label": "ringkasan",
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L49"
+      "source_location": "L51"
     },
     {
       "id": "state_jobs_job_20260929_ingest_007",
@@ -15119,6 +15303,174 @@
       "source_location": "L21"
     },
     {
+      "id": "wiki_concepts_tds_sebagai_indikator_air_bukti_dan_sumber",
+      "label": "Bukti dan sumber",
+      "_origin": "ast",
+      "community": 9,
+      "community_name": "Perawatan rutin air kolam lele",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "bukti dan sumber",
+      "source_file": "wiki/concepts/tds-sebagai-indikator-air.md",
+      "source_location": "L32"
+    },
+    {
+      "id": "wiki_concepts_tds_sebagai_indikator_air_hubungan",
+      "label": "Hubungan",
+      "_origin": "ast",
+      "community": 9,
+      "community_name": "Perawatan rutin air kolam lele",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "hubungan",
+      "source_file": "wiki/concepts/tds-sebagai-indikator-air.md",
+      "source_location": "L37"
+    },
+    {
+      "id": "wiki_concepts_tds_sebagai_indikator_air_penjelasan",
+      "label": "Penjelasan",
+      "_origin": "ast",
+      "community": 9,
+      "community_name": "Perawatan rutin air kolam lele",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "penjelasan",
+      "source_file": "wiki/concepts/tds-sebagai-indikator-air.md",
+      "source_location": "L27"
+    },
+    {
+      "id": "wiki_concepts_tds_sebagai_indikator_air_pertanyaan_terbuka",
+      "label": "Pertanyaan terbuka",
+      "_origin": "ast",
+      "community": 9,
+      "community_name": "Perawatan rutin air kolam lele",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "pertanyaan terbuka",
+      "source_file": "wiki/concepts/tds-sebagai-indikator-air.md",
+      "source_location": "L46"
+    },
+    {
+      "id": "wiki_concepts_tds_sebagai_indikator_air_pertentangan_dan_ketidakpastian",
+      "label": "Pertentangan dan ketidakpastian",
+      "_origin": "ast",
+      "community": 9,
+      "community_name": "Perawatan rutin air kolam lele",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "pertentangan dan ketidakpastian",
+      "source_file": "wiki/concepts/tds-sebagai-indikator-air.md",
+      "source_location": "L42"
+    },
+    {
+      "id": "wiki_concepts_tds_sebagai_indikator_air_ringkasan",
+      "label": "Ringkasan",
+      "_origin": "ast",
+      "community": 9,
+      "community_name": "Perawatan rutin air kolam lele",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "ringkasan",
+      "source_file": "wiki/concepts/tds-sebagai-indikator-air.md",
+      "source_location": "L23"
+    },
+    {
+      "id": "wiki_concepts_tds_sebagai_indikator_air_tds_sebagai_indikator_air",
+      "label": "TDS sebagai indikator air",
+      "_origin": "ast",
+      "community": 9,
+      "community_name": "Perawatan rutin air kolam lele",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "tds sebagai indikator air",
+      "source_file": "wiki/concepts/tds-sebagai-indikator-air.md",
+      "source_location": "L21"
+    },
+    {
+      "id": "wiki_sources_cara_merawat_air_v1_cakupan_pembacaan",
+      "label": "Cakupan pembacaan",
+      "_origin": "ast",
+      "community": 9,
+      "community_name": "Perawatan rutin air kolam lele",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "cakupan pembacaan",
+      "source_file": "wiki/sources/cara-merawat-air-v1.md",
+      "source_location": "L30"
+    },
+    {
+      "id": "wiki_sources_cara_merawat_air_v1_cara_merawat_air_catatan_raw",
+      "label": "Cara merawat air (catatan raw)",
+      "_origin": "ast",
+      "community": 9,
+      "community_name": "Perawatan rutin air kolam lele",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "cara merawat air (catatan raw)",
+      "source_file": "wiki/sources/cara-merawat-air-v1.md",
+      "source_location": "L21"
+    },
+    {
+      "id": "wiki_sources_cara_merawat_air_v1_halaman_terkait",
+      "label": "Halaman terkait",
+      "_origin": "ast",
+      "community": 9,
+      "community_name": "Perawatan rutin air kolam lele",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "halaman terkait",
+      "source_file": "wiki/sources/cara-merawat-air-v1.md",
+      "source_location": "L54"
+    },
+    {
+      "id": "wiki_sources_cara_merawat_air_v1_identitas_dan_versi_sumber",
+      "label": "Identitas dan versi sumber",
+      "_origin": "ast",
+      "community": 9,
+      "community_name": "Perawatan rutin air kolam lele",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "identitas dan versi sumber",
+      "source_file": "wiki/sources/cara-merawat-air-v1.md",
+      "source_location": "L23"
+    },
+    {
+      "id": "wiki_sources_cara_merawat_air_v1_keterbatasan",
+      "label": "Keterbatasan",
+      "_origin": "ast",
+      "community": 9,
+      "community_name": "Perawatan rutin air kolam lele",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "keterbatasan",
+      "source_file": "wiki/sources/cara-merawat-air-v1.md",
+      "source_location": "L49"
+    },
+    {
+      "id": "wiki_sources_cara_merawat_air_v1_klaim_utama_dan_lokasi_bukti",
+      "label": "Klaim utama dan lokasi bukti",
+      "_origin": "ast",
+      "community": 9,
+      "community_name": "Perawatan rutin air kolam lele",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "klaim utama dan lokasi bukti",
+      "source_file": "wiki/sources/cara-merawat-air-v1.md",
+      "source_location": "L38"
+    },
+    {
+      "id": "wiki_sources_cara_merawat_air_v1_ringkasan",
+      "label": "Ringkasan",
+      "_origin": "ast",
+      "community": 9,
+      "community_name": "Perawatan rutin air kolam lele",
+      "file_type": "document",
+      "node_kind": "heading",
+      "norm_label": "ringkasan",
+      "source_file": "wiki/sources/cara-merawat-air-v1.md",
+      "source_location": "L34"
+    },
+    {
       "id": "raw_spesifikasi_pemijahan_lele",
       "label": "spesifikasi-pemijahan-lele.md",
       "_origin": "ast",
@@ -15344,18 +15696,6 @@
       "node_kind": "heading",
       "norm_label": "bahan asli (`raw/`)",
       "source_file": "raw/README.md",
-      "source_location": "L1"
-    },
-    {
-      "id": "state_jobs_job_20260930_ingest_019",
-      "label": "job-20260930-ingest-019.md",
-      "_origin": "ast",
-      "community": 95,
-      "community_name": "Job ingest \u2014 job-20260930-ingest-019",
-      "file_type": "document",
-      "node_kind": "page",
-      "norm_label": "job-20260930-ingest-019.md",
-      "source_file": "state/jobs/job-20260930-ingest-019.md",
       "source_location": "L1"
     },
     {
@@ -15589,6 +15929,7 @@
     {
       "id": "argparse",
       "label": "argparse",
+      "_origin": "semantic",
       "community": 108,
       "community_name": "wiki_check.py",
       "external": true,
@@ -15600,6 +15941,7 @@
     {
       "id": "collections",
       "label": "collections",
+      "_origin": "semantic",
       "community": 108,
       "community_name": "wiki_check.py",
       "external": true,
@@ -15611,6 +15953,7 @@
     {
       "id": "hashlib",
       "label": "hashlib",
+      "_origin": "semantic",
       "community": 108,
       "community_name": "wiki_check.py",
       "external": true,
@@ -15622,6 +15965,7 @@
     {
       "id": "pathlib",
       "label": "pathlib",
+      "_origin": "semantic",
       "community": 108,
       "community_name": "wiki_check.py",
       "external": true,
@@ -15633,6 +15977,7 @@
     {
       "id": "re",
       "label": "re",
+      "_origin": "semantic",
       "community": 108,
       "community_name": "wiki_check.py",
       "external": true,
@@ -15644,6 +15989,7 @@
     {
       "id": "sys",
       "label": "sys",
+      "_origin": "semantic",
       "community": 108,
       "community_name": "wiki_check.py",
       "external": true,
@@ -20486,6 +20832,72 @@
       "weight": 1.0
     },
     {
+      "source": "state_jobs_job_20261001_ingest_027",
+      "target": "state_jobs_job_20261001_ingest_027_job_ingest_job_20261001_ingest_027",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "state/jobs/job-20261001-ingest-027.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "state_jobs_job_20261001_ingest_027_job_ingest_job_20261001_ingest_027",
+      "target": "state_jobs_job_20261001_ingest_027_identifikasi",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "state/jobs/job-20261001-ingest-027.md",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "state_jobs_job_20261001_ingest_027_job_ingest_job_20261001_ingest_027",
+      "target": "state_jobs_job_20261001_ingest_027_berkas_yang_berubah",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "state/jobs/job-20261001-ingest-027.md",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "state_jobs_job_20261001_ingest_027_job_ingest_job_20261001_ingest_027",
+      "target": "state_jobs_job_20261001_ingest_027_usulan_persetujuan",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "state/jobs/job-20261001-ingest-027.md",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "state_jobs_job_20261001_ingest_027_job_ingest_job_20261001_ingest_027",
+      "target": "state_jobs_job_20261001_ingest_027_hasil_pemeriksaan",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "state/jobs/job-20261001-ingest-027.md",
+      "source_location": "L32",
+      "weight": 1.0
+    },
+    {
+      "source": "state_jobs_job_20261001_ingest_027_job_ingest_job_20261001_ingest_027",
+      "target": "state_jobs_job_20261001_ingest_027_tujuan",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "state/jobs/job-20261001-ingest-027.md",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
       "source": "state_jobs_job_20261001_maintain_005",
       "target": "state_jobs_job_20261001_maintain_005_job_maintain_job_20261001_maintain_005",
       "relation": "contains",
@@ -20626,6 +21038,94 @@
       "confidence_score": 1.0,
       "source_file": "state/jobs/job-20261001-maintain-005.md",
       "source_location": "L64",
+      "weight": 1.0
+    },
+    {
+      "source": "state_jobs_job_20261001_maintain_006",
+      "target": "state_jobs_job_20261001_maintain_006_job_maintain_job_20261001_maintain_006",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "state/jobs/job-20261001-maintain-006.md",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "state_jobs_job_20261001_maintain_006_job_maintain_job_20261001_maintain_006",
+      "target": "state_jobs_job_20261001_maintain_006_sumber_atau_topik",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "state/jobs/job-20261001-maintain-006.md",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "state_jobs_job_20261001_maintain_006_job_maintain_job_20261001_maintain_006",
+      "target": "state_jobs_job_20261001_maintain_006_berkas_yang_berubah",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "state/jobs/job-20261001-maintain-006.md",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "state_jobs_job_20261001_maintain_006_job_maintain_job_20261001_maintain_006",
+      "target": "state_jobs_job_20261001_maintain_006_keadaan_awal_dibaca_2026_10_01",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "state/jobs/job-20261001-maintain-006.md",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "state_jobs_job_20261001_maintain_006_job_maintain_job_20261001_maintain_006",
+      "target": "state_jobs_job_20261001_maintain_006_daftar_langkah",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "state/jobs/job-20261001-maintain-006.md",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "state_jobs_job_20261001_maintain_006_job_maintain_job_20261001_maintain_006",
+      "target": "state_jobs_job_20261001_maintain_006_usulan_yang_memerlukan_persetujuan",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "state/jobs/job-20261001-maintain-006.md",
+      "source_location": "L41",
+      "weight": 1.0
+    },
+    {
+      "source": "state_jobs_job_20261001_maintain_006_job_maintain_job_20261001_maintain_006",
+      "target": "state_jobs_job_20261001_maintain_006_hasil_pemeriksaan_kendala_dan_langkah_berikutnya",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "state/jobs/job-20261001-maintain-006.md",
+      "source_location": "L45",
+      "weight": 1.0
+    },
+    {
+      "source": "state_jobs_job_20261001_maintain_006_job_maintain_job_20261001_maintain_006",
+      "target": "state_jobs_job_20261001_maintain_006_tujuan_cakupan_dan_izin_pengguna",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "state/jobs/job-20261001-maintain-006.md",
+      "source_location": "L8",
       "weight": 1.0
     },
     {
@@ -20846,6 +21346,17 @@
       "confidence_score": 1.0,
       "source_file": "state/sources.md",
       "source_location": "L513",
+      "weight": 1.0
+    },
+    {
+      "source": "state_sources_fakta",
+      "target": "state_sources_v3",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "state/sources.md",
+      "source_location": "L528",
       "weight": 1.0
     },
     {
@@ -21692,7 +22203,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L23",
+      "source_location": "L25",
       "weight": 1.0
     },
     {
@@ -21703,7 +22214,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L25",
+      "source_location": "L27",
       "weight": 1.0
     },
     {
@@ -21714,7 +22225,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L29",
+      "source_location": "L31",
       "weight": 1.0
     },
     {
@@ -21725,7 +22236,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L44",
+      "source_location": "L48",
       "weight": 1.0
     },
     {
@@ -21736,7 +22247,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L52",
+      "source_location": "L57",
       "weight": 1.0
     },
     {
@@ -21747,7 +22258,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L61",
+      "source_location": "L66",
       "weight": 1.0
     },
     {
@@ -21758,7 +22269,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L65",
+      "source_location": "L70",
       "weight": 1.0
     },
     {
@@ -21835,7 +22346,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/bak-pemijahan-dan-sarana-kakaban-lele.md",
-      "source_location": "L77",
+      "source_location": "L78",
       "weight": 1.0
     },
     {
@@ -22088,7 +22599,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L21",
+      "source_location": "L23",
       "weight": 1.0
     },
     {
@@ -22099,7 +22610,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L23",
+      "source_location": "L25",
       "weight": 1.0
     },
     {
@@ -22110,7 +22621,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L27",
+      "source_location": "L29",
       "weight": 1.0
     },
     {
@@ -22121,7 +22632,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L71",
+      "source_location": "L73",
       "weight": 1.0
     },
     {
@@ -22132,7 +22643,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L76",
+      "source_location": "L79",
       "weight": 1.0
     },
     {
@@ -22143,7 +22654,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L82",
+      "source_location": "L85",
       "weight": 1.0
     },
     {
@@ -22154,7 +22665,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L87",
+      "source_location": "L90",
       "weight": 1.0
     },
     {
@@ -22165,7 +22676,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L29",
+      "source_location": "L31",
       "weight": 1.0
     },
     {
@@ -22176,7 +22687,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L42",
+      "source_location": "L44",
       "weight": 1.0
     },
     {
@@ -22187,7 +22698,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L46",
+      "source_location": "L48",
       "weight": 1.0
     },
     {
@@ -22198,7 +22709,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L52",
+      "source_location": "L54",
       "weight": 1.0
     },
     {
@@ -22209,7 +22720,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L64",
+      "source_location": "L66",
       "weight": 1.0
     },
     {
@@ -22715,7 +23226,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
-      "source_location": "L42",
+      "source_location": "L44",
       "weight": 1.0
     },
     {
@@ -22726,7 +23237,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
-      "source_location": "L49",
+      "source_location": "L52",
       "weight": 1.0
     },
     {
@@ -22737,7 +23248,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
-      "source_location": "L58",
+      "source_location": "L62",
       "weight": 1.0
     },
     {
@@ -22748,7 +23259,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
-      "source_location": "L64",
+      "source_location": "L68",
       "weight": 1.0
     },
     {
@@ -22902,7 +23413,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/layout-aerasi-pembenihan-lele.md",
-      "source_location": "L111",
+      "source_location": "L112",
       "weight": 1.0
     },
     {
@@ -22913,7 +23424,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/layout-aerasi-pembenihan-lele.md",
-      "source_location": "L120",
+      "source_location": "L121",
       "weight": 1.0
     },
     {
@@ -22924,7 +23435,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/layout-aerasi-pembenihan-lele.md",
-      "source_location": "L126",
+      "source_location": "L127",
       "weight": 1.0
     },
     {
@@ -23529,7 +24040,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L27",
+      "source_location": "L29",
       "weight": 1.0
     },
     {
@@ -23540,7 +24051,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L29",
+      "source_location": "L31",
       "weight": 1.0
     },
     {
@@ -23551,7 +24062,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L33",
+      "source_location": "L35",
       "weight": 1.0
     },
     {
@@ -23562,7 +24073,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L69",
+      "source_location": "L73",
       "weight": 1.0
     },
     {
@@ -23573,7 +24084,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L77",
+      "source_location": "L82",
       "weight": 1.0
     },
     {
@@ -23584,7 +24095,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L84",
+      "source_location": "L89",
       "weight": 1.0
     },
     {
@@ -23595,7 +24106,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L89",
+      "source_location": "L94",
       "weight": 1.0
     },
     {
@@ -23606,7 +24117,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L35",
+      "source_location": "L37",
       "weight": 1.0
     },
     {
@@ -23617,7 +24128,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L44",
+      "source_location": "L46",
       "weight": 1.0
     },
     {
@@ -23628,7 +24139,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L52",
+      "source_location": "L54",
       "weight": 1.0
     },
     {
@@ -23639,7 +24150,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L57",
+      "source_location": "L59",
       "weight": 1.0
     },
     {
@@ -23650,7 +24161,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L63",
+      "source_location": "L65",
       "weight": 1.0
     },
     {
@@ -23738,7 +24249,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L47",
+      "source_location": "L49",
       "weight": 1.0
     },
     {
@@ -23749,7 +24260,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L100",
+      "source_location": "L103",
       "weight": 1.0
     },
     {
@@ -23760,7 +24271,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L107",
+      "source_location": "L110",
       "weight": 1.0
     },
     {
@@ -23771,7 +24282,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L49",
+      "source_location": "L51",
       "weight": 1.0
     },
     {
@@ -23782,7 +24293,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L53",
+      "source_location": "L55",
       "weight": 1.0
     },
     {
@@ -23793,7 +24304,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L71",
+      "source_location": "L73",
       "weight": 1.0
     },
     {
@@ -23804,7 +24315,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L88",
+      "source_location": "L91",
       "weight": 1.0
     },
     {
@@ -24684,7 +25195,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/index.md",
-      "source_location": "L42",
+      "source_location": "L43",
       "weight": 1.0
     },
     {
@@ -24695,7 +25206,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/index.md",
-      "source_location": "L73",
+      "source_location": "L74",
       "weight": 1.0
     },
     {
@@ -24927,6 +25438,28 @@
       "confidence_score": 1.0,
       "source_file": "wiki/log.md",
       "source_location": "L226",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_log_log_kegiatan",
+      "target": "wiki_log_2026_10_01_job_20261001_ingest_027",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/log.md",
+      "source_location": "L234",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_log_log_kegiatan",
+      "target": "wiki_log_2026_10_01_job_20261001_maintain_006",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/log.md",
+      "source_location": "L242",
       "weight": 1.0
     },
     {
@@ -26477,7 +27010,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/sources/fakta-v2.md",
-      "source_location": "L31",
+      "source_location": "L32",
       "weight": 1.0
     },
     {
@@ -26488,7 +27021,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/sources/fakta-v2.md",
-      "source_location": "L35",
+      "source_location": "L36",
       "weight": 1.0
     },
     {
@@ -26499,7 +27032,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/sources/fakta-v2.md",
-      "source_location": "L39",
+      "source_location": "L40",
       "weight": 1.0
     },
     {
@@ -26510,7 +27043,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/sources/fakta-v2.md",
-      "source_location": "L47",
+      "source_location": "L48",
       "weight": 1.0
     },
     {
@@ -26521,7 +27054,84 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/sources/fakta-v2.md",
-      "source_location": "L52",
+      "source_location": "L53",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_sources_fakta_v3",
+      "target": "wiki_sources_fakta_v3_fakta_lapangan_pembenihan_catatan_raw",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/sources/fakta-v3.md",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_sources_fakta_v3_fakta_lapangan_pembenihan_catatan_raw",
+      "target": "wiki_sources_fakta_v3_identitas_dan_versi_sumber",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/sources/fakta-v3.md",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_sources_fakta_v3_fakta_lapangan_pembenihan_catatan_raw",
+      "target": "wiki_sources_fakta_v3_cakupan_pembacaan",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/sources/fakta-v3.md",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_sources_fakta_v3_fakta_lapangan_pembenihan_catatan_raw",
+      "target": "wiki_sources_fakta_v3_ringkasan",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/sources/fakta-v3.md",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_sources_fakta_v3_fakta_lapangan_pembenihan_catatan_raw",
+      "target": "wiki_sources_fakta_v3_klaim_utama_dan_lokasi_bukti",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/sources/fakta-v3.md",
+      "source_location": "L39",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_sources_fakta_v3_fakta_lapangan_pembenihan_catatan_raw",
+      "target": "wiki_sources_fakta_v3_keterbatasan",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/sources/fakta-v3.md",
+      "source_location": "L51",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_sources_fakta_v3_fakta_lapangan_pembenihan_catatan_raw",
+      "target": "wiki_sources_fakta_v3_halaman_terkait",
+      "relation": "contains",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/sources/fakta-v3.md",
+      "source_location": "L58",
       "weight": 1.0
     },
     {
@@ -27801,6 +28411,17 @@
       "weight": 1.0
     },
     {
+      "source": "state_jobs_job_20261001_maintain_006",
+      "target": "wiki_concepts_bak_pemijahan_dan_sarana_kakaban_lele",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "state/jobs/job-20261001-maintain-006.md",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
       "source": "state_sources",
       "target": "wiki_sources_spesifikasi_pemijahan_lele_v1",
       "relation": "references",
@@ -28165,6 +28786,17 @@
     },
     {
       "source": "state_sources",
+      "target": "wiki_sources_fakta_v3",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "state/sources.md",
+      "source_location": "L539",
+      "weight": 1.0
+    },
+    {
+      "source": "state_sources",
       "target": "wiki_sources_cara_merawat_kolam_setelah_pemijahan_v1",
       "relation": "references",
       "_origin": "ast",
@@ -28253,13 +28885,24 @@
     },
     {
       "source": "wiki_concepts_alur_pasca_pemijahan_lele",
+      "target": "wiki_sources_fakta_v3",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_concepts_alur_pasca_pemijahan_lele",
       "target": "wiki_sources_pasca_pemijahan_v1",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L31",
+      "source_location": "L33",
       "weight": 1.0
     },
     {
@@ -28270,7 +28913,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L33",
+      "source_location": "L35",
       "weight": 1.0
     },
     {
@@ -28281,7 +28924,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L33",
+      "source_location": "L35",
       "weight": 1.0
     },
     {
@@ -28292,7 +28935,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L33",
+      "source_location": "L35",
       "weight": 1.0
     },
     {
@@ -28303,7 +28946,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L33",
+      "source_location": "L35",
       "weight": 1.0
     },
     {
@@ -28314,7 +28957,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L33",
+      "source_location": "L35",
       "weight": 1.0
     },
     {
@@ -28325,7 +28968,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L35",
+      "source_location": "L37",
       "weight": 1.0
     },
     {
@@ -28336,7 +28979,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L38",
+      "source_location": "L40",
       "weight": 1.0
     },
     {
@@ -28347,7 +28990,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L47",
+      "source_location": "L51",
       "weight": 1.0
     },
     {
@@ -28358,7 +29001,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L57",
+      "source_location": "L62",
       "weight": 1.0
     },
     {
@@ -28369,7 +29012,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L58",
+      "source_location": "L63",
       "weight": 1.0
     },
     {
@@ -28380,7 +29023,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L59",
+      "source_location": "L64",
       "weight": 1.0
     },
     {
@@ -28391,12 +29034,12 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/alur-pasca-pemijahan-lele.md",
-      "source_location": "L63",
+      "source_location": "L68",
       "weight": 1.0
     },
     {
       "source": "wiki_concepts_bak_pemijahan_dan_sarana_kakaban_lele",
-      "target": "wiki_sources_fakta_v2",
+      "target": "wiki_concepts_konfigurasi_kolam_pembenihan_lapangan",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -28418,13 +29061,24 @@
     },
     {
       "source": "wiki_concepts_bak_pemijahan_dan_sarana_kakaban_lele",
-      "target": "wiki_concepts_konfigurasi_kolam_pembenihan_lapangan",
+      "target": "wiki_sources_spesifikasi_kakaban_v1",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/bak-pemijahan-dan-sarana-kakaban-lele.md",
       "source_location": "L38",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_concepts_bak_pemijahan_dan_sarana_kakaban_lele",
+      "target": "wiki_sources_fakta_v3",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/bak-pemijahan-dan-sarana-kakaban-lele.md",
+      "source_location": "L53",
       "weight": 1.0
     },
     {
@@ -28435,18 +29089,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/bak-pemijahan-dan-sarana-kakaban-lele.md",
-      "source_location": "L38",
-      "weight": 1.0
-    },
-    {
-      "source": "wiki_concepts_bak_pemijahan_dan_sarana_kakaban_lele",
-      "target": "wiki_sources_spesifikasi_kakaban_v1",
-      "relation": "references",
-      "_origin": "ast",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "wiki/concepts/bak-pemijahan-dan-sarana-kakaban-lele.md",
-      "source_location": "L44",
+      "source_location": "L53",
       "weight": 1.0
     },
     {
@@ -28638,7 +29281,7 @@
     },
     {
       "source": "wiki_concepts_budidaya_moina_pakan_larva_lele",
-      "target": "wiki_sources_fakta_v2",
+      "target": "wiki_sources_fakta_v3",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -28655,7 +29298,18 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L25",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_concepts_durasi_dan_indikator_pemijahan_lele_kakaban_terpal",
+      "target": "wiki_sources_fakta_v3",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
+      "source_location": "L27",
       "weight": 1.0
     },
     {
@@ -28666,7 +29320,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L50",
+      "source_location": "L52",
       "weight": 1.0
     },
     {
@@ -28677,7 +29331,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L69",
+      "source_location": "L71",
       "weight": 1.0
     },
     {
@@ -28688,7 +29342,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L79",
+      "source_location": "L82",
       "weight": 1.0
     },
     {
@@ -28699,7 +29353,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/durasi-dan-indikator-pemijahan-lele-kakaban-terpal.md",
-      "source_location": "L80",
+      "source_location": "L83",
       "weight": 1.0
     },
     {
@@ -28990,7 +29644,7 @@
     },
     {
       "source": "wiki_concepts_komposisi_dan_jadwal_pakan_larva_lele",
-      "target": "wiki_sources_fakta_v2",
+      "target": "wiki_sources_fakta_v3",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -29144,7 +29798,7 @@
     },
     {
       "source": "wiki_concepts_konfigurasi_kolam_pembenihan_lapangan",
-      "target": "wiki_sources_fakta_v2",
+      "target": "wiki_sources_fakta_v3",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -29172,7 +29826,18 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
-      "source_location": "L40",
+      "source_location": "L42",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_concepts_konfigurasi_kolam_pembenihan_lapangan",
+      "target": "wiki_sources_fakta_v2",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
+      "source_location": "L48",
       "weight": 1.0
     },
     {
@@ -29183,7 +29848,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
-      "source_location": "L46",
+      "source_location": "L49",
       "weight": 1.0
     },
     {
@@ -29194,7 +29859,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
-      "source_location": "L52",
+      "source_location": "L55",
       "weight": 1.0
     },
     {
@@ -29205,7 +29870,18 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
-      "source_location": "L53",
+      "source_location": "L56",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_concepts_konfigurasi_kolam_pembenihan_lapangan",
+      "target": "wiki_concepts_alur_pasca_pemijahan_lele",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
+      "source_location": "L57",
       "weight": 1.0
     },
     {
@@ -29216,7 +29892,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/konfigurasi-kolam-pembenihan-lapangan.md",
-      "source_location": "L54",
+      "source_location": "L58",
       "weight": 1.0
     },
     {
@@ -29298,13 +29974,24 @@
     },
     {
       "source": "wiki_concepts_layout_aerasi_pembenihan_lele",
+      "target": "wiki_sources_fakta_v2",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/layout-aerasi-pembenihan-lele.md",
+      "source_location": "L109",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_concepts_layout_aerasi_pembenihan_lele",
       "target": "wiki_concepts_penetasan_telur_lele_praktik_kolam_terpal",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/layout-aerasi-pembenihan-lele.md",
-      "source_location": "L117",
+      "source_location": "L118",
       "weight": 1.0
     },
     {
@@ -29315,7 +30002,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/layout-aerasi-pembenihan-lele.md",
-      "source_location": "L118",
+      "source_location": "L119",
       "weight": 1.0
     },
     {
@@ -29331,7 +30018,7 @@
     },
     {
       "source": "wiki_concepts_layout_aerasi_pembenihan_lele",
-      "target": "wiki_sources_fakta_v2",
+      "target": "wiki_sources_fakta_v3",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -29678,7 +30365,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L31",
+      "source_location": "L33",
       "weight": 1.0
     },
     {
@@ -29689,7 +30376,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L31",
+      "source_location": "L33",
       "weight": 1.0
     },
     {
@@ -29700,7 +30387,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L61",
+      "source_location": "L63",
       "weight": 1.0
     },
     {
@@ -29711,7 +30398,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L61",
+      "source_location": "L63",
       "weight": 1.0
     },
     {
@@ -29722,7 +30409,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L65",
+      "source_location": "L67",
       "weight": 1.0
     },
     {
@@ -29733,7 +30420,18 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L67",
+      "source_location": "L69",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_concepts_pemindahan_induk_pasca_pemijahan_kakaban_terpal",
+      "target": "wiki_sources_fakta_v3",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
+      "source_location": "L71",
       "weight": 1.0
     },
     {
@@ -29744,7 +30442,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L73",
+      "source_location": "L77",
       "weight": 1.0
     },
     {
@@ -29755,7 +30453,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/pemindahan-induk-pasca-pemijahan-kakaban-terpal.md",
-      "source_location": "L82",
+      "source_location": "L87",
       "weight": 1.0
     },
     {
@@ -29782,13 +30480,24 @@
     },
     {
       "source": "wiki_concepts_penetasan_telur_lele_praktik_kolam_terpal",
+      "target": "wiki_sources_fakta_v3",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
+      "source_location": "L53",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_concepts_penetasan_telur_lele_praktik_kolam_terpal",
       "target": "wiki_sources_saran_penetasan_telur_v1",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L51",
+      "source_location": "L53",
       "weight": 1.0
     },
     {
@@ -29799,7 +30508,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L56",
+      "source_location": "L58",
       "weight": 1.0
     },
     {
@@ -29810,7 +30519,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L56",
+      "source_location": "L58",
       "weight": 1.0
     },
     {
@@ -29821,7 +30530,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L58",
+      "source_location": "L60",
       "weight": 1.0
     },
     {
@@ -29832,7 +30541,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L58",
+      "source_location": "L60",
       "weight": 1.0
     },
     {
@@ -29843,7 +30552,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L60",
+      "source_location": "L62",
       "weight": 1.0
     },
     {
@@ -29854,7 +30563,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L60",
+      "source_location": "L62",
       "weight": 1.0
     },
     {
@@ -29865,7 +30574,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L60",
+      "source_location": "L62",
       "weight": 1.0
     },
     {
@@ -29876,7 +30585,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L60",
+      "source_location": "L62",
       "weight": 1.0
     },
     {
@@ -29887,7 +30596,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L62",
+      "source_location": "L64",
       "weight": 1.0
     },
     {
@@ -29898,7 +30607,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L62",
+      "source_location": "L64",
       "weight": 1.0
     },
     {
@@ -29909,7 +30618,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L65",
+      "source_location": "L67",
       "weight": 1.0
     },
     {
@@ -29920,7 +30629,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L66",
+      "source_location": "L68",
       "weight": 1.0
     },
     {
@@ -29931,7 +30640,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L68",
+      "source_location": "L70",
       "weight": 1.0
     },
     {
@@ -29942,7 +30651,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L69",
+      "source_location": "L71",
       "weight": 1.0
     },
     {
@@ -29953,7 +30662,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L76",
+      "source_location": "L78",
       "weight": 1.0
     },
     {
@@ -29964,7 +30673,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L80",
+      "source_location": "L82",
       "weight": 1.0
     },
     {
@@ -29975,7 +30684,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L83",
+      "source_location": "L86",
       "weight": 1.0
     },
     {
@@ -29986,7 +30695,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/concepts/penetasan-telur-lele-praktik-kolam-terpal.md",
-      "source_location": "L96",
+      "source_location": "L99",
       "weight": 1.0
     },
     {
@@ -30596,7 +31305,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_sources_fakta_v2",
+      "target": "wiki_sources_fakta_v3",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30607,7 +31316,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_sources_fakta_v1",
+      "target": "wiki_sources_fakta_v2",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30618,18 +31327,18 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_parameter_kualitas_air_lele",
+      "target": "wiki_sources_fakta_v1",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/index.md",
-      "source_location": "L44",
+      "source_location": "L41",
       "weight": 1.0
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_tds_sebagai_indikator_air",
+      "target": "wiki_concepts_parameter_kualitas_air_lele",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30640,7 +31349,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_perawatan_rutin_air_kolam_lele",
+      "target": "wiki_concepts_tds_sebagai_indikator_air",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30651,7 +31360,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_rantai_pengolahan_air_sungai_pembenihan",
+      "target": "wiki_concepts_perawatan_rutin_air_kolam_lele",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30662,7 +31371,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_penetasan_telur_lele_praktik_kolam_terpal",
+      "target": "wiki_concepts_rantai_pengolahan_air_sungai_pembenihan",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30673,7 +31382,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_seleksi_dan_ciri_telur_lele",
+      "target": "wiki_concepts_penetasan_telur_lele_praktik_kolam_terpal",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30695,7 +31404,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_methylene_blue_pada_inkubasi_telur_lele",
+      "target": "wiki_concepts_seleksi_dan_ciri_telur_lele",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30706,7 +31415,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_perawatan_kolam_setelah_pemijahan",
+      "target": "wiki_concepts_methylene_blue_pada_inkubasi_telur_lele",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30717,7 +31426,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_pengaturan_ph_air_pembenihan",
+      "target": "wiki_concepts_perawatan_kolam_setelah_pemijahan",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30728,7 +31437,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_induk_dan_persiapan_pemijahan_lele",
+      "target": "wiki_concepts_pengaturan_ph_air_pembenihan",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30739,7 +31448,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_kriteria_pra_pemijahan_lele_sintesis_web",
+      "target": "wiki_concepts_induk_dan_persiapan_pemijahan_lele",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30750,7 +31459,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_metode_pemijahan_lele_sintesis_web",
+      "target": "wiki_concepts_kriteria_pra_pemijahan_lele_sintesis_web",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30761,7 +31470,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_bak_pemijahan_dan_sarana_kakaban_lele",
+      "target": "wiki_concepts_metode_pemijahan_lele_sintesis_web",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30772,7 +31481,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_konfigurasi_kolam_pembenihan_lapangan",
+      "target": "wiki_concepts_bak_pemijahan_dan_sarana_kakaban_lele",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30783,7 +31492,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_layout_aerasi_pembenihan_lele",
+      "target": "wiki_concepts_konfigurasi_kolam_pembenihan_lapangan",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30794,7 +31503,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_kalibrasi_do_dan_blower_pembenihan_lele",
+      "target": "wiki_concepts_layout_aerasi_pembenihan_lele",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30816,7 +31525,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_unit_inkubasi_telur_lele_engineering_sintesis_web",
+      "target": "wiki_concepts_kalibrasi_do_dan_blower_pembenihan_lele",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30827,7 +31536,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_komposisi_dan_jadwal_pakan_larva_lele",
+      "target": "wiki_concepts_unit_inkubasi_telur_lele_engineering_sintesis_web",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30838,7 +31547,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_budidaya_moina_pakan_larva_lele",
+      "target": "wiki_concepts_komposisi_dan_jadwal_pakan_larva_lele",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30849,7 +31558,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_air_hijau_fitoplankton_kultur_moina",
+      "target": "wiki_concepts_budidaya_moina_pakan_larva_lele",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30860,7 +31569,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_rendaman_dedak_kultur_moina",
+      "target": "wiki_concepts_air_hijau_fitoplankton_kultur_moina",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30871,7 +31580,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_fermentasi_dedak_em4_kultur_moina",
+      "target": "wiki_concepts_rendaman_dedak_kultur_moina",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30882,7 +31591,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_budidaya_cacing_sutra_pemula",
+      "target": "wiki_concepts_fermentasi_dedak_em4_kultur_moina",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30893,7 +31602,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_pakan_alternatif_lele_sintesis_riset",
+      "target": "wiki_concepts_budidaya_cacing_sutra_pemula",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30904,7 +31613,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_pencegahan_jentik_nyamuk_kolam_larva",
+      "target": "wiki_concepts_pakan_alternatif_lele_sintesis_riset",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30915,7 +31624,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_alur_pasca_pemijahan_lele",
+      "target": "wiki_concepts_pencegahan_jentik_nyamuk_kolam_larva",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30937,7 +31646,7 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_durasi_dan_indikator_pemijahan_lele_kakaban_terpal",
+      "target": "wiki_concepts_alur_pasca_pemijahan_lele",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
@@ -30948,13 +31657,24 @@
     },
     {
       "source": "wiki_index",
-      "target": "wiki_concepts_pemindahan_induk_pasca_pemijahan_kakaban_terpal",
+      "target": "wiki_concepts_durasi_dan_indikator_pemijahan_lele_kakaban_terpal",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/index.md",
       "source_location": "L71",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_index",
+      "target": "wiki_concepts_pemindahan_induk_pasca_pemijahan_kakaban_terpal",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/index.md",
+      "source_location": "L72",
       "weight": 1.0
     },
     {
@@ -31076,6 +31796,28 @@
       "confidence_score": 1.0,
       "source_file": "wiki/log.md",
       "source_location": "L229",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_log",
+      "target": "wiki_sources_fakta_v3",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/log.md",
+      "source_location": "L237",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_log",
+      "target": "wiki_concepts_bak_pemijahan_dan_sarana_kakaban_lele",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/log.md",
+      "source_location": "L245",
       "weight": 1.0
     },
     {
@@ -31355,13 +32097,46 @@
     },
     {
       "source": "wiki_sources_fakta_v2",
-      "target": "wiki_sources_info_lapangan_konfigurasi_kolam_v1",
+      "target": "wiki_sources_fakta_v3",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/sources/fakta-v2.md",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_sources_fakta_v2",
+      "target": "wiki_concepts_bak_pemijahan_dan_sarana_kakaban_lele",
       "relation": "references",
       "_origin": "ast",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "wiki/sources/fakta-v2.md",
       "source_location": "L56",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_sources_fakta_v2",
+      "target": "wiki_sources_info_lapangan_konfigurasi_kolam_v1",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/sources/fakta-v2.md",
+      "source_location": "L57",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_sources_fakta_v3",
+      "target": "raw_fakta",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/sources/fakta-v3.md",
+      "source_location": "L27",
       "weight": 1.0
     },
     {
@@ -31373,6 +32148,17 @@
       "confidence_score": 1.0,
       "source_file": "wiki/sources/info-lapangan-konfigurasi-kolam-v1.md",
       "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_sources_info_lapangan_konfigurasi_kolam_v1",
+      "target": "wiki_sources_fakta_v3",
+      "relation": "references",
+      "_origin": "ast",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/sources/info-lapangan-konfigurasi-kolam-v1.md",
+      "source_location": "L56",
       "weight": 1.0
     },
     {
@@ -31535,5 +32321,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "485140aa9496ec1b0bb603773d41e0e446bb3bb2"
+  "built_at_commit": "1cc0b33baa14953795ab7577bad02d698374d7b6"
 }

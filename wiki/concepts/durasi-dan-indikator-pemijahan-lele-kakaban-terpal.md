@@ -4,8 +4,8 @@ type: concept
 title: Durasi dan indikator pemijahan lele — kakaban terpal
 aliases: [waktu kawin lele, timeline pemijahan kakaban, estimasi pijah]
 created: 2026-09-29
-updated: 2026-09-30
-revision: 3
+updated: 2026-10-01
+revision: 4
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -16,13 +16,15 @@ source_refs:
     version_id: v1
   - source_id: info-pemindahan-induk
     version_id: v1
+  - source_id: fakta
+    version_id: v3
 ---
 
 # Durasi dan indikator pemijahan lele — kakaban terpal
 
 ## Ringkasan
 
-Durasi dari tebar induk hingga telur terbuahi **tidak dapat dipatok absolut**; bergantung kondisi induk, hormon, suhu, dan air ([estimasi-waktu-kawin v1](../sources/estimasi-waktu-kawin-v1.md)). Keputusan operasional (termasuk angkat induk) mengacu **indikator visual selesai pijah**, bukan «X jam sejak induk dimasukkan».
+Durasi dari tebar induk hingga telur terbuahi **tidak dapat dipatok absolut**; bergantung kondisi induk, hormon, suhu, dan air ([estimasi-waktu-kawin v1](../sources/estimasi-waktu-kawin-v1.md)). Keputusan operasional (termasuk angkat induk) mengacu **indikator visual selesai pijah**, bukan «X jam sejak induk dimasukkan». **Lapangan (kalender hari):** pemijahan **Sabtu 26 September**; telur menetas **Minggu 27 September** ([Fakta v3](../sources/fakta-v3.md) — raw baris 5, 7)—tanpa jam.
 
 ## Penjelasan
 
@@ -72,6 +74,7 @@ Angkat induk: detail SOP **1–2 jam pasca selesai**, maks **<6 jam** → [Pemin
 
 - [Estimasi waktu kawin v1](../sources/estimasi-waktu-kawin-v1.md)
 - [Info pemindahan induk v1](../sources/info-pemindahan-induk-v1.md) — indikator & batas angkat
+- [Fakta v3](../sources/fakta-v3.md) — kalender 26–27 September
 
 ## Hubungan
 
@@ -87,3 +90,4 @@ Angkat induk: detail SOP **1–2 jam pasca selesai**, maks **<6 jam** → [Pemin
 ## Pertanyaan terbuka
 
 - Apakah wiki menetapkan satu frasa SOP resmi untuk titik acuan «1–2 jam».
+- Jam mulai/selesai pijah pada 26 September tidak tercatat.

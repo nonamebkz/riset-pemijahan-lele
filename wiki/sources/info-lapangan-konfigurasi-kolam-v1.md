@@ -5,7 +5,7 @@ title: Info lapangan — konfigurasi kolam pembenihan
 aliases: [ukuran kolam lapangan, inventaris kolam terpal]
 created: 2026-09-30
 updated: 2026-10-01
-revision: 3
+revision: 4
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -53,5 +53,6 @@ Inventaris kolam terpal di lapangan pengguna: **1** kolam pemijahan (**pijah**) 
 - [Konfigurasi kolam pembenihan — lapangan](../concepts/konfigurasi-kolam-pembenihan-lapangan.md)
 - [Bak pemijahan dan sarana kakaban lele](../concepts/bak-pemijahan-dan-sarana-kakaban-lele.md)
 - [Layout aerasi pembenihan lele](../concepts/layout-aerasi-pembenihan-lele.md)
-- [Fakta v2](fakta-v2.md) (1,5×3 m; kakaban paranet)
+- [Fakta v3](fakta-v3.md) (1,5×3 m; paranet; tinggi air; kalender 26–27 September)
+- [Fakta v2](fakta-v2.md) (cuplikan 3 baris; replaced)
 - [Fakta v1](fakta-v1.md) (cuplikan diganti; pernah 1x3)

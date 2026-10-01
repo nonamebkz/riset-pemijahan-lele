@@ -5,7 +5,7 @@ title: Bak pemijahan dan sarana kakaban lele
 aliases: [kolam pemijahan 2x3, kakaban ijuk]
 created: 2026-09-29
 updated: 2026-10-01
-revision: 6
+revision: 8
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -19,14 +19,14 @@ source_refs:
   - source_id: info-lapangan-konfigurasi-kolam
     version_id: v1
   - source_id: fakta
-    version_id: v2
+    version_id: v3
 ---
 
 # Bak pemijahan dan sarana kakaban lele
 
 ## Ringkasan
 
-Bak pemijahan skala kecil (contoh 2×3 m / 3×4 m) dengan air 30–50 cm; catatan spesifikasi kakaban memakai **ijuk atau serat sintetis**. **Lapangan (2026-10-01):** kakaban **paranet** ([Fakta v2](../sources/fakta-v2.md) — raw baris 3). Ukuran lembar ijuk antar raw tetap unresolved.
+Bak pemijahan skala kecil (contoh **2×3 m** / **3×4 m**); kedalaman bak **80–100 cm**; air pemijahan **30–50 cm**. Kakaban spesifikasi: **ijuk atau serat sintetis**. Ukuran lembar ijuk antar raw belum diselesaikan. Rujukan lapangan (bukan SOP halaman ini): kakaban **paranet**; tinggi air **15~20** (satuan tidak di raw) — [Konfigurasi kolam pembenihan — lapangan](konfigurasi-kolam-pembenihan-lapangan.md).
 
 ## Penjelasan
 
@@ -34,12 +34,6 @@ Bak pemijahan skala kecil (contoh 2×3 m / 3×4 m) dengan air 30–50 cm; catata
 
 - Material: tembok, terpal, atau fiber ([Spesifikasi pemijahan lele v1](../sources/spesifikasi-pemijahan-lele-v1.md) — raw baris 9–12).
 - Ukuran contoh: **2×3 m** atau **3×4 m**; kedalaman bak **80–100 cm**; air pemijahan **30–50 cm**.
-
-**Lapangan pengguna:** **1** kolam pijah **2×3 m** ([Info lapangan konfigurasi kolam v1](../sources/info-lapangan-konfigurasi-kolam-v1.md); [Fakta v2](../sources/fakta-v2.md) baris 1). Telur/larva di tiga kolam **1,5×3 m** — [Konfigurasi kolam pembenihan — lapangan](konfigurasi-kolam-pembenihan-lapangan.md).
-
-**Kakaban — praktik lapangan**
-
-«Sekarang kakaban menggunakan **paranet**» ([Fakta v2](../sources/fakta-v2.md) — raw baris 3). Tidak ada ukuran lembar, jumlah, atau cara ikat di sumber itu. Ini **keadaan terpakai**, bukan pengganti otomatis spesifikasi ijuk di bawah.
 
 **Kakaban — spesifikasi detail** ([spesifikasi-kakaban v1](../sources/spesifikasi-kakaban-v1.md))
 
@@ -54,14 +48,20 @@ Bak pemijahan skala kecil (contoh 2×3 m / 3×4 m) dengan air 30–50 cm; catata
 
 **Ukuran singkat di spesifikasi pemijahan:** **20–30 cm × 40–60 cm** ([Spesifikasi pemijahan lele v1](../sources/spesifikasi-pemijahan-lele-v1.md) — raw baris 26)—**tidak sama** dengan dimensi cm di spesifikasi-kakaban; belum diselesaikan (mungkin satuan/interpretasi berbeda).
 
+**Rujukan lapangan** (bukan pengganti spesifikasi)
+
+- Tapak: **1** kolam pijah **2×3 m** ([Info lapangan konfigurasi kolam v1](../sources/info-lapangan-konfigurasi-kolam-v1.md); [Fakta v3](../sources/fakta-v3.md) baris 1). Inventaris lengkap → [Konfigurasi kolam pembenihan — lapangan](konfigurasi-kolam-pembenihan-lapangan.md).
+- Kakaban: «Sekarang kakaban menggunakan **paranet**» ([Fakta v3](../sources/fakta-v3.md) — raw baris 3). Tidak ada ukuran lembar, jumlah, atau cara ikat. **Keadaan terpakai**, bukan pengganti ijuk di atas.
+- Tinggi air: **15~20** (satuan tidak di raw) ([Fakta v3](../sources/fakta-v3.md) — raw baris 4)—lihat pertentangan.
+
 Setelah telur menempel → [Penetasan telur lele](penetasan-telur-lele-praktik-kolam-terpal.md). Layout aerasi → [Layout aerasi pembenihan lele](layout-aerasi-pembenihan-lele.md).
 
 ## Bukti dan sumber
 
 - [Spesifikasi pemijahan lele v1](../sources/spesifikasi-pemijahan-lele-v1.md)
 - [Spesifikasi kakaban v1](../sources/spesifikasi-kakaban-v1.md)
-- [Info lapangan — konfigurasi kolam pembenihan v1](../sources/info-lapangan-konfigurasi-kolam-v1.md)
-- [Fakta v2](../sources/fakta-v2.md) (kakaban paranet)
+- [Info lapangan — konfigurasi kolam pembenihan v1](../sources/info-lapangan-konfigurasi-kolam-v1.md) — tapak 2×3 m
+- [Fakta v3](../sources/fakta-v3.md) — kakaban paranet; tinggi air 15~20
 
 ## Hubungan
 
@@ -72,8 +72,9 @@ Setelah telur menempel → [Penetasan telur lele](penetasan-telur-lele-praktik-k
 ## Pertentangan dan ketidakpastian
 
 - **Dimensi kakaban:** 20–30×40–60 cm (spesifikasi pemijahan) vs 60×30 / 100×40 / 120×40 cm (spesifikasi kakaban)—ukuran operasional tunggal belum ada.
-- **Bahan lapangan vs spesifikasi:** paranet (fakta) vs ijuk/sintetis (spesifikasi-kakaban)—dua lapisan: yang dipakai sekarang vs catatan teknis.
+- **Bahan lapangan vs spesifikasi:** paranet (fakta) vs ijuk/sintetis (spesifikasi-kakaban)—dua lapisan.
+- **Tinggi air:** lapangan **15~20** (satuan tidak di raw) vs air pemijahan spesifikasi **30–50 cm**—jangan disatukan sebelum satuan dan kolam dipastikan.
 
 ## Pertanyaan terbuka
 
-- Kedalaman air kolam pijah 2×3 m; ukuran/jumlah lembar paranet yang terpasang.
+- Satuan tinggi air 15~20; ukuran/jumlah lembar paranet yang terpasang.

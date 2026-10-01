@@ -4,8 +4,8 @@ type: concept
 title: Penetasan telur lele — praktik kolam terpal
 aliases: [aerasi telur lele, media telur lele, kakaban telur lele]
 created: 2026-09-29
-updated: 2026-09-30
-revision: 12
+updated: 2026-10-01
+revision: 13
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -42,13 +42,15 @@ source_refs:
     version_id: v1
   - source_id: methylene-blue
     version_id: v1
+  - source_id: fakta
+    version_id: v3
 ---
 
 # Penetasan telur lele — praktik kolam terpal
 
 ## Ringkasan
 
-Penetasan aman menekankan **air stabil**, **aerasi halus**, **telur tidak padat/menumpuk**, teduh, dan higiene telur mati. Bak penetasan ~**20–30 cm**; air endap **12–24 jam** sebelum dipakai ([saran-penetasan v1](../sources/saran-penetasan-telur-v1.md)).
+Penetasan aman menekankan **air stabil**, **aerasi halus**, **telur tidak padat/menumpuk**, teduh, dan higiene telur mati. Bak penetasan ~**20–30 cm**; air endap **12–24 jam** sebelum dipakai ([saran-penetasan v1](../sources/saran-penetasan-telur-v1.md)). **Lapangan:** pijah **Sabtu 26 September**; **Minggu 27 September** telur dipindah ke kolam larva dan menetas ([Fakta v3](../sources/fakta-v3.md) — raw baris 5–7).
 
 ## Penjelasan
 
@@ -62,7 +64,7 @@ Penetasan aman menekankan **air stabil**, **aerasi halus**, **telur tidak padat/
 - **Methylene blue** — [Methylene blue pada inkubasi telur lele](methylene-blue-pada-inkubasi-telur-lele.md). Ringkas: **2–5 ppm** ([Methylene blue v1](../sources/methylene-blue-v1.md)); **tidak** mempercepat menetas. Bentrok: [Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md) / [Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md) vs [Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md) vs [Deep research v1](../sources/deep-research-pemijahan-lele-v1.md).
 - **Lingkungan** — teduh; hindari matahari/hujan/getaran ([Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md) — raw baris 30–32).
 - **Kepadatan** — jangan terlalu tinggi agar O₂ cukup ([Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md) — raw baris 46).
-- **Waktu menetas** — **bukan** «dipaksa» jauh lebih cepat ([Cara cepat menetaskan telur v1](../sources/cara-cepat-menetaskan-telur-v1.md) — raw baris 1–7). **Rentang kolam terpal optimal:** **18–30 jam** @ **28–30 °C**; **36–48 jam** jika suhu rendah. Tabel suhu ([Cara cepat menetaskan telur v1](../sources/cara-cepat-menetaskan-telur-v1.md) — raw baris 16–21). **Sumber lain:** **20–30 jam** ([Spesifikasi pemijahan lele v1](../sources/spesifikasi-pemijahan-lele-v1.md), [Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md), [Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md)) vs **24–36 jam** ([Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md) — raw baris 15). **Usulan harmonisasi** [Deep research v1](../sources/deep-research-pemijahan-lele-v1.md): **24–30 h** (+36 h toleransi)—belum human-reviewed. **Literatur web:** [Hasil riset 3 v1](../sources/hasil-riset-3-v1.md). **Golden setting** ([Cara cepat menetaskan telur v1](../sources/cara-cepat-menetaskan-telur-v1.md) — raw baris 126–138): suhu **28–30**, DO **5–7**, pH **6,5–8** → **18–30 h**.
+- **Waktu menetas** — **bukan** «dipaksa» jauh lebih cepat ([Cara cepat menetaskan telur v1](../sources/cara-cepat-menetaskan-telur-v1.md) — raw baris 1–7). **Rentang kolam terpal optimal:** **18–30 jam** @ **28–30 °C**; **36–48 jam** jika suhu rendah. Tabel suhu ([Cara cepat menetaskan telur v1](../sources/cara-cepat-menetaskan-telur-v1.md) — raw baris 16–21). **Sumber lain:** **20–30 jam** ([Spesifikasi pemijahan lele v1](../sources/spesifikasi-pemijahan-lele-v1.md), [Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md), [Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md)) vs **24–36 jam** ([Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md) — raw baris 15). **Usulan harmonisasi** [Deep research v1](../sources/deep-research-pemijahan-lele-v1.md): **24–30 h** (+36 h toleransi)—belum human-reviewed. **Literatur web:** [Hasil riset 3 v1](../sources/hasil-riset-3-v1.md). **Golden setting** ([Cara cepat menetaskan telur v1](../sources/cara-cepat-menetaskan-telur-v1.md) — raw baris 126–138): suhu **28–30**, DO **5–7**, pH **6,5–8** → **18–30 h**. **Lapangan (kalender hari, bukan jam):** pijah 26 September, menetas 27 September ([Fakta v3](../sources/fakta-v3.md) — raw baris 5, 7)—tidak cukup untuk memilih satu rentang jam.
 - **Engineering wadah** — kedalaman **40 cm** + tray (studi) vs bak terpal **~20–30 cm**; debit aerasi/flow → [Unit inkubasi telur lele — engineering (sintesis web)](unit-inkubasi-telur-lele-engineering-sintesis-web.md).
 - **Pasca menetas** — kuning telur **2–3 hari**; lalu pakan halus → [Komposisi dan jadwal pakan larva lele](komposisi-dan-jadwal-pakan-larva-lele.md); buang cangkang/kotoran ([Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md) — raw baris 38–41).
 - **Ganti air** — sedikit rutin lebih baik daripada banyak sekaligus ([Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md) — raw baris 43–44; [Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md) — raw baris 13). **Desain terpal** [Aerasi kolam v1](../sources/aerasi-kolam-v1.md): fase telur **0–5%/hari** (0–2 h), **5–10%** (3–5 h) → [Layout aerasi pembenihan lele](layout-aerasi-pembenihan-lele.md).
@@ -78,6 +80,7 @@ Penetasan aman menekankan **air stabil**, **aerasi halus**, **telur tidak padat/
 - [Saran penetasan telur v1](../sources/saran-penetasan-telur-v1.md)
 - [Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md)
 - [Cara merawat kolam setelah pemijahan v1](../sources/cara-merawat-kolam-setelah-pemijahan-v1.md)
+- [Fakta v3](../sources/fakta-v3.md) (pindah + menetas 27 September)
 - [Membedakan telur v1](../sources/membedakan-telur-v1.md)
 - [Deep research pemijahan lele v1](../sources/deep-research-pemijahan-lele-v1.md)
 - [Hasil riset 2 v1](../sources/hasil-riset-2-v1.md)

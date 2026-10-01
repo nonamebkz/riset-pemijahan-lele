@@ -5,7 +5,7 @@ title: Budidaya Moina untuk pakan larva lele
 aliases: [kutu air Moina, kultur Moina larva lele]
 created: 2026-10-01
 updated: 2026-10-01
-revision: 5
+revision: 6
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -72,7 +72,7 @@ source_refs:
 - Mulai hari **~3** (kutu air + rencana 3 kolam) vs **2–7** / kuning telur **2–3 hari** (sumber komposisi nutrisi & penetasan wiki).
 - File raw gabungan; angka Daphnia vs Moina tidak interchangeable tanpa verifikasi.
 - Jumlah wadah: **2–3** (kutu air) vs **3–4** / saran **4×500 L** (rencana 3 kolam)—skala berbeda, bukan otomatis salah satu.
-- Buffer 1.500–2.000 L mengacu tapak kolam **1,5×3 m**, selaras [Fakta v2](../sources/fakta-v2.md); kedalaman tetap saran.
+- Buffer 1.500–2.000 L mengacu tapak kolam **1,5×3 m**, selaras [Fakta v3](../sources/fakta-v3.md); tinggi air lapangan **15~20** (satuan tidak di raw) vs saran 25–30 cm — volume kolam aktual belum dihitung.
 
 ## Pertanyaan terbuka
 

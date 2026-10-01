@@ -4,8 +4,8 @@ type: concept
 title: Pemindahan induk pasca pemijahan — kakaban terpal
 aliases: [angkat induk, waktu angkat induk]
 created: 2026-09-29
-updated: 2026-09-30
-revision: 3
+updated: 2026-10-01
+revision: 4
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -22,6 +22,8 @@ source_refs:
     version_id: v1
   - source_id: spesifikasi-pemijahan-lele
     version_id: v1
+  - source_id: fakta
+    version_id: v3
 ---
 
 # Pemindahan induk pasca pemijahan — kakaban terpal
@@ -66,6 +68,8 @@ Setelah pemijahan di **kolam terpal + kakaban**, angkat jantan & betina **segera
 - Bila pindah ke bak penetasan: **perlahan**; suhu/pH mendekati air pemijahan ([Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md) — raw baris 3–4).
 - Pindahkan kakaban ke bak penetasan **20–30 cm** setelah telur menempel ([Spesifikasi pemijahan lele v1](../sources/spesifikasi-pemijahan-lele-v1.md) — raw baris 39–40). Urutan checklist: [Alur pasca pemijahan lele](alur-pasca-pemijahan-lele.md) langkah 3.
 
+**Lapangan:** telur **dipindah ke kolam larva** Minggu 27 September, sehari setelah pemijahan Sabtu 26 September ([Fakta v3](../sources/fakta-v3.md) — raw baris 5–6). Cara pindah (kakaban utuh vs lain) dan jam angkat induk tidak dirinci.
+
 ## Bukti dan sumber
 
 - [Info pemindahan induk v1](../sources/info-pemindahan-induk-v1.md)
@@ -73,6 +77,7 @@ Setelah pemijahan di **kolam terpal + kakaban**, angkat jantan & betina **segera
 - [Pasca pemijahan v1](../sources/pasca-pemijahan-v1.md)
 - [Cara merawat telur lele v1](../sources/cara-merawat-telur-lele-v1.md)
 - [Spesifikasi pemijahan lele v1](../sources/spesifikasi-pemijahan-lele-v1.md)
+- [Fakta v3](../sources/fakta-v3.md)
 
 ## Hubungan
 
@@ -88,4 +93,4 @@ Setelah pemijahan di **kolam terpal + kakaban**, angkat jantan & betina **segera
 
 ## Pertanyaan terbuka
 
-- Apakah telur tetap di kolam pemijahan yang sama vs dipindah kakaban ke bak penetasan terpisah setelah angkat induk.
+- Jam angkat induk pada kejadian 26–27 September; cara pindah telur (kakaban utuh vs lain).
