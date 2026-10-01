@@ -175,3 +175,10 @@
 - **Hasil:** 1 sumber [Cara budidaya casut v1](sources/cara-budidaya-casut-v1.md); konsep [Budidaya cacing sutra untuk pemula](concepts/budidaya-cacing-sutra-pemula.md); [Komposisi dan jadwal pakan larva lele](concepts/komposisi-dan-jadwal-pakan-larva-lele.md) rev 5
 - **Validasi:** baca raw 17 baris; hash SHA-256; tautan indeks/registri; raw tidak diubah
 - **Sisa:** verifikasi taksonomi casut vs *Tubifex*; target produksi untuk 3 kolam larva
+
+## 2026-10-01 — job-20261001-ingest-021
+
+- **Jenis:** ingest (4 sumber baru pakan hidup / Moina)
+- **Hasil:** sumber budidaya-kutu-air, budidaya-plankton, rendaman-dedak, fermentasi-EM4 v1; konsep Moina, air hijau, rendaman, fermentasi EM4; komposisi pakan larva rev 6
+- **Validasi:** baca raw penuh (322+84+85+79 baris); hash; indeks/registri; raw tidak diubah
+- **Sisa:** harmonisasi hari mulai Moina (~3) vs artemia/cacing (2–7); kapasitas wadah untuk 3 kolam larva

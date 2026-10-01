@@ -388,3 +388,56 @@
 - **Halaman wiki:** [cara-budidaya-casut-v1.md](../wiki/sources/cara-budidaya-casut-v1.md)
 - **job_id terakhir:** job-20260930-ingest-020
 - **Kendala terbuka:** spesies casut vs kutipan *Tubifex*; produksi kuantitatif tidak di raw
+
+## budidaya-kutu-air
+
+### v1
+
+- **Judul:** Budidaya kutu air (Moina) untuk pakan larva lele (catatan raw)
+- **Lokasi lokal:** `raw/budidaya-kutu-air.md`
+- **Hash:** SHA-256 `7593f47697f4d3578f1a1d8cdd57e191b8291d0f8a97d73cee9d63146b7d8c11`
+- **processing_status:** complete
+- **extraction_scope:** full
+- **Ketersediaan:** available
+- **Halaman wiki:** [budidaya-kutu-air-v1.md](../wiki/sources/budidaya-kutu-air-v1.md)
+- **job_id terakhir:** job-20261001-ingest-021
+- **Kendala terbuka:** file raw gabungan; timing hari 3 vs wiki 2–7
+
+## budidaya-plankton
+
+### v1
+
+- **Judul:** Budidaya air hijau (fitoplankton) untuk Moina (catatan raw)
+- **Lokasi lokal:** `raw/budidaya-plankton.md`
+- **Hash:** SHA-256 `d6929340fe7be32c18df0c631facb7ae7469851db5dbf8fb0f804128d281f944`
+- **processing_status:** complete
+- **extraction_scope:** full
+- **Ketersediaan:** available
+- **Halaman wiki:** [budidaya-plankton-v1.md](../wiki/sources/budidaya-plankton-v1.md)
+- **job_id terakhir:** job-20261001-ingest-021
+
+## cara-membuat-rendaman-dedak
+
+### v1
+
+- **Judul:** Rendaman dedak untuk kultur Moina (catatan raw)
+- **Lokasi lokal:** `raw/cara-membuat-rendaman-dedak.md`
+- **Hash:** SHA-256 `8b02ac5588b29bbf8ff08c90099ac4b65db41244fa68242c3eebf59136e5a867`
+- **processing_status:** complete
+- **extraction_scope:** full
+- **Ketersediaan:** available
+- **Halaman wiki:** [cara-membuat-rendaman-dedak-v1.md](../wiki/sources/cara-membuat-rendaman-dedak-v1.md)
+- **job_id terakhir:** job-20261001-ingest-021
+
+## cara-membuat-fermentasi-dengan-em4
+
+### v1
+
+- **Judul:** Fermentasi dedak dengan EM4 untuk kultur Moina (catatan raw)
+- **Lokasi lokal:** `raw/cara-membuat-fermentasi-dengan-em4.md`
+- **Hash:** SHA-256 `cbb83736109a3f81cfbe1cf65b34bcc8b00bca522eba229409905e5137098a70`
+- **processing_status:** complete
+- **extraction_scope:** full
+- **Ketersediaan:** available
+- **Halaman wiki:** [cara-membuat-fermentasi-dengan-em4-v1.md](../wiki/sources/cara-membuat-fermentasi-dengan-em4-v1.md)
+- **job_id terakhir:** job-20261001-ingest-021

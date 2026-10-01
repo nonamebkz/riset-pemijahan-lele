@@ -12,6 +12,10 @@
 - [Agar kolam tidak memiliki jentik nyamuk](sources/agar-kolam-tidak-memilii-jentik-nyamuk-v1.md) — aerasi, tutup kolam, higiene; tanpa insektisida.
 - [Komposisi pakan larva lele](sources/komposisi-pakan-larva-lele-v1.md) — nutrisi per umur larva dan contoh racikan.
 - [Cara budidaya casut](sources/cara-budidaya-casut-v1.md) — baki berlumpur, aliran pelan, panen sebagian; aerator opsional.
+- [Budidaya kutu air (Moina)](sources/budidaya-kutu-air-v1.md) — kultur terpisah, pakan larva ~hari 3–15; dosis pupuk & crash plankton.
+- [Budidaya air hijau](sources/budidaya-plankton-v1.md) — fitoplankton organik/anorganik untuk rantai Moina.
+- [Rendaman dedak](sources/cara-membuat-rendaman-dedak-v1.md) — supernatan 12–24 h; dosis ke kolam kultur.
+- [Fermentasi dedak EM4](sources/cara-membuat-fermentasi-dengan-em4-v1.md) — batch 1 kg dedak; ekstrak air untuk Moina.
 - [Saran penetasan telur](sources/saran-penetasan-telur-v1.md) — bak penetasan, jamur, waktu menetas, pasca menetas.
 - [Cara cepat menetaskan telur](sources/cara-cepat-menetaskan-telur-v1.md) — suhu vs waktu, golden setting 18–30 h, inkubasi terpisah.
 - [Methylene blue pada penetasan](sources/methylene-blue-v1.md) — 2–5 ppm, antijamur, bukan percepat menetas.
@@ -49,7 +53,11 @@
 - [Layout aerasi pembenihan lele](concepts/layout-aerasi-pembenihan-lele.md) — posisi aerasi + inventaris kolam lapangan (rev 7).
 - [Kalibrasi DO dan blower pembenihan lele](concepts/kalibrasi-do-dan-blower-pembenihan-lele.md) — lapangan DO vs arus telur.
 - [Unit inkubasi telur lele — engineering (sintesis web)](concepts/unit-inkubasi-telur-lele-engineering-sintesis-web.md) — trough, tray, DO, cautions agitasi.
-- [Komposisi dan jadwal pakan larva lele](concepts/komposisi-dan-jadwal-pakan-larva-lele.md) — fase 0–2 hari hingga 14+ hari; frekuensi pemberian (rev 5 + pasokan casut).
+- [Komposisi dan jadwal pakan larva lele](concepts/komposisi-dan-jadwal-pakan-larva-lele.md) — fase 0–2 hari hingga 14+ hari; casut & Moina (rev 6).
+- [Budidaya Moina untuk pakan larva lele](concepts/budidaya-moina-pakan-larva-lele.md) — wadah terpisah, bilas panen, rotasi 2–3 unit.
+- [Air hijau untuk kultur Moina](concepts/air-hijau-fitoplankton-kultur-moina.md) — pupuk kantong, target hijau muda, hindari crash.
+- [Rendaman dedak untuk kultur Moina](concepts/rendaman-dedak-kultur-moina.md) — supernatan; dosis konservatif per volume.
+- [Fermentasi dedak EM4 untuk kultur Moina](concepts/fermentasi-dedak-em4-kultur-moina.md) — ekstrak tersaring; bukan tabur padat.
 - [Budidaya cacing sutra untuk pemula](concepts/budidaya-cacing-sutra-pemula.md) — wadah berlumpur, bibit, pakan fermentasi, aliran vs aerator (uncertain).
 - [Pakan alternatif lele — sintesis riset](concepts/pakan-alternatif-lele-sintesis-riset.md) — BSF 66%, pasta 1,2 mm, gap rucah/rebon/cacing.
 - [Pencegahan jentik nyamuk di kolam larva](concepts/pencegahan-jentik-nyamuk-kolam-larva.md) — aerasi permukaan, penutup, larangan insektisida.

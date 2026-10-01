@@ -4,8 +4,8 @@ type: concept
 title: Komposisi dan jadwal pakan larva lele
 aliases: [feeding schedule larva, artemia larva lele]
 created: 2026-09-29
-updated: 2026-09-30
-revision: 5
+updated: 2026-10-01
+revision: 6
 review_status: unreviewed
 reviewed_revision: null
 reviewed_at: null
@@ -25,6 +25,8 @@ source_refs:
   - source_id: pakan-alternative
     version_id: v1
   - source_id: cara-budidaya-casut
+    version_id: v1
+  - source_id: budidaya-kutu-air
     version_id: v1
 ---
 
@@ -53,6 +55,10 @@ Kebutuhan pakan larva berubah cepat menurut umur. Sumber komposisi merinci targe
 
 Rekomendasi pakan hidup di fase **2–7 hari** (tabel atas) mengasumsikan casut/artemia tersedia. Prosedur **budidaya pemula** di baki berlumpur + aliran air pelan—tanpa angka produksi—ada di [Budidaya cacing sutra untuk pemula](budidaya-cacing-sutra-pemula.md) ([Cara budidaya casut v1](../sources/cara-budidaya-casut-v1.md)).
 
+### Moina / kutu air (pakan hidup alternatif)
+
+Sumber budidaya kutu air menempatkan pemberian **Moina** ke larva sekitar **hari ke-3–15**, kultur **terpisah** dari kolam larva, panen **bilas** ([Budidaya kutu air v1](../sources/budidaya-kutu-air-v1.md)). Rantai produksi: [Air hijau](air-hijau-fitoplankton-kultur-moina.md) → [Budidaya Moina](budidaya-moina-pakan-larva-lele.md); nutrisi [rendaman dedak](rendaman-dedak-kultur-moina.md) atau [fermentasi EM4](fermentasi-dedak-em4-kultur-moina.md). **Uncertain:** hari mulai vs baris «2–7 hari artemia/cacing» di tabel atas—rencanakan kebijakan sendiri.
+
 **Kanibalisme ([Deep research pemijahan lele v1](../sources/deep-research-pemijahan-lele-v1.md) — raw §13 / baris terkait kanibalisme):** keterlambatan pakan awal meningkatkan kanibalisme; satu referensi dalam dokumen menekankan pakan sekitar **36 jam setelah menetas**—beda framing dengan «2–3 hari kuning telur»; rencanakan pakan hidup/halus, kepadatan, dan frekuensi sebelum menetas.
 
 ### Alternatif berbasis sintesis riset (uncertain)
@@ -70,10 +76,12 @@ Ringkasan [pakan-alternative v1](../sources/pakan-alternative-v1.md)—detail di
 - [Deep research pemijahan lele v1](../sources/deep-research-pemijahan-lele-v1.md) (kanibalisme / ~36 jam)
 - [Pakan alternatif v1](../sources/pakan-alternative-v1.md) (BSF, fermentasi — uncertain)
 - [Cara budidaya casut v1](../sources/cara-budidaya-casut-v1.md) (produksi casut pemula — uncertain taksonomi/aliran)
+- [Budidaya kutu air v1](../sources/budidaya-kutu-air-v1.md) (Moina hari ~3–15 — uncertain vs tabel 2–7 h)
 
 ## Hubungan
 
 - [Budidaya cacing sutra untuk pemula](budidaya-cacing-sutra-pemula.md)
+- [Budidaya Moina untuk pakan larva lele](budidaya-moina-pakan-larva-lele.md)
 - [Pakan alternatif lele — sintesis riset](pakan-alternatif-lele-sintesis-riset.md)
 - [Penetasan telur lele — praktik kolam terpal](penetasan-telur-lele-praktik-kolam-terpal.md)
 - [Pencegahan jentik nyamuk di kolam larva](pencegahan-jentik-nyamuk-kolam-larva.md)
