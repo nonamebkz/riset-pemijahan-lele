@@ -12,6 +12,7 @@ Bahasa kerja: **Indonesia**. Laporkan singkat sesuai AGENTS.md.
 2. `rules/schema.md`
 3. Prosedur wiki di `skills/` sesuai tugas: `ingest.md` | `query.md` | `maintain.md`
 4. Periksa `state/jobs/` untuk pekerjaan partial/blocked sebelum menulis
+5. Pemeriksaan mekanis: `python3 tools/wiki_check.py` — jangan menulis skrip hash/tautan sekali pakai
 
 ## Skill Cursor proyek
 - Ingest / `raw/`: gunakan skill `llm-wiki-ingest` dan baca `skills/ingest.md`

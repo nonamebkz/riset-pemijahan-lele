@@ -24,7 +24,7 @@ Setelah init, lanjut ke §1.
 ## 1. Identifikasi
 - Baca registri, indeks, dan pekerjaan belum selesai.
 - Periksa identitas karya, versi, nama lain, dan keterbacaan.
-- Hitung hash hanya jika alat tersedia; jika tidak, bandingkan isi yang dapat dibaca dan catat metodenya.
+- Jalankan `python3 tools/wiki_check.py raw` (dan `hash raw/<berkas>` untuk sumber yang diolah). Jangan menulis skrip hash/tautan sekali pakai. Jika alat tidak bisa dijalankan, bandingkan isi yang dapat dibaca dan catat metodenya.
 - Sumber identik yang sudah complete dan tidak memiliki integrasi tertunda tidak perlu ditulis ulang. Laporkan dilewati.
 - Jika ada pekerjaan partial untuk versi ini, lanjutkan pekerjaan itu setelah memeriksa file aktual. Jangan membuat pekerjaan duplikat.
 - Versi berbeda menggunakan version_id baru. Bila identitas belum pasti, tandai dugaan duplikat sebelum menggabungkan.
@@ -50,7 +50,7 @@ Setelah init, lanjut ke §1.
 Periksa seluruh halaman yang berubah:
 - Sumber dan versi benar; kutipan/lokasi bukti tidak dikarang.
 - Klaim didukung atau diberi label ketidakpastian/sintesis.
-- Tautan lokal valid dan halaman tercantum di indeks.
+- Tautan lokal valid dan halaman tercantum di indeks — jalankan `python3 tools/wiki_check.py validate` dan catat keluaran.
 - Metadata, alias, status, dan revisi konsisten.
 - Halaman terkait benar-benar telah dipertimbangkan.
 - Raw tidak berubah, sejauh dapat diperiksa dengan sarana tersedia.

@@ -14,6 +14,7 @@ Jangan menafsirkan persetujuan audit sebagai persetujuan semua perbaikan.
 Tentukan cakupan halaman dan jenis pemeriksaan. Periksa pekerjaan belum selesai. Jika akan menulis, buat job dengan keadaan awal dan izin. Jangan mengubah job aktif milik penulis lain tanpa koordinasi.
 
 ## Pemeriksaan struktur
+Jalankan `python3 tools/wiki_check.py` (atau `validate` / `pages` / `raw` / `jobs` sesuai cakupan). Jangan menulis skrip pemeriksa sekali pakai.
 - Cocokkan berkas wiki dengan indeks; temukan halaman hilang atau tidak terdaftar.
 - Periksa tautan lokal beserta penanda bagian bila dapat dilakukan. Bedakan tautan luar yang belum diperiksa dari tautan yang terbukti rusak.
 - Cari konsep/analisis tanpa tautan masuk bermakna dari halaman lain; tautan indeks saja belum cukup.

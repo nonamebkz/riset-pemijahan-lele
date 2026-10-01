@@ -23,11 +23,12 @@ Tempatkan berkas unduhan sebagai berikut:
 - `state/jobs/`: catatan pekerjaan dan pemulihan.
 - `.cursor/rules/`: aturan Cursor (otomatis di sesi chat proyek ini).
 - `.cursor/skills/`: skill Cursor (router ke prosedur di `skills/`).
+- `tools/wiki_check.py`: pemeriksa mekanis (hash raw, tautan, indeks, job); hanya baca.
 
 Prosedur wiki ada di `skills/*.md` (Markdown biasa). Skill Cursor di `.cursor/skills/` hanya memicu alur baca dan eksekusi; jangan menduplikasi isi prosedur panjang di skill.
 
 ## Integrasi Cursor
-- **Rules** (`.cursor/rules/llm-wiki-*.mdc`): batas wajib dan urutan baca; aktif otomatis.
+- **Rules** (`.cursor/rules/llm-wiki-*.mdc`): batas wajib, urutan baca, dan pemakaian `tools/wiki_check.py`.
 - **Skill utama ingest** (`.cursor/skills/llm-wiki-ingest/`): dipicu saat memproses `raw/` atau prompt ingest berulang.
 - **Skill query** (`.cursor/skills/llm-wiki-query/`): jawaban dari wiki.
 - **Skill maintain** (`.cursor/skills/llm-wiki-maintain/`): audit dan perawatan wiki.

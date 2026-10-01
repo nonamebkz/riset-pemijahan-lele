@@ -14,6 +14,7 @@ disable-model-invocation: true
 1. Rules core + baca `AGENTS.md` → `rules/schema.md` → `skills/maintain.md`
 2. Tentukan mode: audit | audit hanya-baca | perbaikan (izin AGENTS.md)
 3. Ikuti pemeriksaan dan perbaikan di `skills/maintain.md`
+4. Pemeriksaan mekanis: `python3 tools/wiki_check.py` (bukan skrip sekali pakai)
 
 ## Contoh prompt
 

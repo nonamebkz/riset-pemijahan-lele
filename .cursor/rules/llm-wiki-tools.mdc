@@ -1,0 +1,22 @@
+---
+description: Pakai tools/wiki_check.py; jangan menulis ulang skrip validasi wiki
+alwaysApply: true
+---
+
+# LLM Wiki — alat pemeriksa
+
+Jangan menulis `python3 << 'PY'` atau `hashlib` sekali pakai untuk tautan, indeks, hash `raw/`, atau job. Pakai skrip proyek (hanya baca; **tidak** menulis `raw/`).
+
+```bash
+python3 tools/wiki_check.py raw              # ingest §1: hash vs registri, berkas baru
+python3 tools/wiki_check.py hash raw/FILE.md # SHA-256 satu berkas
+python3 tools/wiki_check.py validate         # ingest §4: tautan + indeks
+python3 tools/wiki_check.py pages            # maintain: frontmatter, id, yatim
+python3 tools/wiki_check.py jobs             # job belum complete
+python3 tools/wiki_check.py                  # semua di atas
+```
+
+Catat keluaran nyata ke job. Perbaiki skrip ini jika cek baru dipakai berulang; jangan menempel skrip baru di chat.
+
+❌ `python3 -c "import hashlib; print(...)"` untuk `raw/`
+✅ `python3 tools/wiki_check.py hash raw/fakta.md`

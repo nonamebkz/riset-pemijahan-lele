@@ -19,7 +19,8 @@ Baca AGENTS.md, rules/schema.md, dan skills/ingest.md. Inisialisasi struktur yan
 1. **Rules** `.cursor/rules/llm-wiki-*.mdc` sudah aktif (core always-on; editing/raw saat berkas terkait).
 2. **Baca** `AGENTS.md` → `rules/schema.md` → `skills/ingest.md`.
 3. **Jalankan** `skills/ingest.md` §0 Inisialisasi, lalu §1–§5.
-4. **Alihkan** bila perlu:
+4. **Alat:** `python3 tools/wiki_check.py raw` (§1) dan `validate` (§4); jangan skrip sekali pakai.
+5. **Alihkan** bila perlu:
    - pertanyaan tentang isi wiki → skill `llm-wiki-query` + `skills/query.md`
    - audit/tautan/registri → skill `llm-wiki-maintain` + `skills/maintain.md`
 
